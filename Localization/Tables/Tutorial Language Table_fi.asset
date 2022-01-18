@@ -1,0 +1,182 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: Tutorial Language Table_fi
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: fi
+  m_SharedData: {fileID: 11400000, guid: 4956535b2779b0f4d8538f269b2c05b7, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 26051784704
+    m_Localized: Pelaa opetusohjelma ??
+    m_Metadata:
+      m_Items: []
+  - m_Id: 147413970944
+    m_Localized: Joo
+    m_Metadata:
+      m_Items: []
+  - m_Id: 194444701696
+    m_Localized: Ei
+    m_Metadata:
+      m_Items: []
+  - m_Id: 576801648640
+    m_Localized: 'Koko (tarkkuus) -asetus.
+
+      Napsauta punaista kuutiota numerolla
+      5.'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066268536832
+    m_Localized: 'Tausta -asetus.
+
+      Valitse vaaleanpunainen - taivas.'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1303389319168
+    m_Localized: "Asetus valmis.\r\nTee ymp\xE4rist\xF6 napsauttamalla OK (vihre\xE4
+      valintamerkki) -painiketta."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1808882642944
+    m_Localized: "Alustavat ymp\xE4rist\xF6asetukset on tehty.\r\nTehd\xE4\xE4n ensin
+      kuutio.\r\nAvaa tiililista."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2416754733056
+    m_Localized: "T\xE4\xE4lt\xE4 voit valita tiilet.\r\nValitse toistaiseksi kuutio."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2654093619200
+    m_Localized: 'Kuutio valittiin.
+
+      Sulje tiililista.'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3077634437120
+    m_Localized: "Voit muuttaa lavan tiilen v\xE4ri\xE4.\r\nValitse v\xE4ri kuormalavalta."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4821286301696
+    m_Localized: "Voit my\xF6s muuttaa lavan v\xE4ri\xE4.\r\nAvaa v\xE4rinvalitsin."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5171468742656
+    m_Localized: "Voit vaihtaa v\xE4ri\xE4 t\xE4\xE4ll\xE4.\r\nNapsauta toistaiseksi
+      vain OK."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5773397504000
+    m_Localized: "K\xE4yt\xE4mme joysticki\xE4. Napsauta ohjaussauvan punaista osaa\r\njoten
+      kohdistin voi liikkua punaiseen suuntaan. "
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5774936813568
+    m_Localized: "Yrit\xE4 napsauttaa muita ohjaussauvan ohjeita.\r\nJos jatkat painamista,
+      kohdistin liikkuu jatkuvasti."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6947211227136
+    m_Localized: "Laita tiili\xE4 n\xE4ihin 3 kohtaan.\r\nSiirr\xE4 kohdistinta ohjaussauvalla,\r\nja
+      paina PUT -painiketta. "
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7439479910400
+    m_Localized: "Poista kaikki tiilet.\r\nSiirr\xE4 kohdistinta ohjaussauvalla,\r\nja
+      paina DEL -painiketta."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7681705160704
+    m_Localized: 'Tallennetaan tietosi.
+
+      Napsauta Tallenna -painiketta. '
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8048719343616
+    m_Localized: 'Kirjoita tiedoston nimi,
+
+      Tallenna napsauttamalla OK.'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8486747287552
+    m_Localized: "Tarkistetaan, ett\xE4 tiedosto tallennettiin onnistuneesti.\r\nNapsauta
+      Avaa -painiketta. "
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8930898915328
+    m_Localized: "Hyv\xE4. tiedosto tallennettiin onnistuneesti.\r\nSulje avoin tiedostoikkuna
+      napsauttamalla X -painiketta."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9406793035776
+    m_Localized: "Hyvin tehty !\r\nOpetusohjelma on valmis.\r\nSuosittelen, ett\xE4
+      tallennat tiedoston s\xE4\xE4nn\xF6llisesti pelin aikana!\r\nNapauta t\xE4hti\xE4
+      uuden pelin luomiseksi. "
+    m_Metadata:
+      m_Items: []
+  - m_Id: 65556582412288
+    m_Localized: "Jos et tallentanut nykyist\xE4 mallia,\r\nSuunnittelutietosi menetet\xE4\xE4n.\r\nJatkaa?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1405082433138688
+    m_Localized: Seuraava
+    m_Metadata:
+      m_Items: []
+  - m_Id: 83909850083328
+    m_Localized: Joo
+    m_Metadata:
+      m_Items: []
+  - m_Id: 84866541465600
+    m_Localized: Ei
+    m_Metadata:
+      m_Items: []
+  - m_Id: 93791768719360
+    m_Localized: Tallennettu!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1405254382825472
+    m_Localized: "K\xE4yt\xE4mme joysticki\xE4.\r\nVoit siirt\xE4\xE4 kohdistinta\r\nvet\xE4m\xE4ll\xE4,
+      napsauttamalla ja painamalla ohjainta."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1485501937659904
+    m_Localized: "Ensinn\xE4kin vet\xE4m\xE4ll\xE4 ohjaussauvaa.\r\nVed\xE4 ohjaussauvan
+      keski\xF6t\xE4\r\npunaisiin, sinisiin ja vihreisiin nuoliin"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1485706397396992
+    m_Localized: "Hyv\xE4. Voit muuttaa liikkumisnopeutta\r\nasetuksista my\xF6hemmin."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1485907942092800
+    m_Localized: "Ohjaussauva toinen. Napsauttamalla ohjaussauvaa.\r\n\r\nNapsauta
+      nuolia ja siirr\xE4 kohdistinta."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1486258590101504
+    m_Localized: "Ohjaussauva kolmas, ohjaussauvan painaminen.\r\n\r\nPid\xE4 nuolia
+      painettuna, jotta kohdistin voi liikkua."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1486484042330112
+    m_Localized: "Hyv\xE4.\r\n\r\nNyt laitetaan ja poistetaan tiili."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1486485241901056
+    m_Localized: "Hyv\xE4.\r\nJos liikutat ohjaussauvaa samalla, kun pid\xE4t PUT
+      -painiketta painettuna, tiili asetetaan edelleen.\r\nPoista -painike toimii
+      my\xF6s samalla tavalla."
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 1

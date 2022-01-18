@@ -1,0 +1,177 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: Tutorial Language Table_sk
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: sk
+  m_SharedData: {fileID: 11400000, guid: 4956535b2779b0f4d8538f269b2c05b7, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 26051784704
+    m_Localized: "Hra\u0165 n\xE1vod ??"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 147413970944
+    m_Localized: "\xC1no"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 194444701696
+    m_Localized: Nie
+    m_Metadata:
+      m_Items: []
+  - m_Id: 576801648640
+    m_Localized: "Nastavenie ve\u013Ekosti (rozl\xED\u0161enie).\r\nKliknite na \u010Derven\xFA
+      kocku s \u010D\xEDslom 5."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066268536832
+    m_Localized: "Nastavenie pozadia.\r\nVyberte ru\u017Eov\xFA - oblohu. "
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1303389319168
+    m_Localized: "Nastavenie je dokon\u010Den\xE9.\r\nKliknut\xEDm na tla\u010Didlo
+      OK (zelen\xE1 kontrola) vytvor\xEDte prostredie. "
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1808882642944
+    m_Localized: "Po\u010Diato\u010Dn\xE9 nastavenia prostredia boli dokon\u010Den\xE9.\r\nNajprv
+      si urob\xEDme kocku.\r\nOtvorte zoznam teh\xE1l."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2416754733056
+    m_Localized: "Tu si m\xF4\u017Eete vybra\u0165 tehly.\r\nZatia\u013E vyberte
+      kocku."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2654093619200
+    m_Localized: "Bola vybrat\xE1 kocka.\r\nZavrie\u0165 zoznam teh\xE1l. "
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3077634437120
+    m_Localized: "Farbu tehly na palete m\xF4\u017Eete zmeni\u0165.\r\nVyberte farbu
+      na palete."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4821286301696
+    m_Localized: "M\xF4\u017Eete tie\u017E zmeni\u0165 farbu palety.\r\nOtvoren\xFD
+      v\xFDber farieb."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5171468742656
+    m_Localized: "Tu m\xF4\u017Eete zmeni\u0165 farbu.\r\nZatia\u013E klikneme na
+      tla\u010Didlo OK."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5773397504000
+    m_Localized: "Pou\u017E\xEDvajme joystick. Kliknite na \u010Derven\xFA \u010Das\u0165
+      joysticku\r\naby sa kurzor mohol pohybova\u0165 v \u010Dervenom smere."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5774936813568
+    m_Localized: "Sk\xFAste klikn\xFA\u0165 na in\xE9 smery joysticku.\r\nAk budete
+      dr\u017Ea\u0165 stla\u010Den\xE9, kurzor sa bude pohybova\u0165 nepretr\u017Eite."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6947211227136
+    m_Localized: "Na tie 3 body dajte tehly.\r\nPohybujte kurzorom pomocou joysticku,\r\na
+      stla\u010Dte tla\u010Didlo PUT."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7439479910400
+    m_Localized: "Odstr\xE1\u0148te v\u0161etky tehly.\r\nPohybujte kurzorom pomocou
+      joysticku,\r\na stla\u010Dte tla\u010Didlo DEL."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1405082433138688
+    m_Localized: "\u010Eal\u0161ie "
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7681705160704
+    m_Localized: "Ulo\u017Eme va\u0161e \xFAdaje.\r\nKliknite na tla\u010Didlo ulo\u017Ei\u0165."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8048719343616
+    m_Localized: "Zadajte n\xE1zov s\xFAboru,\r\nulo\u017Ete kliknut\xEDm na OK."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8486747287552
+    m_Localized: "Skontrolujme, \u010Di bol s\xFAbor \xFAspe\u0161ne ulo\u017Een\xFD.\r\nKliknite
+      na tla\u010Didlo Otvori\u0165."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8930898915328
+    m_Localized: "Dobre. s\xFAbor bol \xFAspe\u0161ne ulo\u017Een\xFD.\r\nKliknut\xEDm
+      na tla\u010Didlo X zatvorte otvoren\xE9 okno s\xFAboru."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9406793035776
+    m_Localized: "Welldone!\r\nV\xFDu\u010Dba je dokon\u010Den\xE1.\r\nOdpor\xFA\u010Dame
+      v\xE1m s\xFAbor po\u010Das hry pravidelne uklada\u0165!\r\nKlepnut\xEDm na
+      hviezdi\u010Dku vytvor\xEDte nov\xFA hru."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 65556582412288
+    m_Localized: "Ak ste neulo\u017Eili aktu\xE1lny dizajn,\r\nVa\u0161e kon\u0161truk\u010Dn\xE9
+      \xFAdaje sa stratia.\r\n\u010Ealej? "
+    m_Metadata:
+      m_Items: []
+  - m_Id: 83909850083328
+    m_Localized: "\xC1no"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 84866541465600
+    m_Localized: Nie
+    m_Metadata:
+      m_Items: []
+  - m_Id: 93791768719360
+    m_Localized: "Ulo\u017Een\xE9! "
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1405254382825472
+    m_Localized: "Pou\u017E\xEDvajme joystick.\r\nKurzor m\xF4\u017Eete pos\xFAva\u0165\r\npotiahnut\xEDm,
+      kliknut\xEDm a stla\u010Den\xEDm joysticku."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1485501937659904
+    m_Localized: "Najprv potiahnite joystick.\r\nPotiahnite stred joysticku\r\nk
+      \u010Derven\xFDm, modr\xFDm, zelen\xFDm \u0161\xEDpkam"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1485706397396992
+    m_Localized: "Dobre. M\xF4\u017Eete zmeni\u0165 r\xFDchlos\u0165 pohybu\r\nv
+      nastaveniach nesk\xF4r."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1485907942092800
+    m_Localized: "Joystick druh\xFD. Kliknut\xEDm na joystick.\r\n\r\nKliknite na
+      \u0161\xEDpky a presu\u0148te kurzor."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1486258590101504
+    m_Localized: "Joystick tret\xED, Stla\u010Denie joysticku.\r\n\r\nPodr\u017Ete
+      stla\u010Den\xE9 \u0161\xEDpky, aby sa kurzor mohol \u010Falej pohybova\u0165."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1486484042330112
+    m_Localized: "Dobre.\r\n\r\nTeraz vlo\u017E\xEDme a odstr\xE1nime tehlu. "
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1486485241901056
+    m_Localized: "Dobre.\r\nAk pohnete joystickom a podr\u017E\xEDte tla\u010Didlo
+      PUT, tehla sa bude d\xE1va\u0165 \u010Falej.\r\nRovnako funguje aj tla\u010Didlo
+      Odstr\xE1ni\u0165."
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 1

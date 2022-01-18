@@ -1,0 +1,248 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: Tutorial Language Table_eu
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: eu
+  m_SharedData: {fileID: 11400000, guid: 4956535b2779b0f4d8538f269b2c05b7, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 26051784704
+    m_Localized: Play tutorial ??
+    m_Metadata:
+      m_Items: []
+  - m_Id: 147413970944
+    m_Localized: Bai
+    m_Metadata:
+      m_Items: []
+  - m_Id: 194444701696
+    m_Localized: Ez
+    m_Metadata:
+      m_Items: []
+  - m_Id: 576801648640
+    m_Localized: 'Tamaina (Ebazpena) ezarpena.
+
+      Egin klik 5. zenbakia duen
+      kubo gorrian '
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066268536832
+    m_Localized: 'Atzeko planoaren ezarpena.
+
+      Aukeratu arrosa - zerua.'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1303389319168
+    m_Localized: 'Ezarpena amaitu da.
+
+      Egin klik OK (egiaztapen berdea) botoian
+      ingurunea egiteko.'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1808882642944
+    m_Localized: 'Hasierako ingurune ezarpenak amaitu ziren.
+
+      Lehenik eta
+      behin, egin dezagun kubo bat.
+
+      Ireki adreiluzko zerrenda.'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2416754733056
+    m_Localized: 'Hemen adreiluak hauta ditzakezu.
+
+      Oraingoz, hautatu kubo.'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2654093619200
+    m_Localized: 'Kuboa hautatu zen.
+
+      Itxi adreiluzko zerrenda.'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3077634437120
+    m_Localized: 'Adreiluaren kolorea alda dezakezu paletan.
+
+      Aukeratu kolorea
+      paletan.'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4821286301696
+    m_Localized: 'Paletaren kolorea ere alda dezakezu.
+
+      Ireki kolore hautatzailea.'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5171468742656
+    m_Localized: 'Hemen alda dezakezu kolorea.
+
+      Oraingoz, egin klik Ados botoian. '
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5773397504000
+    m_Localized: 'Erabil dezagun joystick-a. Egin klik joystickaren zati gorrian
+
+      beraz,
+      kurtsorea norabide gorrian mugi daiteke.'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5774936813568
+    m_Localized: 'Saiatu joystickaren beste norabide batzuetan klik egiten.
+
+      Sakatzen
+      jarraitzen baduzu, kurtsorea etengabe mugitzen da. '
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6947211227136
+    m_Localized: 'Jarri adreiluak 3 puntu horietan.
+
+      Mugitu kurtsorea joystickarekin,
+
+      eta
+      sakatu PUT botoia.'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7439479910400
+    m_Localized: 'Ezabatu adreilu guztiak.
+
+      Mugitu kurtsorea joystickarekin,
+
+      eta
+      sakatu DEL botoia. '
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7681705160704
+    m_Localized: 'Gorde ditzagun zure datuak.
+
+      Egin klik gorde botoian.'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8048719343616
+    m_Localized: 'Idatzi fitxategiaren izena,
+
+      sakatu Ados gordetzeko.'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8486747287552
+    m_Localized: 'Egiaztatu fitxategia ongi gorde dela.
+
+      Egin klik Ireki botoian. '
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8930898915328
+    m_Localized: 'Ona. fitxategia ongi gorde da.
+
+      Egin klik X botoian itxi
+      irekitako fitxategiaren leihoa.'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9406793035776
+    m_Localized: 'Ongi egina !
+
+      Tutoriala amaitu da.
+
+      Jokoan zehar
+      fitxategia aldiro gordetzea gomendatzen dizut!
+
+      Sakatu izarra joko berri
+      bat egiteko.'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 65556582412288
+    m_Localized: 'Uneko diseinua gorde ez baduzu,
+
+      Diseinuaren datuak galduko
+      dira.
+
+      Jarraitu nahi duzu?'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 83909850083328
+    m_Localized: Bai
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1405082433138688
+    m_Localized: 'Hurrengoa '
+    m_Metadata:
+      m_Items: []
+  - m_Id: 84866541465600
+    m_Localized: Ez
+    m_Metadata:
+      m_Items: []
+  - m_Id: 93791768719360
+    m_Localized: Gordeta !
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1405254382825472
+    m_Localized: 'Erabil dezagun joystick-a.
+
+      Kurtsorea mugi dezakezu
+
+      joysticka
+      arrastatuz, klik eginez eta sakatuta.'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1485501937659904
+    m_Localized: 'Lehenik eta behin, joystick arrastatzea.
+
+      Arrastatu joystickaren
+      zentorea
+
+      gezi gorri, urdin, berdeetara'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1485706397396992
+    m_Localized: 'Ona. Mugitzeko abiadura alda dezakezu
+
+      ezarpenetan geroago.'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1485907942092800
+    m_Localized: 'Joystick bigarren. Joystick klik eginez.
+
+      
+
+      Egin
+      klik geziak eta mugitu kurtsorea. '
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1486258590101504
+    m_Localized: 'Joystick hirugarren, joystick sakatuz.
+
+      
+
+      Jarraitu
+      geziak sakatuta kurtsorea mugitzen jarrai dadin.'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1486484042330112
+    m_Localized: 'Ona.
+
+      
+
+      Orain, adreilua jarri eta ezabatuko dugu.'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1486485241901056
+    m_Localized: 'Ona.
+
+      PUT botoia sakatuta mantentzen duzunean joystick-a
+      mugitzen baduzu, adreilua jartzen jarraituko da.
+
+      Ezabatzeko botoiak
+      ere funtzionatzen du.'
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 1

@@ -1,0 +1,193 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: Tutorial Language Table_ca
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: ca
+  m_SharedData: {fileID: 11400000, guid: 4956535b2779b0f4d8538f269b2c05b7, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 26051784704
+    m_Localized: Juga al tutorial ??
+    m_Metadata:
+      m_Items: []
+  - m_Id: 147413970944
+    m_Localized: "S\xED"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 194444701696
+    m_Localized: No
+    m_Metadata:
+      m_Items: []
+  - m_Id: 576801648640
+    m_Localized: "Configuraci\xF3 de mida (resoluci\xF3).\r\nFeu clic al cub vermell
+      amb el n\xFAmero 5. "
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066268536832
+    m_Localized: "Configuraci\xF3 del fons.\r\nSeleccioneu rosa - cel."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1303389319168
+    m_Localized: "Configuraci\xF3 finalitzada.\r\nFeu clic al bot\xF3 D'acord (verificaci\xF3
+      verda) per crear entorn."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1808882642944
+    m_Localized: "S'ha acabat la configuraci\xF3 inicial de l'entorn.\r\nEn primer
+      lloc, fem un cub.\r\nObriu la llista de maons."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2416754733056
+    m_Localized: "Aqu\xED podeu seleccionar maons.\r\nDe moment, seleccioneu cub."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2654093619200
+    m_Localized: 'S''ha seleccionat el cub.
+
+      Tanca la llista de maons.'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3077634437120
+    m_Localized: "Podeu canviar el color del ma\xF3 al palet.\r\nTrieu el color al
+      palet. "
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4821286301696
+    m_Localized: "Tamb\xE9 podeu canviar el color de la paleta.\r\nSelector de colors
+      obert."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5171468742656
+    m_Localized: "Podeu canviar de color aqu\xED.\r\nDe moment, fem clic a D'acord."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5773397504000
+    m_Localized: "Utilitzem el joystick. Feu clic a la part vermella del joystick\r\nde
+      manera que el cursor es pot moure en direcci\xF3 vermella."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5774936813568
+    m_Localized: "Proveu de fer clic en altres direccions del joystick.\r\nSi continueu
+      pressionant, el cursor es mou cont\xEDnuament."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6947211227136
+    m_Localized: "Poseu maons sobre aquests 3 punts.\r\nMou el cursor amb el joystick,\r\ni
+      premeu el bot\xF3 PUT."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7439479910400
+    m_Localized: "Suprimiu tots els maons.\r\nMou el cursor amb el joystick,\r\ni
+      premeu el bot\xF3 DEL."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7681705160704
+    m_Localized: "Guardem les vostres dades.\r\nFeu clic al bot\xF3 Desa. "
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8048719343616
+    m_Localized: "Introdu\xEFu el nom del fitxer,\r\nfeu clic a D'acord per desar."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8486747287552
+    m_Localized: "Comproveu que el fitxer s'ha desat correctament.\r\nFeu clic al
+      bot\xF3 Obre."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8930898915328
+    m_Localized: "B\xE9. el fitxer s'ha desat correctament.\r\nFeu clic al bot\xF3
+      X per tancar la finestra oberta del fitxer."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9406793035776
+    m_Localized: "Ben fet !\r\nS'ha acabat el tutorial.\r\nUs recomano que deseu
+      fitxers peri\xF2dicament durant el joc.\r\nToca l'estrella per crear un joc
+      nou."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 65556582412288
+    m_Localized: 'Si no heu desat el disseny actual,
+
+      Es perdran les vostres
+      dades de disseny.
+
+      Voleu continuar?'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1405082433138688
+    m_Localized: "Pr\xF2xim"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 83909850083328
+    m_Localized: "S\xED"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 84866541465600
+    m_Localized: No
+    m_Metadata:
+      m_Items: []
+  - m_Id: 93791768719360
+    m_Localized: Desat!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1405254382825472
+    m_Localized: 'Utilitzem el joystick.
+
+      Podeu moure el cursor
+
+      arrossegant,
+      fent clic i pressionant el joystick.'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1485501937659904
+    m_Localized: 'En primer lloc, arrossegar el joystick.
+
+      Arrossegueu el
+      centor del joystick
+
+      a fletxes vermelles, blaves i verdes'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1485706397396992
+    m_Localized: "B\xE9. Podeu canviar la velocitat de moviment\r\na la configuraci\xF3
+      m\xE9s tard."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1485907942092800
+    m_Localized: 'Segon joystick. Fent clic al joystick.
+
+      
+
+      Feu clic
+      a les fletxes i moveu el cursor.'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1486258590101504
+    m_Localized: "Joystick en tercer lloc, joystick prement.\r\n\r\nContinueu pressionant
+      les fletxes perqu\xE8 el cursor pugui continuar movent-se."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1486484042330112
+    m_Localized: "B\xE9.\r\n\r\nAra, posarem i eliminarem el ma\xF3."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1486485241901056
+    m_Localized: "B\xE9.\r\nSi moveu el joystick mentre manteniu premut el bot\xF3
+      PUT, el ma\xF3 es continuar\xE0 posant.\r\nEl bot\xF3 Suprimeix tamb\xE9 funciona
+      igual."
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 1

@@ -1,0 +1,271 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: String Localization Table_ca
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: ca
+  m_SharedData: {fileID: 11400000, guid: 56840442ea7aa6d4db02e6d44aebac4c, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 300778696704
+    m_Localized: Nens
+    m_Metadata:
+      m_Items: []
+  - m_Id: 740613503758336
+    m_Localized: "S\xED"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 542064422912
+    m_Localized: Pro
+    m_Metadata:
+      m_Items: []
+  - m_Id: 748117995520
+    m_Localized: "Configuraci\xF3"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1022060572672
+    m_Localized: 'Zoom
+
+      Velocitat'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1144349700096
+    m_Localized: 'Palanca de control
+
+      Velocitat'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1266173259776
+    m_Localized: 'Palanca de control
+
+      Prement
+
+      Retard'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1508775997440
+    m_Localized: "Pantalla\r\nOrientaci\xF3"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1667199053824
+    m_Localized: BGM
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1766574698496
+    m_Localized: "Volum \nSFX"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1869347729408
+    m_Localized: "Volum \nBGM"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3232853045248
+    m_Localized: Rotacional
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3318483955712
+    m_Localized: "Correcci\xF3 vertical"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3393197092864
+    m_Localized: "Correcci\xF3 horitzontal"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4991612792832
+    m_Localized: JOC
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5070209855488
+    m_Localized: IU
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5188384370688
+    m_Localized: So
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5254658568192
+    m_Localized: "Privadesa\r\nPol\xEDtica"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 604538726690816
+    m_Localized: Desa
+    m_Metadata:
+      m_Items: []
+  - m_Id: 604609065168896
+    m_Localized: Desa com
+    m_Metadata:
+      m_Items: []
+  - m_Id: 604701780258816
+    m_Localized: Obert
+    m_Metadata:
+      m_Items: []
+  - m_Id: 740057326465024
+    m_Localized: "Doble comprovaci\xF3\r\nDe deb\xF2 vols\r\nSuprimeixaquest treball?\r\nAquesta
+      operaci\xF3\r\nno potser invertit"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 739465912823808
+    m_Localized: Obert
+    m_Metadata:
+      m_Items: []
+  - m_Id: 628043971211264
+    m_Localized: "Pr\xE0ctica"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 740682126766080
+    m_Localized: No
+    m_Metadata:
+      m_Items: []
+  - m_Id: 772105671979008
+    m_Localized: "S\xED"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 772222646923264
+    m_Localized: No
+    m_Metadata:
+      m_Items: []
+  - m_Id: 771909961560064
+    m_Localized: 'Si no heu desat el disseny actual,
+
+      Es perdran les vostres
+      dades de disseny.
+
+      Continuar? '
+    m_Metadata:
+      m_Items: []
+  - m_Id: 772749363425280
+    m_Localized: Desat!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 772978972209152
+    m_Localized: A punt ...
+    m_Metadata:
+      m_Items: []
+  - m_Id: 774739250294784
+    m_Localized: "Fitxer i configuraci\xF3 "
+    m_Metadata:
+      m_Items: []
+  - m_Id: 775047535833088
+    m_Localized: 'Antecedents '
+    m_Metadata:
+      m_Items: []
+  - m_Id: 775271243231232
+    m_Localized: 'Eines '
+    m_Metadata:
+      m_Items: []
+  - m_Id: 775363564056576
+    m_Localized: "Quadr\xEDcula"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 799231297105920
+    m_Localized: "Palet b\xE0sic (nom\xE9s palet lateral esquerre)\r\nes restablir\xE0.
+      Continuar?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 808425907728384
+    m_Localized: "- Advert\xE8ncia -\r\nUna resoluci\xF3 massa alta en comparaci\xF3
+      amb el dispositiu pot provocar un tancament inusual de l'aplicaci\xF3. No creeu
+      entorns de resoluci\xF3 massa alta en un dispositiu de baix rendiment\r\ni
+      deseu el vostre disseny peri\xF2dicament. "
+    m_Metadata:
+      m_Items: []
+  - m_Id: 811829358931968
+    m_Localized: "Introdu\xEFu la resoluci\xF3"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 812325566066688
+    m_Localized: '  Rang: 1 ~ 100'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 816525234581504
+    m_Localized: D'acord
+    m_Metadata:
+      m_Items: []
+  - m_Id: 816995000823808
+    m_Localized: FIX
+    m_Metadata:
+      m_Items: []
+  - m_Id: 817990556626944
+    m_Localized: "Introdu\xEFu el nom del fitxer ..."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1050329006125056
+    m_Localized: 'Idioma '
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1150599392309248
+    m_Localized: Tutorial activat / desactivat
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2181186072784896
+    m_Localized: POSA
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2181227797721088
+    m_Localized: ELIMINA
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2189169536184320
+    m_Localized: "Precisi\xF3 \nd'arrossegament \ndel joystick"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2306261442801664
+    m_Localized: "Mida (resoluci\xF3)"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2306288047271936
+    m_Localized: Antecedents
+    m_Metadata:
+      m_Items: []
+  - m_Id: 31858360048332800
+    m_Localized: 'Si us plau
+
+      Espera ...'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40012999914598400
+    m_Localized: Reprodueix publicitat per jugar Pro?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 41360004763004928
+    m_Localized: Premium
+    m_Metadata:
+      m_Items: []
+  - m_Id: 41360795896819712
+    m_Localized: Elimina anuncis
+    m_Metadata:
+      m_Items: []
+  - m_Id: 41361643397885952
+    m_Localized: Traieu tots els anuncis permanentment.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 41362973445238784
+    m_Localized: "Anualment\r\nSubscripci\xF3"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 41363339981271040
+    m_Localized: "Mensual\r\nSubscripci\xF3"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 41363650020028416
+    m_Localized: "\u25CF Traieu tots els anuncis permanentment.\r\n\u25CF Activeu
+      tots els maons.\r\n\u25CF Activeu tots els materials."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 41364031609417728
+    m_Localized: Si prega di controllare la connessione Internet.
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 1

@@ -1,0 +1,187 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: Tutorial Language Table_fr
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: fr
+  m_SharedData: {fileID: 11400000, guid: 4956535b2779b0f4d8538f269b2c05b7, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 26051784704
+    m_Localized: Jouer au tutoriel ??
+    m_Metadata:
+      m_Items: []
+  - m_Id: 147413970944
+    m_Localized: Oui
+    m_Metadata:
+      m_Items: []
+  - m_Id: 194444701696
+    m_Localized: Non
+    m_Metadata:
+      m_Items: []
+  - m_Id: 576801648640
+    m_Localized: "R\xE9glage de la taille (r\xE9solution).\r\nCliquez sur le cube
+      rouge avec le num\xE9ro 5."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066268536832
+    m_Localized: "R\xE9glage de l'arri\xE8re-plan.\r\nS\xE9lectionnez rose - ciel."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1303389319168
+    m_Localized: "R\xE9glage termin\xE9.\r\nCliquez sur le bouton OK (coche verte)
+      pour cr\xE9er l'environnement."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1808882642944
+    m_Localized: "Les param\xE8tres d'environnement initiaux \xE9taient termin\xE9s.\r\nTout
+      d'abord, faisons un cube.\r\nOuvrez la liste des briques."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2416754733056
+    m_Localized: "Ici, vous pouvez s\xE9lectionner des briques.\r\nPour l'instant,
+      s\xE9lectionnez cube."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2654093619200
+    m_Localized: "Le cube a \xE9t\xE9 s\xE9lectionn\xE9.\r\nFermez la liste des briques."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3077634437120
+    m_Localized: 'Vous pouvez changer la couleur de la brique dans la palette.
+
+      Choisissez
+      la couleur de la palette.'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4821286301696
+    m_Localized: "Vous pouvez \xE9galement changer la couleur de la palette.\r\nOuvrez
+      le s\xE9lecteur de couleurs."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5171468742656
+    m_Localized: 'Vous pouvez changer de couleur ici.
+
+      Pour l''instant, cliquons
+      simplement sur OK.'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5773397504000
+    m_Localized: "Utilisons le joystick. Cliquez sur la partie rouge du joystick\r\nafin
+      que le curseur puisse se d\xE9placer dans la direction rouge."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5774936813568
+    m_Localized: "Essayez de cliquer sur d'autres directions du joystick.\r\nSi vous
+      continuez d'appuyer, le curseur se d\xE9place continuellement."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6947211227136
+    m_Localized: "Mettez des briques sur ces 3 points.\r\nD\xE9placer le curseur
+      avec le joystick,\r\net appuyez sur le bouton PUT."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7439479910400
+    m_Localized: "Supprimez toutes les briques.\r\nD\xE9placer le curseur avec le
+      joystick,\r\net appuyez sur le bouton DEL."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7681705160704
+    m_Localized: "Sauvegardons vos donn\xE9es.\r\nCliquez sur le bouton Enregistrer."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8048719343616
+    m_Localized: 'Entrez le nom du fichier,
+
+      cliquez sur OK pour enregistrer.'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8486747287552
+    m_Localized: "V\xE9rifions que le fichier a \xE9t\xE9 enregistr\xE9 avec succ\xE8s.\r\nCliquez
+      sur le bouton Ouvrir."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8930898915328
+    m_Localized: "Bien. le fichier a \xE9t\xE9 enregistr\xE9 avec succ\xE8s.\r\nCliquez
+      sur le bouton X pour fermer la fen\xEAtre de fichier ouverte."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9406793035776
+    m_Localized: "Bien fait !\r\nLe didacticiel est termin\xE9.\r\nJe vous recommande
+      de sauvegarder le fichier p\xE9riodiquement pendant le jeu!\r\nAppuyez sur
+      l'\xE9toile pour cr\xE9er un nouveau jeu."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 65556582412288
+    m_Localized: "Si vous n'avez pas enregistr\xE9 la conception actuelle,\r\nVos
+      donn\xE9es de conception seront perdues. \nContinuer?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 83909850083328
+    m_Localized: "\rOui"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 84866541465600
+    m_Localized: Non
+    m_Metadata:
+      m_Items: []
+  - m_Id: 93791768719360
+    m_Localized: "\rEnregistr\xE9 !"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1405082433138688
+    m_Localized: Suivante
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1405254382825472
+    m_Localized: "Utilisons le joystick.\r\nVous pouvez d\xE9placer le curseur\r\nen
+      faisant glisser, en cliquant et en appuyant sur le joystick."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1485501937659904
+    m_Localized: "Tout d'abord, faites glisser le joystick.\r\nFaites glisser le
+      centre du joystick\r\naux fl\xE8ches rouges, bleues, vertes"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1485706397396992
+    m_Localized: "Bien. Vous pouvez changer la vitesse de d\xE9placement\r\nsur les
+      param\xE8tres plus tard."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1485907942092800
+    m_Localized: "Joystick en second. En cliquant sur le joystick.\r\n\r\nCliquez
+      sur les fl\xE8ches et d\xE9placez le curseur."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1486258590101504
+    m_Localized: "Joystick troisi\xE8me, en appuyant sur le joystick.\r\n\r\nContinuez
+      \xE0 appuyer sur les fl\xE8ches pour que le curseur puisse continuer \xE0 bouger."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1486484042330112
+    m_Localized: 'Bien.
+
+
+
+      Maintenant, nous allons mettre et supprimer la brique.'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1486485241901056
+    m_Localized: "Bien.\r\nSi vous d\xE9placez le joystick tout en maintenant le
+      bouton PUT enfonc\xE9, la brique continuera \xE0 \xEAtre plac\xE9e.\r\nLe bouton
+      Supprimer fonctionne \xE9galement de la m\xEAme mani\xE8re."
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 1

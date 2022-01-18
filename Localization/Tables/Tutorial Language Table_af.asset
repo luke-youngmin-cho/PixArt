@@ -1,0 +1,237 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: Tutorial Language Table_af
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: af
+  m_SharedData: {fileID: 11400000, guid: 4956535b2779b0f4d8538f269b2c05b7, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 26051784704
+    m_Localized: Speel tutoriaal ??
+    m_Metadata:
+      m_Items: []
+  - m_Id: 147413970944
+    m_Localized: Ja
+    m_Metadata:
+      m_Items: []
+  - m_Id: 194444701696
+    m_Localized: Geen
+    m_Metadata:
+      m_Items: []
+  - m_Id: 576801648640
+    m_Localized: 'Grootte (resolusie) instelling.
+
+      Klik op die rooi kubus
+      met nommer 5.'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066268536832
+    m_Localized: 'Agtergrondinstelling.
+
+      Kies pienk - lug.'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1303389319168
+    m_Localized: 'Instelling klaar.
+
+      Klik op OK (groen tjek) knoppie om ''n
+      omgewing te maak.'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1808882642944
+    m_Localized: 'Die aanvanklike omgewingsinstellings is voltooi.
+
+      Laat ons
+      eers ''n kubus maak.
+
+      Maak die baksteenlys oop.'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2416754733056
+    m_Localized: 'Hier kan u stene kies.
+
+      Kies vir eers kubus.'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2654093619200
+    m_Localized: 'Kubus is gekies.
+
+      Maak die baksteenlys toe. '
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3077634437120
+    m_Localized: 'U kan die kleur van die baksteen in die palet verander.
+
+      Kies
+      kleur in die pallet.'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4821286301696
+    m_Localized: 'U kan ook die kleur van die pallet verander.
+
+      Oop kleurkieser.'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5171468742656
+    m_Localized: 'U kan hier kleur verander.
+
+      Op die oomblik klik ons op OK.'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5773397504000
+    m_Localized: 'Kom ons gebruik die joystick. Klik op die rooi deel van die joystick
+
+      sodat
+      die wyser in die rooi rigting kan beweeg.'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5774936813568
+    m_Localized: 'Probeer om op die ander joystick -aanwysings te klik.
+
+      As
+      u aanhou druk, beweeg die wyser voortdurend.'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6947211227136
+    m_Localized: 'Sit stene op die 3 punte.
+
+      Beweeg wyser met joystick,
+
+      en
+      druk die PUT -knoppie.'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7439479910400
+    m_Localized: 'Vee alle stene uit.
+
+      Beweeg wyser met joystick,
+
+      en
+      druk die DEL -knoppie.'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7681705160704
+    m_Localized: 'Laat ons u data stoor.
+
+      Klik op die knoppie stoor.'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8048719343616
+    m_Localized: "Voer die l\xEAernaam in,\r\nklik OK om op te slaan."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8486747287552
+    m_Localized: "Kom ons kyk of die l\xEAer suksesvol gestoor is.\r\nKlik op die
+      knoppie Open."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8930898915328
+    m_Localized: "Goed. die l\xEAer is suksesvol gestoor.\r\nKlik op die X -knoppie
+      om die oop l\xEAervenster toe te maak."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9406793035776
+    m_Localized: "Wel gedaan !\r\nTutoriaal is klaar.\r\nEk beveel aan dat u die
+      l\xEAer periodiek stoor tydens die spel!\r\nTik op die ster om 'n nuwe speletjie
+      te maak."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 65556582412288
+    m_Localized: 'As u nie die huidige ontwerp gestoor het nie,
+
+      U ontwerpdata
+      gaan verlore.
+
+      Aanhou?'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 83909850083328
+    m_Localized: Ja
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1405082433138688
+    m_Localized: Volgende
+    m_Metadata:
+      m_Items: []
+  - m_Id: 84866541465600
+    m_Localized: Geen
+    m_Metadata:
+      m_Items: []
+  - m_Id: 93791768719360
+    m_Localized: 'Gestoor! '
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1405254382825472
+    m_Localized: 'Kom ons gebruik die joystick.
+
+      U kan die wyser skuif
+
+      deur
+      die joystick te sleep, klik en druk.'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1485501937659904
+    m_Localized: 'Eerstens, sleep joystick.
+
+      Sleep die sentrale punt van die
+      joystick
+
+      na rooi, blou, groen pyle'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1485706397396992
+    m_Localized: 'Goed. U kan die bewegingsnelheid verander
+
+      later op instellings.'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1485907942092800
+    m_Localized: 'Joystick tweede. Klik -joystick.
+
+      
+
+      Klik op die pyle
+      en beweeg die wyser. '
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1486258590101504
+    m_Localized: 'Joystick derde, druk joystick.
+
+      
+
+      Hou aan om pyle
+      te druk sodat die wyser kan bly beweeg.'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1486484042330112
+    m_Localized: 'Goed.
+
+      
+
+      Nou gaan ons die baksteen sit en verwyder. '
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1486485241901056
+    m_Localized: 'Goed.
+
+      As u die joystick beweeg terwyl u die PUT -knoppie
+      ingedruk hou, word die baksteen bly sit.
+
+      Die uitvee -knoppie werk ook
+      dieselfde.'
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 1

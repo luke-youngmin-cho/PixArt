@@ -1,0 +1,266 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: String Localization Table_es
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: es
+  m_SharedData: {fileID: 11400000, guid: 56840442ea7aa6d4db02e6d44aebac4c, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 300778696704
+    m_Localized: "Ni\xF1as"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 542064422912
+    m_Localized: Pro
+    m_Metadata:
+      m_Items: []
+  - m_Id: 748117995520
+    m_Localized: Ajustes
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1022060572672
+    m_Localized: 'Zoom
+
+      Velocidad'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1144349700096
+    m_Localized: 'Joystick
+
+      Velocidad'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1266173259776
+    m_Localized: 'Joystick
+
+      Prensado
+
+      Demora'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1508775997440
+    m_Localized: "Pantalla\r\nDirecci\xF3n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1667199053824
+    m_Localized: BGM
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1766574698496
+    m_Localized: "SFX \n\rVolumen"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1869347729408
+    m_Localized: "BGM\n\rVolumen"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3232853045248
+    m_Localized: Rotacional
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3318483955712
+    m_Localized: Vertical Fix
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3393197092864
+    m_Localized: Horizontal Fix
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4991612792832
+    m_Localized: JUEGO
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5070209855488
+    m_Localized: UI
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5188384370688
+    m_Localized: "\rSonar"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5254658568192
+    m_Localized: "\rIntimidad\r\nPol\xEDtica"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 604538726690816
+    m_Localized: "\rAhorrar"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 604609065168896
+    m_Localized: Guardar como
+    m_Metadata:
+      m_Items: []
+  - m_Id: 604701780258816
+    m_Localized: Abierta
+    m_Metadata:
+      m_Items: []
+  - m_Id: 628043971211264
+    m_Localized: "Pr\xE1ctica"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 739465912823808
+    m_Localized: Abierta
+    m_Metadata:
+      m_Items: []
+  - m_Id: 740057326465024
+    m_Localized: "Doble verificaci\xF3n!\r\nRealmente quieres\r\n<b>  Eliminar </b>
+      este trabajo?\r\nEsta operaci\xF3n <b> <color = red>\r\nno se puede </color>
+      </b> revertir"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 740613503758336
+    m_Localized: "s\xED"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 740682126766080
+    m_Localized: No
+    m_Metadata:
+      m_Items: []
+  - m_Id: 771909961560064
+    m_Localized: "Si no guard\xF3 el dise\xF1o actual,\r\n Se perder\xE1n los datos
+      de su dise\xF1o. \nContinuar?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 772105671979008
+    m_Localized: "s\xED"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 772222646923264
+    m_Localized: No
+    m_Metadata:
+      m_Items: []
+  - m_Id: 772749363425280
+    m_Localized: Salvado !
+    m_Metadata:
+      m_Items: []
+  - m_Id: 772978972209152
+    m_Localized: En lista ...
+    m_Metadata:
+      m_Items: []
+  - m_Id: 774739250294784
+    m_Localized: Archivo
+    m_Metadata:
+      m_Items: []
+  - m_Id: 775047535833088
+    m_Localized: Fondo
+    m_Metadata:
+      m_Items: []
+  - m_Id: 775271243231232
+    m_Localized: Herramientas
+    m_Metadata:
+      m_Items: []
+  - m_Id: 775363564056576
+    m_Localized: Red
+    m_Metadata:
+      m_Items: []
+  - m_Id: 799231297105920
+    m_Localized: "Palet b\xE1sico (solo palet del lado izquierdo)\r\nse restablecer\xE1.
+      Continuar?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 808425907728384
+    m_Localized: "<b> - Advertencia - </b>\r\nUna resoluci\xF3n demasiado alta en
+      comparaci\xF3n con su dispositivo puede provocar un cierre inusual de la aplicaci\xF3n.
+      No cree un entorno de resoluci\xF3n demasiado alta en un dispositivo de bajo
+      rendimiento\r\ny guarde su dise\xF1o peri\xF3dicamente."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 811829358931968
+    m_Localized: "Ingrese resoluci\xF3n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 812325566066688
+    m_Localized: '  Rango: 1 ~ 100'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 816525234581504
+    m_Localized: OK
+    m_Metadata:
+      m_Items: []
+  - m_Id: 816995000823808
+    m_Localized: FIX
+    m_Metadata:
+      m_Items: []
+  - m_Id: 817990556626944
+    m_Localized: Nombre del archivo...
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1050329006125056
+    m_Localized: Idioma
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1150599392309248
+    m_Localized: Tutorial On/Off
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2181186072784896
+    m_Localized: PUT
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2181227797721088
+    m_Localized: DEL
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2189169536184320
+    m_Localized: "\rPrecisi\xF3n \nde arrastre\ndel joystick"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2306261442801664
+    m_Localized: "Tama\xF1o (resoluci\xF3n)"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2306288047271936
+    m_Localized: Fondo
+    m_Metadata:
+      m_Items: []
+  - m_Id: 31858360048332800
+    m_Localized: "Espere \npor favor..."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40012999914598400
+    m_Localized: Play Ad to Play Pro?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 41360004763004928
+    m_Localized: prima
+    m_Metadata:
+      m_Items: []
+  - m_Id: 41360795896819712
+    m_Localized: Quitar anuncios
+    m_Metadata:
+      m_Items: []
+  - m_Id: 41361643397885952
+    m_Localized: "\rElimine todos los anuncios <b> permanentemente </b>."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 41362973445238784
+    m_Localized: "Anual\r\nSuscripci\xF3n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 41363339981271040
+    m_Localized: "Mensual\r\nSuscripci\xF3n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 41363650020028416
+    m_Localized: "\u25CF Eliminar todos los anuncios <b> permanentemente </b>.\r\n\u25CF
+      Activar todos los ladrillos.\r\n\u25CF Activar todos los materiales."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 41364031609417728
+    m_Localized: "Compruebe la conexi\xF3n a Internet."
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 1

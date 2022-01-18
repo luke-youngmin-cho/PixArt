@@ -1,0 +1,224 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: Tutorial Language Table_en
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: en
+  m_SharedData: {fileID: 11400000, guid: 4956535b2779b0f4d8538f269b2c05b7, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 26051784704
+    m_Localized: Play tutorial ??
+    m_Metadata:
+      m_Items: []
+  - m_Id: 147413970944
+    m_Localized: Yes
+    m_Metadata:
+      m_Items: []
+  - m_Id: 194444701696
+    m_Localized: No
+    m_Metadata:
+      m_Items: []
+  - m_Id: 576801648640
+    m_Localized: 'Size ( Resolution) setting.
+
+      Click the red cube with number
+      5.'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066268536832
+    m_Localized: 'Background setting.
+
+      Select pink - sky.'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1303389319168
+    m_Localized: 'Setting finished.
+
+      Click OK ( green check ) Button to make
+      environment.'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1808882642944
+    m_Localized: 'Initial environment settings was finished.
+
+      First, Let''s
+      make a cube.
+
+      Open the brick list.'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2416754733056
+    m_Localized: 'Here you can select bricks.
+
+      For now, Select cube.'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2654093619200
+    m_Localized: 'Cube was selected.
+
+      Close the brick list.'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3077634437120
+    m_Localized: 'You can change color of brick in the pallet.
+
+      Choose color
+      in the pallet.'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4821286301696
+    m_Localized: 'You can also change pallet''s color.
+
+      Open color picker.'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5171468742656
+    m_Localized: 'You can change color here.
+
+      For now, Let''s just click OK.'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5773397504000
+    m_Localized: 'Let''s use joystick. Click red part of joystick
+
+      so cursor
+      can move in the red direction.'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5774936813568
+    m_Localized: 'Try to click other directions of joystick.
+
+      If you keep pressing,
+      the Cursor moves continuously.'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6947211227136
+    m_Localized: "Put bricks on those 3 points. \nMove cursor with joystick,\nand
+      press PUT button."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7439479910400
+    m_Localized: 'Delete all bricks.
+
+      Move cursor with joystick,
+
+      and
+      press DEL button.'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7681705160704
+    m_Localized: 'Let''s save your data.
+
+      Click save button.'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8048719343616
+    m_Localized: "Enter the file name, \nclick OK to save."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8486747287552
+    m_Localized: 'Let''s check file was saved successfully.
+
+      Click Open button.'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8930898915328
+    m_Localized: 'Good. the file was saved successfully.
+
+      Click X button so
+      close the open file window.'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9406793035776
+    m_Localized: 'Welldone !
+
+      Tutorial is finished.
+
+      <color=red>I recommend
+      you to save file periodically during the game !</color>
+
+      Tap the star
+      to make a new game.'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 65556582412288
+    m_Localized: "If you did not save current design,\n <color=yellow>Your design
+      data will be lost.</color>\nContinue?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 83909850083328
+    m_Localized: Yes
+    m_Metadata:
+      m_Items: []
+  - m_Id: 84866541465600
+    m_Localized: No
+    m_Metadata:
+      m_Items: []
+  - m_Id: 93791768719360
+    m_Localized: Saved !
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1405082433138688
+    m_Localized: Next
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1405254382825472
+    m_Localized: "Let's use joystick.\nYou can move the cursor \nby dragging, clicking
+      and pressing the joystick."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1485501937659904
+    m_Localized: "First, Dragging joystick.\nDrag centor of the joystick \nto red,
+      blue, green arrows"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1485706397396992
+    m_Localized: 'Good. You can change moving speed
+
+      on settings later.'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1485907942092800
+    m_Localized: 'Joystick seond. Clicking joystick.
+
+
+      Click arrows and move
+      cursor.'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1486258590101504
+    m_Localized: 'Joystick third, Pressing joystick.
+
+
+      Keep pressing arrows
+      so cursor can keep moving.'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1486484042330112
+    m_Localized: "Good. \n\nNow, we're going to put and delete the brick."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1486485241901056
+    m_Localized: 'Good.
+
+      If you move the joystick while holding down the PUT
+      button, the brick will continue to be put.
+
+      Delete button works also
+      same.'
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 1

@@ -1,0 +1,261 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: String Localization Table_is
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: is
+  m_SharedData: {fileID: 11400000, guid: 56840442ea7aa6d4db02e6d44aebac4c, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 542064422912
+    m_Localized: Pro
+    m_Metadata:
+      m_Items: []
+  - m_Id: 300778696704
+    m_Localized: Krakkar
+    m_Metadata:
+      m_Items: []
+  - m_Id: 740057326465024
+    m_Localized: "Tv\xF6faldur \xE1v\xEDsun!\r\nViltu virkilega\r\nEy\xF0a\xFEessa
+      vinnu?\r\n\xDEessi a\xF0ger\xF0\r\ngetur ekkivera sn\xFAi\xF0"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 748117995520
+    m_Localized: Stillingar
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1022060572672
+    m_Localized: "A\xF0dr\xE1ttur\r\nHra\xF0i"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1144349700096
+    m_Localized: "St\xFDripinna\r\nHra\xF0i"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1266173259776
+    m_Localized: "St\xFDripinna\r\nA\xF0 \xFDta \xE1\r\nSeinkun"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1508775997440
+    m_Localized: "Skj\xE1r\r\nStefnum\xF6rkun"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1667199053824
+    m_Localized: BGM
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1766574698496
+    m_Localized: 'SFX
+
+      Bindi'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1869347729408
+    m_Localized: 'BGM
+
+      Bindi'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3232853045248
+    m_Localized: "Sn\xFAningur"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3318483955712
+    m_Localized: "L\xF3\xF0r\xE9tt lagf\xE6ring"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3393197092864
+    m_Localized: "L\xE1r\xE9tt lagf\xE6ring"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4991612792832
+    m_Localized: 'LEIKUR '
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5070209855488
+    m_Localized: "H\xCD"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5188384370688
+    m_Localized: "Hlj\xF3\xF0 "
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5254658568192
+    m_Localized: "Pers\xF3nuvernd\r\nStefna"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 604538726690816
+    m_Localized: Vista
+    m_Metadata:
+      m_Items: []
+  - m_Id: 604609065168896
+    m_Localized: Vista sem
+    m_Metadata:
+      m_Items: []
+  - m_Id: 604701780258816
+    m_Localized: "Opi\xF0"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 628043971211264
+    m_Localized: Practice
+    m_Metadata:
+      m_Items: []
+  - m_Id: 739465912823808
+    m_Localized: "Opi\xF0"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 740613503758336
+    m_Localized: "J\xE1 "
+    m_Metadata:
+      m_Items: []
+  - m_Id: 772105671979008
+    m_Localized: "J\xE1 "
+    m_Metadata:
+      m_Items: []
+  - m_Id: 740682126766080
+    m_Localized: Nei
+    m_Metadata:
+      m_Items: []
+  - m_Id: 772222646923264
+    m_Localized: Nei
+    m_Metadata:
+      m_Items: []
+  - m_Id: 771909961560064
+    m_Localized: "Ef \xFE\xFA vista\xF0ir ekki n\xFAverandi h\xF6nnun,\r\nH\xF6nnunarg\xF6gn
+      \xFE\xEDn munu glatast.\r\n\xC1fram?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 772749363425280
+    m_Localized: "Vista\xF0!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 772978972209152
+    m_Localized: "\xCD tilb\xFAnum ..."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 774739250294784
+    m_Localized: "Skr\xE1 og stillingar"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 775047535833088
+    m_Localized: Bakgrunnur
+    m_Metadata:
+      m_Items: []
+  - m_Id: 775271243231232
+    m_Localized: "Verkf\xE6ri"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 775363564056576
+    m_Localized: Rist
+    m_Metadata:
+      m_Items: []
+  - m_Id: 799231297105920
+    m_Localized: "Grunnbretti (a\xF0eins bretti \xE1 vinstri hli\xF0)\r\nver\xF0ur
+      endurstillt. \xC1fram?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 808425907728384
+    m_Localized: "-- Vi\xF0v\xF6run --\r\nOf h\xE1 upplausn mi\xF0a\xF0 vi\xF0 t\xE6ki\xF0
+      \xFEitt getur valdi\xF0 \xF3venjulegri lokun forrita. Vinsamlegast ekki b\xFAa
+      til of mikla upplausn umhverfi \xE1 t\xE6kjum me\xF0 litla afk\xF6st\r\nog
+      vista\xF0u h\xF6nnun \xFE\xEDna reglulega. "
+    m_Metadata:
+      m_Items: []
+  - m_Id: 811829358931968
+    m_Localized: "Sl\xE1\xF0u inn upplausn"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 812325566066688
+    m_Localized: "  Svi\xF0: 1 ~ 100"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 816525234581504
+    m_Localized: OK
+    m_Metadata:
+      m_Items: []
+  - m_Id: 816995000823808
+    m_Localized: FIX
+    m_Metadata:
+      m_Items: []
+  - m_Id: 817990556626944
+    m_Localized: "Sl\xE1\xF0u inn skr\xE1arnafn ... "
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1050329006125056
+    m_Localized: "Tungum\xE1l "
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1150599392309248
+    m_Localized: "Kennsla Kveikt/Sl\xF6kkt"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2181186072784896
+    m_Localized: Setja
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2181227797721088
+    m_Localized: "Ey\xF0a"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2189169536184320
+    m_Localized: "St\xFDripinna \ndregur \nn\xE1kv\xE6mni"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2306261442801664
+    m_Localized: "St\xE6r\xF0 (upplausn)"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2306288047271936
+    m_Localized: Bakgrunnur
+    m_Metadata:
+      m_Items: []
+  - m_Id: 31858360048332800
+    m_Localized: "Vinsamlegast\r\nB\xEDddu ..."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40012999914598400
+    m_Localized: "Spila augl\xFDsingu til a\xF0 spila atvinnuma\xF0ur?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 41360004763004928
+    m_Localized: "I\xF0gjald"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 41360795896819712
+    m_Localized: "Fjarl\xE6gja augl\xFDsingar"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 41361643397885952
+    m_Localized: "Fjarl\xE6g\xF0u allar augl\xFDsingar fyrir <b>fullt og allt</b>."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 41362973445238784
+    m_Localized: "\xC1rlega\r\n\xC1skrift"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 41363339981271040
+    m_Localized: "M\xE1na\xF0arlega\r\n\xC1skrift"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 41363650020028416
+    m_Localized: "\u25CF Fjarl\xE6g\xF0u allar augl\xFDsingar fyrir <b>fullt og allt</b>.\r\n\u25CF
+      Virkja alla m\xFArsteina.\r\n\u25CF Virkja allt efni."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 41364031609417728
+    m_Localized: "Vinsamlegast athuga\xF0u nettengingu."
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 1

@@ -1,0 +1,262 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: String Localization Table_pl
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: pl
+  m_SharedData: {fileID: 11400000, guid: 56840442ea7aa6d4db02e6d44aebac4c, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 300778696704
+    m_Localized: Dzieci
+    m_Metadata:
+      m_Items: []
+  - m_Id: 542064422912
+    m_Localized: Pro
+    m_Metadata:
+      m_Items: []
+  - m_Id: 748117995520
+    m_Localized: Ustawienia
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1022060572672
+    m_Localized: "Powi\u0119kszenie\r\nPr\u0119dko\u015B\u0107"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1144349700096
+    m_Localized: "Dr\u0105\u017Cek sterowy\r\nPr\u0119dko\u015B\u0107"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1266173259776
+    m_Localized: "Dr\u0105\u017Cek sterowy\r\nPilny\r\nOp\xF3\u017Anienie"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1508775997440
+    m_Localized: 'Ekran
+
+      Orientacja'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1667199053824
+    m_Localized: BGM
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1766574698496
+    m_Localized: "G\u0142o\u015Bno\u015B\u0107 \nSFX "
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1869347729408
+    m_Localized: "G\u0142o\u015Bno\u015B\u0107 \nBGM"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3232853045248
+    m_Localized: Obrotowy
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3318483955712
+    m_Localized: Poprawka w pionie
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3393197092864
+    m_Localized: Ustalenie poziome
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4991612792832
+    m_Localized: GRA
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5070209855488
+    m_Localized: UI
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5188384370688
+    m_Localized: "D\u017Awi\u0119k"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5254658568192
+    m_Localized: "Prywatno\u015B\u0107\r\nPolityka"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 604538726690816
+    m_Localized: Zapisz
+    m_Metadata:
+      m_Items: []
+  - m_Id: 604609065168896
+    m_Localized: Zapisz jako
+    m_Metadata:
+      m_Items: []
+  - m_Id: 604701780258816
+    m_Localized: Otwarte
+    m_Metadata:
+      m_Items: []
+  - m_Id: 739465912823808
+    m_Localized: Otwarte
+    m_Metadata:
+      m_Items: []
+  - m_Id: 628043971211264
+    m_Localized: Praktyka
+    m_Metadata:
+      m_Items: []
+  - m_Id: 740057326465024
+    m_Localized: "Podw\xF3jne sprawdzenie!\r\nCzy naprawd\u0119 chcesz?\r\nKasowa\u0107ta
+      praca?\r\nTa operacja\r\nNie mog\u0119by\u0107 odwr\xF3conym"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 740613503758336
+    m_Localized: Tak
+    m_Metadata:
+      m_Items: []
+  - m_Id: 772105671979008
+    m_Localized: Tak
+    m_Metadata:
+      m_Items: []
+  - m_Id: 740682126766080
+    m_Localized: Nie
+    m_Metadata:
+      m_Items: []
+  - m_Id: 772222646923264
+    m_Localized: Nie
+    m_Metadata:
+      m_Items: []
+  - m_Id: 771909961560064
+    m_Localized: "Je\u015Bli nie zapisa\u0142e\u015B aktualnego projektu,\r\nTwoje
+      dane projektowe zostan\u0105 utracone.\r\nKontynuowa\u0107?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 772749363425280
+    m_Localized: Zapisano !
+    m_Metadata:
+      m_Items: []
+  - m_Id: 772978972209152
+    m_Localized: Gotowe...
+    m_Metadata:
+      m_Items: []
+  - m_Id: 774739250294784
+    m_Localized: Plik i ustawienia
+    m_Metadata:
+      m_Items: []
+  - m_Id: 775047535833088
+    m_Localized: "T\u0142o"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 775271243231232
+    m_Localized: "Narz\u0119dzia"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 775363564056576
+    m_Localized: Siatka
+    m_Metadata:
+      m_Items: []
+  - m_Id: 799231297105920
+    m_Localized: "Paleta podstawowa (tylko paleta z lewej strony)\r\nzostanie zresetowany.
+      Kontynuowa\u0107?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 808425907728384
+    m_Localized: "-- Ostrze\u017Cenie --\r\nZbyt wysoka rozdzielczo\u015B\u0107 w
+      por\xF3wnaniu do Twojego urz\u0105dzenia mo\u017Ce spowodowa\u0107 nietypowe
+      zamkni\u0119cie aplikacji. Nie tw\xF3rz \u015Brodowiska o zbyt wysokiej rozdzielczo\u015Bci
+      na urz\u0105dzeniu o niskiej wydajno\u015Bci\r\ni okresowo zapisuj sw\xF3j
+      projekt."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 811829358931968
+    m_Localized: "Wprowad\u017A Rozdzielczo\u015B\u0107"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 812325566066688
+    m_Localized: '  Zakres : 1 ~ 100'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 816525234581504
+    m_Localized: OK
+    m_Metadata:
+      m_Items: []
+  - m_Id: 816995000823808
+    m_Localized: POPRAWKA
+    m_Metadata:
+      m_Items: []
+  - m_Id: 817990556626944
+    m_Localized: "Podaj nazw\u0119 pliku..."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1050329006125056
+    m_Localized: "J\u0119zyk"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1150599392309248
+    m_Localized: "Samouczek w\u0142./wy\u0142."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2181186072784896
+    m_Localized: "umie\u015Bci\u0107"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2181227797721088
+    m_Localized: "usu\u0144"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2189169536184320
+    m_Localized: "Dr\u0105\u017Cek sterowy\r\nW\u0142\xF3ka\r\nPrecyzja"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2306261442801664
+    m_Localized: "Rozmiar (rozdzielczo\u015B\u0107)"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2306288047271936
+    m_Localized: "T\u0142o"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 31858360048332800
+    m_Localized: "Prosz\u0119\r\nCzekaj..."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40012999914598400
+    m_Localized: "Zagraj w reklam\u0119, aby zagra\u0107 w pro?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 41360004763004928
+    m_Localized: Premia
+    m_Metadata:
+      m_Items: []
+  - m_Id: 41360795896819712
+    m_Localized: "Usu\u0144 reklamy"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 41361643397885952
+    m_Localized: "Usu\u0144 wszystkie reklamy na <b>sta\u0142e</b>."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 41362973445238784
+    m_Localized: 'Rocznie
+
+      Subskrypcja'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 41363339981271040
+    m_Localized: "Miesi\u0119czny\r\nSubskrypcja"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 41363650020028416
+    m_Localized: "\u25CF Usu\u0144 wszystkie reklamy na <b>sta\u0142e</b>.\r\n\u25CF
+      Aktywuj wszystkie ceg\u0142y.\r\n\u25CF Aktywuj wszystkie materia\u0142y."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 41364031609417728
+    m_Localized: "Sprawd\u017A po\u0142\u0105czenie internetowe."
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 1

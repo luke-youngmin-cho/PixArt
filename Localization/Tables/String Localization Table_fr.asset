@@ -1,0 +1,272 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: String Localization Table_fr
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: fr
+  m_SharedData: {fileID: 11400000, guid: 56840442ea7aa6d4db02e6d44aebac4c, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 300778696704
+    m_Localized: Enfant
+    m_Metadata:
+      m_Items: []
+  - m_Id: 542064422912
+    m_Localized: Pro
+    m_Metadata:
+      m_Items: []
+  - m_Id: 748117995520
+    m_Localized: "Param\xE8tres"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1022060572672
+    m_Localized: 'Zoom
+
+      La vitesse'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1144349700096
+    m_Localized: 'Manette
+
+      La vitesse'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1266173259776
+    m_Localized: 'Manette
+
+      Pressage
+
+      Retard'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1508775997440
+    m_Localized: "\xC9cran\r\nDirection"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1667199053824
+    m_Localized: BGM
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1766574698496
+    m_Localized: "SFX \nLe volume"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1869347729408
+    m_Localized: 'BGM
+
+      Le volume'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3232853045248
+    m_Localized: Rotation
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3318483955712
+    m_Localized: verticale
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3393197092864
+    m_Localized: Horizontale
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4991612792832
+    m_Localized: "\rJEU"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5070209855488
+    m_Localized: UI
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5188384370688
+    m_Localized: "\rSonner"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5254658568192
+    m_Localized: "\rIntimit\xE9\r\nPolitique"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 604538726690816
+    m_Localized: Sauvegarder
+    m_Metadata:
+      m_Items: []
+  - m_Id: 604609065168896
+    m_Localized: Enregistrer sous
+    m_Metadata:
+      m_Items: []
+  - m_Id: 604701780258816
+    m_Localized: Ouverte
+    m_Metadata:
+      m_Items: []
+  - m_Id: 628043971211264
+    m_Localized: Entraine toi
+    m_Metadata:
+      m_Items: []
+  - m_Id: 739465912823808
+    m_Localized: Ouverte
+    m_Metadata:
+      m_Items: []
+  - m_Id: 740057326465024
+    m_Localized: "Rev\xE9rifier!\r\nVeux-tu vraiment\r\n<b>  Supprimer </b> ce travail?\r\nCette
+      op\xE9ration <b> <color = red>\r\nne peut pas </color> </b> \xEAtre invers\xE9"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 740613503758336
+    m_Localized: Oui
+    m_Metadata:
+      m_Items: []
+  - m_Id: 740682126766080
+    m_Localized: Non
+    m_Metadata:
+      m_Items: []
+  - m_Id: 771909961560064
+    m_Localized: "Si vous n'avez pas enregistr\xE9 la conception actuelle,\r\nVos
+      donn\xE9es de conception seront perdues. \r\nContinuer?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 772105671979008
+    m_Localized: Oui
+    m_Metadata:
+      m_Items: []
+  - m_Id: 772222646923264
+    m_Localized: Non
+    m_Metadata:
+      m_Items: []
+  - m_Id: 772749363425280
+    m_Localized: "Enregistr\xE9 !"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 772978972209152
+    m_Localized: "\rPr\xEAt ..."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 774739250294784
+    m_Localized: Fichier
+    m_Metadata:
+      m_Items: []
+  - m_Id: 775047535833088
+    m_Localized: "Arri\xE8re-plan"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 775271243231232
+    m_Localized: Outils
+    m_Metadata:
+      m_Items: []
+  - m_Id: 775363564056576
+    m_Localized: Grille
+    m_Metadata:
+      m_Items: []
+  - m_Id: 799231297105920
+    m_Localized: "\rPalette de base (palette c\xF4t\xE9 gauche uniquement)\r\nsera
+      r\xE9initialis\xE9. Continuer?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 808425907728384
+    m_Localized: "<b> - Avertissement - </b>\r\nUne r\xE9solution trop \xE9lev\xE9e
+      par rapport \xE0 votre appareil peut provoquer un arr\xEAt inhabituel de l'application.
+      Veuillez ne pas cr\xE9er d'environnement \xE0 r\xE9solution trop \xE9lev\xE9e
+      sur un appareil \xE0 faible performance\r\net enregistrez p\xE9riodiquement
+      votre design."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 811829358931968
+    m_Localized: "Entrez la r\xE9solution"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 812325566066688
+    m_Localized: '  Gamme: 1 ~ 100'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 816525234581504
+    m_Localized: d'accord
+    m_Metadata:
+      m_Items: []
+  - m_Id: 816995000823808
+    m_Localized: FIX
+    m_Metadata:
+      m_Items: []
+  - m_Id: 817990556626944
+    m_Localized: "\rEntrez le nom du fichier ..."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1050329006125056
+    m_Localized: "\rLangue"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1150599392309248
+    m_Localized: "Tutoriel activ\xE9 / d\xE9sactiv\xE9"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2181186072784896
+    m_Localized: PUT
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2181227797721088
+    m_Localized: DEL
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2189169536184320
+    m_Localized: "\rPr\xE9cision \nde glissement \ndu joystick"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2306261442801664
+    m_Localized: "\rTaille (r\xE9solution)"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2306288047271936
+    m_Localized: "Arri\xE8re-plan"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 31858360048332800
+    m_Localized: "S'il vous pla\xEEt, \nattendez..."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40012999914598400
+    m_Localized: "Jouer \xE0 l'annonce pour jouer \xE0 Pro ?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 41360004763004928
+    m_Localized: prime
+    m_Metadata:
+      m_Items: []
+  - m_Id: 41360795896819712
+    m_Localized: Supprimez la pub
+    m_Metadata:
+      m_Items: []
+  - m_Id: 41361643397885952
+    m_Localized: "Supprimez toutes les annonces <b>d\xE9finitivement</b>."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 41362973445238784
+    m_Localized: 'Annuel
+
+      Abonnement'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 41363339981271040
+    m_Localized: 'Mensuel
+
+      Abonnement'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 41363650020028416
+    m_Localized: "\u25CF Supprimer toutes les annonces <b>d\xE9finitivement</b>.\r\n\u25CF
+      Activez toutes les briques.\r\n\u25CF Activer tous les mat\xE9riaux."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 41364031609417728
+    m_Localized: "Veuillez v\xE9rifier la connexion Internet."
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 1

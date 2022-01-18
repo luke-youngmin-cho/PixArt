@@ -1,0 +1,281 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: String Localization Table_no
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: no
+  m_SharedData: {fileID: 11400000, guid: 56840442ea7aa6d4db02e6d44aebac4c, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 300778696704
+    m_Localized: Barn
+    m_Metadata:
+      m_Items: []
+  - m_Id: 542064422912
+    m_Localized: Pro
+    m_Metadata:
+      m_Items: []
+  - m_Id: 748117995520
+    m_Localized: Innstillinger
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1022060572672
+    m_Localized: 'Zoom
+
+      Hastighet'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1144349700096
+    m_Localized: 'Styrespak
+
+      Hastighet'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1266173259776
+    m_Localized: 'Styrespak
+
+      Pressing
+
+      Forsinkelse'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1508775997440
+    m_Localized: 'Skjerm
+
+      Orientering'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1667199053824
+    m_Localized: BGM
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1766574698496
+    m_Localized: "SFX \nVolum"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1869347729408
+    m_Localized: "BGM \nVolum"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3232853045248
+    m_Localized: Rotasjon
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3318483955712
+    m_Localized: Vertikal Fix
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3393197092864
+    m_Localized: Horisontal Fix
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4991612792832
+    m_Localized: SPILL
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5070209855488
+    m_Localized: UI
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5188384370688
+    m_Localized: Lyd
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5254658568192
+    m_Localized: 'Personvern
+
+      Retningslinjer'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 604538726690816
+    m_Localized: 'Lagre '
+    m_Metadata:
+      m_Items: []
+  - m_Id: 604609065168896
+    m_Localized: Lagre som
+    m_Metadata:
+      m_Items: []
+  - m_Id: 604701780258816
+    m_Localized: "\xC5pen"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 628043971211264
+    m_Localized: "\xD8v"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 740057326465024
+    m_Localized: 'Dobbel sjekk!
+
+      Vil du virkelig
+
+      Slettdenne jobben?
+
+      Denne
+      operasjonen
+
+      kan ikkebli reversert'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 739465912823808
+    m_Localized: "\xC5pen"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 740613503758336
+    m_Localized: Ja
+    m_Metadata:
+      m_Items: []
+  - m_Id: 772105671979008
+    m_Localized: Ja
+    m_Metadata:
+      m_Items: []
+  - m_Id: 740682126766080
+    m_Localized: Nei
+    m_Metadata:
+      m_Items: []
+  - m_Id: 772222646923264
+    m_Localized: Nei
+    m_Metadata:
+      m_Items: []
+  - m_Id: 771909961560064
+    m_Localized: "Hvis du ikke lagret gjeldende design,\r\nDesigndataene dine g\xE5r
+      tapt.\r\nFortsette?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 772749363425280
+    m_Localized: Lagret!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 772978972209152
+    m_Localized: I klar ...
+    m_Metadata:
+      m_Items: []
+  - m_Id: 774739250294784
+    m_Localized: Fil og innstillinger
+    m_Metadata:
+      m_Items: []
+  - m_Id: 775047535833088
+    m_Localized: 'Bakgrunn '
+    m_Metadata:
+      m_Items: []
+  - m_Id: 775271243231232
+    m_Localized: "Verkt\xF8y"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 775363564056576
+    m_Localized: Rutenett
+    m_Metadata:
+      m_Items: []
+  - m_Id: 799231297105920
+    m_Localized: "Grunnpall (kun pall p\xE5 venstre side)\r\nvil bli tilbakestilt.
+      Fortsette?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 808425907728384
+    m_Localized: "-Advarsel-\r\nFor h\xF8y oppl\xF8sning sammenlignet med enheten
+      din kan f\xF8re til uvanlig nedleggelse av appen. Ikke lag et milj\xF8 med
+      for h\xF8y oppl\xF8sning p\xE5 enheter med lav ytelse\r\nog lagre designet
+      med jevne mellomrom."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 811829358931968
+    m_Localized: "Skriv inn oppl\xF8sning"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 812325566066688
+    m_Localized: "  Omr\xE5de: 1 ~ 100"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 816525234581504
+    m_Localized: OK
+    m_Metadata:
+      m_Items: []
+  - m_Id: 816995000823808
+    m_Localized: FIX
+    m_Metadata:
+      m_Items: []
+  - m_Id: 817990556626944
+    m_Localized: Skriv inn filnavn ...
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1050329006125056
+    m_Localized: "Spr\xE5k"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1150599392309248
+    m_Localized: "Oppl\xE6ring P\xE5/Av"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2181186072784896
+    m_Localized: sette
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2181227797721088
+    m_Localized: slett
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2189169536184320
+    m_Localized: 'Styrespak
+
+      Dra
+
+      Presisjon'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2306261442801664
+    m_Localized: "St\xF8rrelse (oppl\xF8sning) "
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2306288047271936
+    m_Localized: Bakgrunn
+    m_Metadata:
+      m_Items: []
+  - m_Id: 31858360048332800
+    m_Localized: "V\xE6r s\xE5 snill\r\nVent ..."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40012999914598400
+    m_Localized: "spille reklame for \xE5 spille pro?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 41360004763004928
+    m_Localized: Premium
+    m_Metadata:
+      m_Items: []
+  - m_Id: 41360795896819712
+    m_Localized: Fjern annonser
+    m_Metadata:
+      m_Items: []
+  - m_Id: 41361643397885952
+    m_Localized: 'Fjern alle annonser <b>permanent</b>. '
+    m_Metadata:
+      m_Items: []
+  - m_Id: 41362973445238784
+    m_Localized: "\xC5rlig\r\nAbonnement"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 41363339981271040
+    m_Localized: Abonnement
+    m_Metadata:
+      m_Items: []
+  - m_Id: 41363650020028416
+    m_Localized: "\u25CF Fjern alle annonser <b>permanent</b>.\r\n\u25CF Aktiver
+      alle murstein.\r\n\u25CF Aktiver alt materiale. "
+    m_Metadata:
+      m_Items: []
+  - m_Id: 41364031609417728
+    m_Localized: Sjekk internettforbindelsen.
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 1

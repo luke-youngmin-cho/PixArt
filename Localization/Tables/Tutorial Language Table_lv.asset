@@ -1,0 +1,179 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: Tutorial Language Table_lv
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: lv
+  m_SharedData: {fileID: 11400000, guid: 4956535b2779b0f4d8538f269b2c05b7, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 26051784704
+    m_Localized: "Sp\u0113l\u0113t pam\u0101c\u012Bbu ??"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 147413970944
+    m_Localized: "J\u0101"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 194444701696
+    m_Localized: "N\u0113"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 576801648640
+    m_Localized: "Izm\u0113ra (iz\u0161\u0137irtsp\u0113jas) iestat\u012Bjums.\r\nNoklik\u0161\u0137iniet
+      uz sarkan\u0101 kuba ar numuru 5."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066268536832
+    m_Localized: "Fona iestat\u012Bjums.\r\nIzv\u0113lieties roz\u0101 - debesis. "
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1303389319168
+    m_Localized: "Iestat\u012B\u0161ana pabeigta.\r\nNoklik\u0161\u0137iniet uz pogas
+      Labi (za\u013C\u0101 atz\u012Bme), lai izveidotu vidi."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1808882642944
+    m_Localized: "S\u0101kotn\u0113jie vides iestat\u012Bjumi tika pabeigti.\r\nPirmk\u0101rt,
+      izveidosim kubu.\r\nAtveriet \u0137ie\u0123e\u013Cu sarakstu."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2416754733056
+    m_Localized: "\u0160eit j\u016Bs varat izv\u0113l\u0113ties \u0137ie\u0123e\u013Cus.\r\nPagaid\u0101m
+      izv\u0113lieties kubu. "
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2654093619200
+    m_Localized: "Tika atlas\u012Bts kubs.\r\nAizveriet \u0137ie\u0123e\u013Cu sarakstu."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3077634437120
+    m_Localized: "Palet\u0113 varat main\u012Bt \u0137ie\u0123e\u013Cu kr\u0101su.\r\nPalet\u0113
+      izv\u0113lieties kr\u0101su."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4821286301696
+    m_Localized: "J\u016Bs varat ar\u012B main\u012Bt paletes kr\u0101su.\r\nAtv\u0113rts
+      kr\u0101su atlas\u012Bt\u0101js. "
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5171468742656
+    m_Localized: "\u0160eit j\u016Bs varat main\u012Bt kr\u0101su.\r\nPagaid\u0101m
+      vienk\u0101r\u0161i noklik\u0161\u0137iniet uz Labi."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5773397504000
+    m_Localized: "Izmantosim kursorsviru. Noklik\u0161\u0137iniet uz kursorsviras
+      sarkan\u0101s da\u013Cas\r\nlai kursors var\u0113tu p\u0101rvietoties sarkan\u0101
+      virzien\u0101."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5774936813568
+    m_Localized: "M\u0113\u0123iniet noklik\u0161\u0137in\u0101t uz citiem kursorsviru
+      virzieniem.\r\nTurpinot nospiest, kursors nep\u0101rtraukti kustas. "
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6947211227136
+    m_Localized: "Uzlieciet \u0137ie\u0123e\u013Cus uz \u0161iem 3 punktiem.\r\nP\u0101rvietojiet
+      kursoru ar kursorsviru,\r\nun nospiediet pogu PUT."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7439479910400
+    m_Localized: "Izdz\u0113siet visus \u0137ie\u0123e\u013Cus.\r\nP\u0101rvietojiet
+      kursoru ar kursorsviru,\r\nun nospiediet pogu DEL. "
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7681705160704
+    m_Localized: "Saglab\u0101sim j\u016Bsu datus.\r\nNoklik\u0161\u0137iniet uz
+      pogas Saglab\u0101t."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8048719343616
+    m_Localized: "Ievadiet faila nosaukumu,\r\nnoklik\u0161\u0137iniet uz Labi, lai
+      saglab\u0101tu."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8486747287552
+    m_Localized: "P\u0101rbaud\u012Bsim, vai fails ir veiksm\u012Bgi saglab\u0101ts.\r\nNoklik\u0161\u0137iniet
+      uz pogas Atv\u0113rt. "
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8930898915328
+    m_Localized: "Labi. fails tika veiksm\u012Bgi saglab\u0101ts.\r\nNoklik\u0161\u0137iniet
+      uz pogas X, lai aizv\u0113rtu atv\u0113rt\u0101 faila logu. "
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9406793035776
+    m_Localized: "Labi padar\u012Bts !\r\nApm\u0101c\u012Bba ir pabeigta.\r\nEs iesaku
+      sp\u0113les laik\u0101 periodiski saglab\u0101t failu!\r\nPieskarieties zvaigznei,
+      lai izveidotu jaunu sp\u0113li."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 65556582412288
+    m_Localized: "Ja neesat saglab\u0101jis pa\u0161reiz\u0113jo dizainu,\r\nJ\u016Bsu
+      dizaina dati tiks zaud\u0113ti.\r\nTurpin\u0101t?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1405082433138688
+    m_Localized: "N\u0101kamais "
+    m_Metadata:
+      m_Items: []
+  - m_Id: 83909850083328
+    m_Localized: "J\u0101"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 84866541465600
+    m_Localized: "N\u0113"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 93791768719360
+    m_Localized: "Saglab\u0101ts!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1405254382825472
+    m_Localized: "Izmantosim kursorsviru.\r\nJ\u016Bs varat p\u0101rvietot kursoru\r\nvelkot,
+      noklik\u0161\u0137inot un nospie\u017Eot kursorsviru."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1485501937659904
+    m_Localized: "Pirmk\u0101rt, velciet kursorsviru.\r\nVelciet kursorsviras centru\r\nuz
+      sarkan\u0101m, zil\u0101m, za\u013C\u0101m bulti\u0146\u0101m"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1485706397396992
+    m_Localized: "Labi. J\u016Bs varat main\u012Bt kust\u012Bbas \u0101trumu\r\npar
+      iestat\u012Bjumiem v\u0113l\u0101k."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1485907942092800
+    m_Localized: "Vad\u012Bbas svira otr\u0101. Noklik\u0161\u0137inot uz kursorsviru.\r\n\r\nNoklik\u0161\u0137iniet
+      uz bulti\u0146\u0101m un p\u0101rvietojiet kursoru."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1486258590101504
+    m_Localized: "Kursorsvira tre\u0161\u0101, nospie\u017Eot kursorsviru.\r\n\r\nTuriet
+      nospiestu bulti\u0146as, lai kursors var\u0113tu kust\u0113ties."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1486484042330112
+    m_Localized: "Labi.\r\n\r\nTagad m\u0113s noliksim un izdz\u0113s\u012Bsim \u0137ie\u0123e\u013Cu."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1486485241901056
+    m_Localized: "Labi.\r\nJa p\u0101rvietojat kursorsviru, turot nospiestu pogu
+      PUT, \u0137ie\u0123elis tiks likts.\r\nPoga Dz\u0113st darbojas t\u0101pat."
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 1

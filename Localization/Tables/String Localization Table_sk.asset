@@ -1,0 +1,266 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: String Localization Table_sk
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: sk
+  m_SharedData: {fileID: 11400000, guid: 56840442ea7aa6d4db02e6d44aebac4c, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 300778696704
+    m_Localized: Deti
+    m_Metadata:
+      m_Items: []
+  - m_Id: 542064422912
+    m_Localized: Pro
+    m_Metadata:
+      m_Items: []
+  - m_Id: 748117995520
+    m_Localized: Nastavenia
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1022060572672
+    m_Localized: "Pribl\xED\u017Eenie\r\nR\xFDchlos\u0165"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1144349700096
+    m_Localized: "Joystick\r\nR\xFDchlos\u0165"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1266173259776
+    m_Localized: 'Joystick
+
+      Lisovanie
+
+      Oneskorenie'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1508775997440
+    m_Localized: "Obrazovka\r\nOrient\xE1cia"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1667199053824
+    m_Localized: BGM
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1766574698496
+    m_Localized: 'Objem
+
+      SFX'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1869347729408
+    m_Localized: 'Objem
+
+      BGM'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3232853045248
+    m_Localized: "Rota\u010Dn\xE9"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3318483955712
+    m_Localized: "Zvisl\xE1 oprava"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3393197092864
+    m_Localized: "Horizont\xE1lna oprava"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4991612792832
+    m_Localized: HRA
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5070209855488
+    m_Localized: UI
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5188384370688
+    m_Localized: Zvuk
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5254658568192
+    m_Localized: "Ochrana osobn\xFDch \xFAdajov\r\nZ\xE1sady"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 604538726690816
+    m_Localized: "Ulo\u017Ei\u0165"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 604609065168896
+    m_Localized: "Ulo\u017Ei\u0165 ako"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 604701780258816
+    m_Localized: "Otvoren\xE9"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 628043971211264
+    m_Localized: Prax
+    m_Metadata:
+      m_Items: []
+  - m_Id: 740057326465024
+    m_Localized: "Opakovan\xE1 kontrola!\r\nNaozaj chce\u0161?\r\nVymaza\u0165t\xE1to
+      pr\xE1ca?\r\nT\xE1to oper\xE1cia\r\nnem\xF4\u017Eeby\u0165 obr\xE1ten\xFD"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 739465912823808
+    m_Localized: "Otvoren\xE9"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 740613503758336
+    m_Localized: "\xC1no"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 772105671979008
+    m_Localized: "\xC1no"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 740682126766080
+    m_Localized: Nie
+    m_Metadata:
+      m_Items: []
+  - m_Id: 772222646923264
+    m_Localized: Nie
+    m_Metadata:
+      m_Items: []
+  - m_Id: 816525234581504
+    m_Localized: OK
+    m_Metadata:
+      m_Items: []
+  - m_Id: 812325566066688
+    m_Localized: '  Rozsah: 1 ~ 100'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 771909961560064
+    m_Localized: "Ak ste neulo\u017Eili aktu\xE1lny dizajn,\r\nVa\u0161e kon\u0161truk\u010Dn\xE9
+      \xFAdaje sa stratia.\r\nPokra\u010Dova\u0165?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 772749363425280
+    m_Localized: "Ulo\u017Een\xE9!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 772978972209152
+    m_Localized: "Pripraven\xFD ..."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 774739250294784
+    m_Localized: "S\xFAbor a nastavenia"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 775047535833088
+    m_Localized: Pozadie
+    m_Metadata:
+      m_Items: []
+  - m_Id: 775271243231232
+    m_Localized: "N\xE1stroje"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 775363564056576
+    m_Localized: "Mrie\u017Eka"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 799231297105920
+    m_Localized: "Z\xE1kladn\xE1 paleta (iba paleta na \u013Eavej strane)\r\nbude
+      resetovan\xFD. Pokra\u010Dova\u0165?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 808425907728384
+    m_Localized: "-- Pozor --\r\nPr\xEDli\u0161 vysok\xE9 rozl\xED\u0161enie v porovnan\xED
+      s va\u0161im zariaden\xEDm m\xF4\u017Ee sp\xF4sobi\u0165 neobvykl\xE9 vypnutie
+      aplik\xE1cie. Na zariaden\xED s n\xEDzkym v\xFDkonom nevytv\xE1rajte prostredie
+      s pr\xEDli\u0161 vysok\xFDm rozl\xED\u0161en\xEDm\r\na svoj n\xE1vrh pravidelne
+      ukladajte."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 811829358931968
+    m_Localized: "Zadajte rozl\xED\u0161enie"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 816995000823808
+    m_Localized: OPRAVA
+    m_Metadata:
+      m_Items: []
+  - m_Id: 817990556626944
+    m_Localized: "Zadajte n\xE1zov s\xFAboru ..."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1050329006125056
+    m_Localized: Jazyk
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1150599392309248
+    m_Localized: "V\xFDu\u010Dba zapnut\xE1/vypnut\xE1"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2181186072784896
+    m_Localized: PUT
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2181227797721088
+    m_Localized: DEL
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2189169536184320
+    m_Localized: "Joystick\r\n\u0164ahanie\r\nPresnos\u0165"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2306261442801664
+    m_Localized: "Ve\u013Ekos\u0165 (Rozl\xED\u0161enie) "
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2306288047271936
+    m_Localized: Pozadie
+    m_Metadata:
+      m_Items: []
+  - m_Id: 31858360048332800
+    m_Localized: "Pros\xEDm\r\nPo\u010Dkaj ... "
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40012999914598400
+    m_Localized: "Chcete prehra\u0165 reklamu a hra\u0165 reklamu?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 41360004763004928
+    m_Localized: "Pr\xE9mia"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 41360795896819712
+    m_Localized: "Odstr\xE1ni\u0165 reklamy"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 41361643397885952
+    m_Localized: "Odstr\xE1ni\u0165 v\u0161etky reklamy natrvalo."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 41362973445238784
+    m_Localized: "Ro\u010Dne\r\nPredplatn\xE9"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 41363339981271040
+    m_Localized: "Mesa\u010Dne\r\nPredplatn\xE9"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 41363650020028416
+    m_Localized: "\u25CF Odstr\xE1\u0148te v\u0161etky reklamy natrvalo.\r\n\u25CF
+      Aktivujte v\u0161etky tehly.\r\n\u25CF Aktivujte v\u0161etky materi\xE1ly."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 41364031609417728
+    m_Localized: "Skontrolujte internetov\xE9 pripojenie."
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 1

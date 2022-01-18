@@ -1,0 +1,177 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: Tutorial Language Table_pl
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: pl
+  m_SharedData: {fileID: 11400000, guid: 4956535b2779b0f4d8538f269b2c05b7, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 26051784704
+    m_Localized: Zagraj w samouczek ??
+    m_Metadata:
+      m_Items: []
+  - m_Id: 147413970944
+    m_Localized: Tak
+    m_Metadata:
+      m_Items: []
+  - m_Id: 194444701696
+    m_Localized: Nie
+    m_Metadata:
+      m_Items: []
+  - m_Id: 576801648640
+    m_Localized: "Ustawienie rozmiaru (rozdzielczo\u015B\u0107).\r\nKliknij czerwon\u0105
+      kostk\u0119 z numerem 5."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066268536832
+    m_Localized: "Ustawienie t\u0142a.\r\nWybierz r\xF3\u017Cowy - niebo."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1303389319168
+    m_Localized: "Ustawienie zako\u0144czone.\r\nKliknij przycisk OK (zielony znacznik),
+      aby utworzy\u0107 \u015Brodowisko."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2416754733056
+    m_Localized: "Tutaj mo\u017Cesz wybra\u0107 ceg\u0142y.\r\nNa razie wybierz kostk\u0119."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1808882642944
+    m_Localized: "Wst\u0119pne ustawienia \u015Brodowiska zosta\u0142y zako\u0144czone.\r\nNajpierw
+      zr\xF3bmy sze\u015Bcian.\r\nOtw\xF3rz list\u0119 cegie\u0142."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2654093619200
+    m_Localized: "Kostka zosta\u0142a wybrana.\r\nZamknij list\u0119 cegie\u0142."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3077634437120
+    m_Localized: "Mo\u017Cesz zmieni\u0107 kolor ceg\u0142y na palecie.\r\nWybierz
+      kolor z palety."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4821286301696
+    m_Localized: "Mo\u017Cesz tak\u017Ce zmieni\u0107 kolor palety.\r\nOtw\xF3rz
+      pr\xF3bnik kolor\xF3w."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5171468742656
+    m_Localized: "Tutaj mo\u017Cesz zmieni\u0107 kolor.\r\nNa razie wystarczy klikn\u0105\u0107
+      OK."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5773397504000
+    m_Localized: "U\u017Cyjmy joysticka. Kliknij czerwon\u0105 cz\u0119\u015B\u0107
+      joysticka\r\ndzi\u0119ki czemu kursor mo\u017Ce porusza\u0107 si\u0119 w kierunku
+      czerwonym."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5774936813568
+    m_Localized: "Spr\xF3buj klikn\u0105\u0107 inne kierunki joysticka.\r\nJe\u015Bli
+      b\u0119dziesz naciska\u0107, Kursor porusza si\u0119 w spos\xF3b ci\u0105g\u0142y."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6947211227136
+    m_Localized: "Umie\u015B\u0107 ceg\u0142y na tych 3 punktach.\r\nPrzesu\u0144
+      kursor za pomoc\u0105 joysticka,\r\ni naci\u015Bnij przycisk PUT."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7439479910400
+    m_Localized: "Usu\u0144 wszystkie ceg\u0142y.\r\nPrzesu\u0144 kursor za pomoc\u0105
+      joysticka,\r\ni naci\u015Bnij przycisk DEL."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7681705160704
+    m_Localized: "Oszcz\u0119d\u017Amy Twoje dane.\r\nKliknij przycisk Zapisz. "
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8048719343616
+    m_Localized: "Wpisz nazw\u0119 pliku,\r\nkliknij OK, aby zapisa\u0107. "
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8486747287552
+    m_Localized: "Sprawd\u017Amy, czy plik zosta\u0142 zapisany pomy\u015Blnie.\r\nKliknij
+      przycisk Otw\xF3rz. "
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8930898915328
+    m_Localized: "Dobry. plik zosta\u0142 pomy\u015Blnie zapisany.\r\nKliknij przycisk
+      X, aby zamkn\u0105\u0107 okno otwartego pliku."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9406793035776
+    m_Localized: "Bardzo dobrze !\r\nSamouczek zako\u0144czony.\r\nPolecam okresowe
+      zapisywanie plik\xF3w podczas gry!\r\nDotknij gwiazdki, aby stworzy\u0107 now\u0105
+      gr\u0119. "
+    m_Metadata:
+      m_Items: []
+  - m_Id: 65556582412288
+    m_Localized: "Je\u015Bli nie zapisa\u0142e\u015B aktualnego projektu,\r\nTwoje
+      dane projektowe zostan\u0105 utracone.\r\nKontyntynuj?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1405082433138688
+    m_Localized: "Nast\u0119pny "
+    m_Metadata:
+      m_Items: []
+  - m_Id: 83909850083328
+    m_Localized: Tak
+    m_Metadata:
+      m_Items: []
+  - m_Id: 84866541465600
+    m_Localized: Nie
+    m_Metadata:
+      m_Items: []
+  - m_Id: 93791768719360
+    m_Localized: Zapisano !
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1405254382825472
+    m_Localized: "U\u017Cyjmy joysticka.\r\nMo\u017Cesz przesun\u0105\u0107 kursor\r\nprzeci\u0105gaj\u0105c,
+      klikaj\u0105c i naciskaj\u0105c joystick."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1485501937659904
+    m_Localized: "Po pierwsze, przeci\u0105ganie joysticka.\r\nPrzeci\u0105gnij \u015Brodek
+      joysticka\r\nna czerwone, niebieskie, zielone strza\u0142ki"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1485706397396992
+    m_Localized: "Dobry. Mo\u017Cesz zmieni\u0107 pr\u0119dko\u015B\u0107 poruszania
+      si\u0119\r\nna ustawieniach p\xF3\u017Aniej. "
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1485907942092800
+    m_Localized: "Joystick drugi. Klikni\u0119cie joysticka.\r\n\r\nKliknij strza\u0142ki
+      i przesu\u0144 kursor."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1486258590101504
+    m_Localized: "Joystick trzeci, naci\u015Bni\u0119cie joysticka.\r\n\r\nNaciskaj
+      strza\u0142ki, aby kursor m\xF3g\u0142 si\u0119 porusza\u0107."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1486484042330112
+    m_Localized: "Dobry.\r\n\r\nTeraz w\u0142o\u017Cymy i usuniemy ceg\u0142\u0119."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1486485241901056
+    m_Localized: "Dobry.\r\nJe\u015Bli przesuniesz joystick przy wci\u015Bni\u0119tym
+      przycisku PUT, klocek b\u0119dzie dalej uk\u0142adany.\r\nPrzycisk Usu\u0144
+      dzia\u0142a r\xF3wnie\u017C tak samo."
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 1

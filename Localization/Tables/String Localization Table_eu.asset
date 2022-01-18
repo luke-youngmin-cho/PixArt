@@ -1,0 +1,292 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: String Localization Table_eu
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: eu
+  m_SharedData: {fileID: 11400000, guid: 56840442ea7aa6d4db02e6d44aebac4c, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 300778696704
+    m_Localized: Haurrak
+    m_Metadata:
+      m_Items: []
+  - m_Id: 542064422912
+    m_Localized: Pro
+    m_Metadata:
+      m_Items: []
+  - m_Id: 748117995520
+    m_Localized: Ezarpenak
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1022060572672
+    m_Localized: 'Zooma
+
+      Abiadura'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1144349700096
+    m_Localized: 'Joystick
+
+      Abiadura'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1266173259776
+    m_Localized: 'Joystick
+
+      Sakatzen
+
+      Atzerapena'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1508775997440
+    m_Localized: 'Pantaila
+
+      Orientazioa'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1667199053824
+    m_Localized: BGM
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1766574698496
+    m_Localized: "SFX\n Bolumena"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1869347729408
+    m_Localized: "BGM \nBolumena"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3232853045248
+    m_Localized: Birakaria
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3318483955712
+    m_Localized: Konponketa bertikala
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3393197092864
+    m_Localized: Konponketa horizontala
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4991612792832
+    m_Localized: JOLASA
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5070209855488
+    m_Localized: UI
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5188384370688
+    m_Localized: Soinua
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5254658568192
+    m_Localized: 'Pribatutasuna
+
+      Politika'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 604538726690816
+    m_Localized: Gorde
+    m_Metadata:
+      m_Items: []
+  - m_Id: 604609065168896
+    m_Localized: Gorde honela
+    m_Metadata:
+      m_Items: []
+  - m_Id: 604701780258816
+    m_Localized: Ireki
+    m_Metadata:
+      m_Items: []
+  - m_Id: 628043971211264
+    m_Localized: Praktikatu
+    m_Metadata:
+      m_Items: []
+  - m_Id: 740057326465024
+    m_Localized: 'Egiaztapen bikoitza!
+
+      Benetan nahi al duzu?
+
+      Ezabatulan
+      hau?
+
+      Eragiketa hau
+
+      ezinalderantziz egon'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 739465912823808
+    m_Localized: Ireki
+    m_Metadata:
+      m_Items: []
+  - m_Id: 740613503758336
+    m_Localized: Bai
+    m_Metadata:
+      m_Items: []
+  - m_Id: 740682126766080
+    m_Localized: Ez
+    m_Metadata:
+      m_Items: []
+  - m_Id: 771909961560064
+    m_Localized: 'Uneko diseinua gorde ez baduzu,
+
+      Diseinuaren datuak galduko
+      dira.
+
+      Jarraitu?'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 772105671979008
+    m_Localized: Bai
+    m_Metadata:
+      m_Items: []
+  - m_Id: 772222646923264
+    m_Localized: Ez
+    m_Metadata:
+      m_Items: []
+  - m_Id: 772749363425280
+    m_Localized: Gordeta!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 772978972209152
+    m_Localized: Prest ...
+    m_Metadata:
+      m_Items: []
+  - m_Id: 774739250294784
+    m_Localized: Fitxategia eta ezarpenak
+    m_Metadata:
+      m_Items: []
+  - m_Id: 775047535833088
+    m_Localized: Aurrekariak
+    m_Metadata:
+      m_Items: []
+  - m_Id: 775271243231232
+    m_Localized: Tresnak
+    m_Metadata:
+      m_Items: []
+  - m_Id: 775363564056576
+    m_Localized: Sareta
+    m_Metadata:
+      m_Items: []
+  - m_Id: 799231297105920
+    m_Localized: 'Oinarrizko Paleta (Ezkerreko paleta soilik)
+
+      berrezarri egingo
+      da. Jarraitu?'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 808425907728384
+    m_Localized: '- Abisua -
+
+      Gailuarekin alderatuta bereizmen handiegia ezohiko
+      aplikazioa itzaltzea eragin dezake. Mesedez, ez sortu bereizmen handiko ingurunerik
+      errendimendu baxuko gailuan
+
+      eta gorde zure diseinua aldian-aldian.'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 811829358931968
+    m_Localized: Sartu Ebazpena
+    m_Metadata:
+      m_Items: []
+  - m_Id: 812325566066688
+    m_Localized: '  Barrutia: 1 ~ 100'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 816525234581504
+    m_Localized: Ados
+    m_Metadata:
+      m_Items: []
+  - m_Id: 816995000823808
+    m_Localized: FIX
+    m_Metadata:
+      m_Items: []
+  - m_Id: 817990556626944
+    m_Localized: Idatzi fitxategiaren izena ...
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1050329006125056
+    m_Localized: Laguage
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1150599392309248
+    m_Localized: Tutoriala On / Off
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2181186072784896
+    m_Localized: JARRI
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2181227797721088
+    m_Localized: EZABATU
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2189169536184320
+    m_Localized: "Joystickaren \narrastatze \nzehaztasuna"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2306261442801664
+    m_Localized: Tamaina (Ebazpena)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2306288047271936
+    m_Localized: Aurrekariak
+    m_Metadata:
+      m_Items: []
+  - m_Id: 31858360048332800
+    m_Localized: 'Mesedez
+
+      Itxaron ...'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40012999914598400
+    m_Localized: Play Ad to Play Pro?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 41360004763004928
+    m_Localized: Premium
+    m_Metadata:
+      m_Items: []
+  - m_Id: 41360795896819712
+    m_Localized: Kendu iragarkiak
+    m_Metadata:
+      m_Items: []
+  - m_Id: 41361643397885952
+    m_Localized: Kendu iragarki guztiak behin betiko.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 41362973445238784
+    m_Localized: 'Urtero
+
+      Harpidetza'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 41363339981271040
+    m_Localized: 'Hilabetekaria
+
+      Harpidetza'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 41363650020028416
+    m_Localized: "\u25CF Kendu iragarki guztiak behin betiko.\r\n\u25CF Aktibatu
+      adreilu guztiak.\r\n\u25CF Aktibatu material guztiak."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 41364031609417728
+    m_Localized: Mesedez, egiaztatu Interneteko konexioa.
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 1

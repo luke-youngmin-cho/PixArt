@@ -1,0 +1,268 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: String Localization Table_tr
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: tr
+  m_SharedData: {fileID: 11400000, guid: 56840442ea7aa6d4db02e6d44aebac4c, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 300778696704
+    m_Localized: "\xE7ocuklar"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 542064422912
+    m_Localized: Profesyonel
+    m_Metadata:
+      m_Items: []
+  - m_Id: 748117995520
+    m_Localized: Ayarlar
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1022060572672
+    m_Localized: "yak\u0131nla\u015Ft\u0131r\r\nH\u0131z"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1144349700096
+    m_Localized: "Oyun kolu\r\nH\u0131z"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1266173259776
+    m_Localized: 'Oyun kolu
+
+      presleme
+
+      gecikme'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1508775997440
+    m_Localized: 'Ekran
+
+      Oryantasyon'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1667199053824
+    m_Localized: BGM
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1766574698496
+    m_Localized: SFX Hacmi
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1869347729408
+    m_Localized: BGM Hacmi
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3232853045248
+    m_Localized: "D\xF6nme"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3318483955712
+    m_Localized: Dikey Sabitleme
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3393197092864
+    m_Localized: "Yatay D\xFCzeltme"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4991612792832
+    m_Localized: OYUN
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5070209855488
+    m_Localized: UI
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5188384370688
+    m_Localized: Ses
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5254658568192
+    m_Localized: 'Mahremiyet
+
+      Politika'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 604538726690816
+    m_Localized: Kaydet
+    m_Metadata:
+      m_Items: []
+  - m_Id: 604609065168896
+    m_Localized: "Farkl\u0131 Kaydet"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 604701780258816
+    m_Localized: "A\xE7\u0131k"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 739465912823808
+    m_Localized: "A\xE7\u0131k"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 628043971211264
+    m_Localized: "Al\u0131\u015Ft\u0131rma"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 740057326465024
+    m_Localized: "\xC7ift Kontrol!\r\nger\xE7ekten istiyor musun\r\nSilmekbu i\u015F?\r\nBu
+      operasyon\r\nyapamamtersine \xE7evrilebilir"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 740613503758336
+    m_Localized: 'Evet '
+    m_Metadata:
+      m_Items: []
+  - m_Id: 772105671979008
+    m_Localized: 'Evet '
+    m_Metadata:
+      m_Items: []
+  - m_Id: 740682126766080
+    m_Localized: "Hay\u0131r "
+    m_Metadata:
+      m_Items: []
+  - m_Id: 772222646923264
+    m_Localized: "Hay\u0131r "
+    m_Metadata:
+      m_Items: []
+  - m_Id: 771909961560064
+    m_Localized: "Mevcut tasar\u0131m\u0131 kaydetmediyseniz,\r\nTasar\u0131m verileriniz
+      kaybolacak.\r\nDevam?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 772749363425280
+    m_Localized: Kaydedildi !
+    m_Metadata:
+      m_Items: []
+  - m_Id: 772978972209152
+    m_Localized: "Haz\u0131r..."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 775047535833088
+    m_Localized: arka plan
+    m_Metadata:
+      m_Items: []
+  - m_Id: 774739250294784
+    m_Localized: Dosya ve Ayarlar
+    m_Metadata:
+      m_Items: []
+  - m_Id: 775271243231232
+    m_Localized: "Ara\xE7lar"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 775363564056576
+    m_Localized: Izgara
+    m_Metadata:
+      m_Items: []
+  - m_Id: 799231297105920
+    m_Localized: "Temel Palet (Yaln\u0131zca sol taraftaki palet)\r\ns\u0131f\u0131rlanacak.
+      Devam?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 808425907728384
+    m_Localized: "-- Uyar\u0131 --\r\nCihaz\u0131n\u0131za k\u0131yasla \xE7ok y\xFCksek
+      \xE7\xF6z\xFCn\xFCrl\xFCk, uygulaman\u0131n ola\u011Fan d\u0131\u015F\u0131
+      kapanmas\u0131na neden olabilir. L\xFCtfen d\xFC\u015F\xFCk performansl\u0131
+      cihazda \xE7ok y\xFCksek \xE7\xF6z\xFCn\xFCrl\xFCkl\xFC ortam olu\u015Fturmay\u0131n\r\nve
+      tasar\u0131m\u0131n\u0131z\u0131 periyodik olarak kaydedin."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 811829358931968
+    m_Localized: "\xC7\xF6z\xFCn\xFCrl\xFC\u011F\xFC Girin"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 812325566066688
+    m_Localized: "  Aral\u0131k : 1 ~ 100"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 816525234581504
+    m_Localized: tamam
+    m_Metadata:
+      m_Items: []
+  - m_Id: 41363650020028416
+    m_Localized: "\u25CF T\xFCm reklamlar\u0131 kal\u0131c\u0131 olarakkald\u0131r\u0131n
+      .\r\n\u25CF T\xFCm tu\u011Flalar\u0131 etkinle\u015Ftirin.\r\n\u25CF T\xFCm
+      malzemeleri etkinle\u015Ftirin."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 816995000823808
+    m_Localized: "D\xDCZELTME"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 817990556626944
+    m_Localized: "Dosya ad\u0131n\u0131 girin..."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1050329006125056
+    m_Localized: Dil
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1150599392309248
+    m_Localized: "E\u011Fitim A\xE7\u0131k/Kapal\u0131"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2181186072784896
+    m_Localized: koymak
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2181227797721088
+    m_Localized: sil
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2189169536184320
+    m_Localized: "Oyun kolu\r\nS\xFCr\xFCkleme\r\nHassasiyet"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2306261442801664
+    m_Localized: "Boyut(\xC7\xF6z\xFCn\xFCrl\xFCk)"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2306288047271936
+    m_Localized: arka plan
+    m_Metadata:
+      m_Items: []
+  - m_Id: 31858360048332800
+    m_Localized: "L\xFCtfen\r\nBekle..."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40012999914598400
+    m_Localized: "Profesyonel oynamak i\xE7in reklam\u0131 oynat?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 41360004763004928
+    m_Localized: Prim
+    m_Metadata:
+      m_Items: []
+  - m_Id: 41360795896819712
+    m_Localized: "Reklamlar\u0131 Kald\u0131r"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 41361643397885952
+    m_Localized: "T\xFCm reklamlar\u0131 kal\u0131c\u0131 olarakkald\u0131r\u0131n
+      ."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 41362973445238784
+    m_Localized: "Y\u0131ll\u0131k\r\nAbonelik"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 41363339981271040
+    m_Localized: "Ayl\u0131k\r\nAbonelik"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 41364031609417728
+    m_Localized: "L\xFCtfen internet ba\u011Flant\u0131s\u0131n\u0131 kontrol edin."
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 1

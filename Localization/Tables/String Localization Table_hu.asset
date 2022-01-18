@@ -1,0 +1,257 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: String Localization Table_hu
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: hu
+  m_SharedData: {fileID: 11400000, guid: 56840442ea7aa6d4db02e6d44aebac4c, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 300778696704
+    m_Localized: Gyerekek
+    m_Metadata:
+      m_Items: []
+  - m_Id: 542064422912
+    m_Localized: Pro
+    m_Metadata:
+      m_Items: []
+  - m_Id: 748117995520
+    m_Localized: "Be\xE1ll\xEDt\xE1sok "
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1022060572672
+    m_Localized: "Zoomol\xE1s\r\nSebess\xE9g"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1144349700096
+    m_Localized: "Joystick\r\nSebess\xE9g"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1266173259776
+    m_Localized: "Joystick\r\nNyomja meg\r\nK\xE9sleltet\xE9s"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1508775997440
+    m_Localized: "K\xE9perny\u0151\r\nT\xE1j\xE9koz\xF3d\xE1s"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1667199053824
+    m_Localized: BGM
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1766574698496
+    m_Localized: "SFX \nk\xF6tet "
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1869347729408
+    m_Localized: "BGM \nk\xF6tet "
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3232853045248
+    m_Localized: "Forgat\xE1s "
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3318483955712
+    m_Localized: "F\xFCgg\u0151leges jav\xEDt\xE1s"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3393197092864
+    m_Localized: "V\xEDzszintes jav\xEDt\xE1s"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4991612792832
+    m_Localized: "J\xC1T\xC9K"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5070209855488
+    m_Localized: 'UI '
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5188384370688
+    m_Localized: Hang
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5254658568192
+    m_Localized: "Mag\xE1n\xE9let\r\nH\xE1zirend"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 604538726690816
+    m_Localized: "Ment\xE9s"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 604609065168896
+    m_Localized: "Ment\xE9s m\xE1sk\xE9nt"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 604701780258816
+    m_Localized: Nyitott
+    m_Metadata:
+      m_Items: []
+  - m_Id: 628043971211264
+    m_Localized: Gyakorlat
+    m_Metadata:
+      m_Items: []
+  - m_Id: 740057326465024
+    m_Localized: "Kett\u0151s ellen\u0151rz\xE9s!\r\nT\xE9nyleg akarod\r\nT\xF6r\xF6lez
+      a munka?\r\nEzt a m\u0171veletet\r\nnem tudmegford\xEDtva"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 739465912823808
+    m_Localized: Nyitott
+    m_Metadata:
+      m_Items: []
+  - m_Id: 740613503758336
+    m_Localized: 'Igen '
+    m_Metadata:
+      m_Items: []
+  - m_Id: 740682126766080
+    m_Localized: 'Nem '
+    m_Metadata:
+      m_Items: []
+  - m_Id: 772222646923264
+    m_Localized: 'Nem '
+    m_Metadata:
+      m_Items: []
+  - m_Id: 772105671979008
+    m_Localized: 'Igen '
+    m_Metadata:
+      m_Items: []
+  - m_Id: 771909961560064
+    m_Localized: "Ha nem mentette el az aktu\xE1lis tervez\xE9st,\r\nA tervez\xE9si
+      adatok elvesznek.\r\nFolytatni?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 772749363425280
+    m_Localized: Mentve!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 772978972209152
+    m_Localized: "K\xE9sz ..."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 774739250294784
+    m_Localized: "F\xE1jl \xE9s be\xE1ll\xEDt\xE1sok"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 775047535833088
+    m_Localized: "H\xE1tt\xE9r"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 775271243231232
+    m_Localized: "Eszk\xF6z\xF6k"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 775363564056576
+    m_Localized: "R\xE1cs"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 799231297105920
+    m_Localized: "Alap raklap (csak bal oldali raklap)\r\nvissza\xE1ll. Folytatni?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 808425907728384
+    m_Localized: "-- Figyelem --\r\nAz eszk\xF6z\xE9hez k\xE9pest t\xFAl nagy felbont\xE1s
+      szokatlan alkalmaz\xE1sle\xE1ll\xE1st okozhat. K\xE9rj\xFCk, ne hozzon l\xE9tre
+      t\xFAl nagy felbont\xE1s\xFA k\xF6rnyezetet alacsony teljes\xEDtm\xE9ny\u0171
+      eszk\xF6z\xF6n\r\n\xE9s rendszeresen mentse el terv\xE9t."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 811829358931968
+    m_Localized: "\xCDrja be a felbont\xE1st "
+    m_Metadata:
+      m_Items: []
+  - m_Id: 812325566066688
+    m_Localized: "  Tartom\xE1ny: 1 ~ 100"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 816525234581504
+    m_Localized: OK
+    m_Metadata:
+      m_Items: []
+  - m_Id: 816995000823808
+    m_Localized: FIX
+    m_Metadata:
+      m_Items: []
+  - m_Id: 817990556626944
+    m_Localized: "\xCDrja be a f\xE1jl nev\xE9t ... "
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1050329006125056
+    m_Localized: Nyelv
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1150599392309248
+    m_Localized: "Oktat\xF3anyag Be/Ki"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2181186072784896
+    m_Localized: PUT
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2181227797721088
+    m_Localized: DEL
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2189169536184320
+    m_Localized: "Joystick \nh\xFAz\xE1si \npontoss\xE1g "
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2306261442801664
+    m_Localized: "M\xE9ret (felbont\xE1s) "
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2306288047271936
+    m_Localized: "H\xE1tt\xE9r"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 31858360048332800
+    m_Localized: "K\xE9rem\r\nV\xE1rj ..."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40012999914598400
+    m_Localized: "Rekl\xE1mot j\xE1tszani a Pro -hoz?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 41360004763004928
+    m_Localized: "Pr\xE9mium"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 41360795896819712
+    m_Localized: "Hirdet\xE9sek elt\xE1vol\xEDt\xE1sa"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 41361643397885952
+    m_Localized: "Az \xF6sszes hirdet\xE9s v\xE9glegeselt\xE1vol\xEDt\xE1sa."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 41362973445238784
+    m_Localized: "\xC9vi\r\nEl\u0151fizet\xE9s"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 41363339981271040
+    m_Localized: "Havi\r\nEl\u0151fizet\xE9s"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 41363650020028416
+    m_Localized: "\u25CF T\xE1vol\xEDtson el v\xE9glegesenminden hirdet\xE9st.\r\n\u25CF
+      Aktiv\xE1lja az \xF6sszes t\xE9gl\xE1t.\r\n\u25CF Aktiv\xE1lja az \xF6sszes
+      anyagot."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 41364031609417728
+    m_Localized: "K\xE9rj\xFCk, ellen\u0151rizze az internetkapcsolatot."
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 1

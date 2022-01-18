@@ -1,0 +1,177 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: Tutorial Language Table_cs
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: cs
+  m_SharedData: {fileID: 11400000, guid: 4956535b2779b0f4d8538f269b2c05b7, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 26051784704
+    m_Localized: "Hr\xE1t n\xE1vod ??"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 147413970944
+    m_Localized: Ano
+    m_Metadata:
+      m_Items: []
+  - m_Id: 194444701696
+    m_Localized: Ne
+    m_Metadata:
+      m_Items: []
+  - m_Id: 576801648640
+    m_Localized: "Nastaven\xED velikosti (rozli\u0161en\xED).\r\nKlikn\u011Bte na
+      \u010Dervenou kostku s \u010D\xEDslem 5. "
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066268536832
+    m_Localized: "Nastaven\xED pozad\xED.\r\nVyberte r\u016F\u017Eovou - oblohu. "
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1303389319168
+    m_Localized: "Nastaven\xED dokon\u010Deno.\r\nKliknut\xEDm na tla\u010D\xEDtko
+      OK (zelen\xE1 kontrola) vytvo\u0159\xEDte prost\u0159ed\xED."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1808882642944
+    m_Localized: "Po\u010D\xE1te\u010Dn\xED nastaven\xED prost\u0159ed\xED bylo dokon\u010Deno.\r\nNejprve
+      si ud\u011Bl\xE1me kostku.\r\nOtev\u0159ete seznam cihel."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2416754733056
+    m_Localized: "Zde si m\u016F\u017Eete vybrat cihly.\r\nProzat\xEDm vyberte krychli."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2654093619200
+    m_Localized: "Byla vybr\xE1na kostka.\r\nZav\u0159\xEDt seznam cihel. "
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3077634437120
+    m_Localized: "V palet\u011B m\u016F\u017Eete zm\u011Bnit barvu cihel.\r\nVyberte
+      barvu na palet\u011B. "
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4821286301696
+    m_Localized: "M\u016F\u017Eete tak\xE9 zm\u011Bnit barvu palety.\r\nOtev\u0159en\xFD
+      v\xFDb\u011Br barev."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5171468742656
+    m_Localized: "Zde m\u016F\u017Eete zm\u011Bnit barvu.\r\nProzat\xEDm sta\u010D\xED
+      kliknout na OK."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5773397504000
+    m_Localized: "Pou\u017Eijme joystick. Klikn\u011Bte na \u010Dervenou \u010D\xE1st
+      joysticku\r\nkurzor se tak m\u016F\u017Ee pohybovat \u010Derven\xFDm sm\u011Brem."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5774936813568
+    m_Localized: "Zkuste kliknout na jin\xE9 sm\u011Bry joysticku.\r\nPokud budete
+      dr\u017Eet stisknut\xE9, kurzor se bude pohybovat nep\u0159etr\u017Eit\u011B."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6947211227136
+    m_Localized: "Na ty 3 body dejte cihly.\r\nPohybujte kurzorem pomoc\xED joysticku,\r\na
+      stiskn\u011Bte tla\u010D\xEDtko PUT."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7439479910400
+    m_Localized: "Odstra\u0148te v\u0161echny cihly.\r\nPohybujte kurzorem pomoc\xED
+      joysticku,\r\na stiskn\u011Bte tla\u010D\xEDtko DEL."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7681705160704
+    m_Localized: "Poj\u010Fme ulo\u017Eit va\u0161e data.\r\nKlikn\u011Bte na tla\u010D\xEDtko
+      Ulo\u017Eit. "
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8048719343616
+    m_Localized: "Zadejte n\xE1zev souboru,\r\nulo\u017Ete kliknut\xEDm na OK."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8486747287552
+    m_Localized: "Poj\u010Fme zkontrolovat, zda byl soubor \xFAsp\u011B\u0161n\u011B
+      ulo\u017Een.\r\nKlikn\u011Bte na tla\u010D\xEDtko Otev\u0159\xEDt."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8930898915328
+    m_Localized: "Dobr\xFD. soubor byl \xFAsp\u011B\u0161n\u011B ulo\u017Een.\r\nKliknut\xEDm
+      na tla\u010D\xEDtko X zav\u0159ete otev\u0159en\xE9 okno souboru. "
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9406793035776
+    m_Localized: "V\xFDborn\u011B !\r\nV\xFDukov\xFD program je dokon\u010Den.\r\nDoporu\u010Duji
+      v\xE1m soubor b\u011Bhem hry pravideln\u011B ukl\xE1dat!\r\nKlepnut\xEDm na
+      hv\u011Bzdu vytvo\u0159\xEDte novou hru. "
+    m_Metadata:
+      m_Items: []
+  - m_Id: 65556582412288
+    m_Localized: "Pokud jste aktu\xE1ln\xED design neulo\u017Eili,\r\nVa\u0161e n\xE1vrhov\xE1
+      data budou ztracena.\r\nPokra\u010Dovat?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1405082433138688
+    m_Localized: "Dal\u0161\xED"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 83909850083328
+    m_Localized: Ano
+    m_Metadata:
+      m_Items: []
+  - m_Id: 84866541465600
+    m_Localized: Ne
+    m_Metadata:
+      m_Items: []
+  - m_Id: 93791768719360
+    m_Localized: "Ulo\u017Een\xE9 ! "
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1405254382825472
+    m_Localized: "Pou\u017Eijme joystick.\r\nKurzor m\u016F\u017Eete p\u0159esouvat\r\np\u0159eta\u017Een\xEDm,
+      kliknut\xEDm a stisknut\xEDm joysticku."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1485501937659904
+    m_Localized: "Nejprve p\u0159et\xE1hn\u011Bte joystick.\r\nP\u0159et\xE1hn\u011Bte
+      st\u0159ed joysticku\r\nna \u010Derven\xE9, modr\xE9, zelen\xE9 \u0161ipky"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1485706397396992
+    m_Localized: "Dobr\xFD. Rychlost pohybu m\u016F\u017Eete zm\u011Bnit\r\nna nastaven\xED
+      pozd\u011Bji. "
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1485907942092800
+    m_Localized: "Joystick druh\xFD. Kliknut\xEDm na joystick.\r\n\r\nKlikn\u011Bte
+      na \u0161ipky a p\u0159esu\u0148te kurzor. "
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1486258590101504
+    m_Localized: "Joystick t\u0159et\xED, stisknut\xED joysticku.\r\n\r\nStiskn\u011Bte
+      a podr\u017Ete \u0161ipky, aby se kurzor mohl pohybovat."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1486484042330112
+    m_Localized: "Dobr\xFD.\r\n\r\nNyn\xED vlo\u017E\xEDme a odstran\xEDme cihlu."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1486485241901056
+    m_Localized: "Dobr\xFD.\r\nPokud joystickem podr\u017E\xEDte tla\u010D\xEDtko
+      PUT, cihla bude pokl\xE1d\xE1na i nad\xE1le.\r\nTla\u010D\xEDtko Odstranit
+      funguje tak\xE9 stejn\u011B."
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 1

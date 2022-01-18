@@ -1,0 +1,262 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: String Localization Table_de
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: de
+  m_SharedData: {fileID: 11400000, guid: 56840442ea7aa6d4db02e6d44aebac4c, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 300778696704
+    m_Localized: Kinder
+    m_Metadata:
+      m_Items: []
+  - m_Id: 542064422912
+    m_Localized: Profi
+    m_Metadata:
+      m_Items: []
+  - m_Id: 748117995520
+    m_Localized: "\rdie Einstellungen"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1022060572672
+    m_Localized: "\rZoomen\r\nGeschwindigkeit"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1144349700096
+    m_Localized: 'Joystick
+
+      Geschwindigkeit'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1266173259776
+    m_Localized: "Joystick\r\nDr\xFCcken\r\nVerz\xF6gern"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1508775997440
+    m_Localized: "\rBildschirm\r\nRichtung"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1667199053824
+    m_Localized: BGM
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1766574698496
+    m_Localized: 'SFX
+
+      Volumen'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1869347729408
+    m_Localized: "\rBGM\r\nVolumen"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3232853045248
+    m_Localized: "\rRotation"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3318483955712
+    m_Localized: Vertikale Fix
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3393197092864
+    m_Localized: Horizontale Fix
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4991612792832
+    m_Localized: SPIEL
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5070209855488
+    m_Localized: UI
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5188384370688
+    m_Localized: "\rKlang"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5254658568192
+    m_Localized: "\rPrivatsph\xE4re\r\nPolitik"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 604538726690816
+    m_Localized: "\rSpeichern"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 604609065168896
+    m_Localized: "\rSpeichern als"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 604701780258816
+    m_Localized: "\xD6ffnen"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 628043971211264
+    m_Localized: "\rTrainieren"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 739465912823808
+    m_Localized: "\xD6ffnen"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 740057326465024
+    m_Localized: "\r\xDCberpr\xFCfen!\r\nWillst du wirklich\r\n diese Arbeit l\xF6schen?\r\nDiese
+      Operation <b>\nkann nicht </b> r\xFCckg\xE4ngig gemacht werden"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 740613503758336
+    m_Localized: Ja
+    m_Metadata:
+      m_Items: []
+  - m_Id: 740682126766080
+    m_Localized: "\rNein"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 771909961560064
+    m_Localized: "Wenn Sie das aktuelle Design nicht gespeichert haben,\r\n Ihre
+      Konstruktionsdaten gehen verloren.\nFortsetzen?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 772105671979008
+    m_Localized: Ja
+    m_Metadata:
+      m_Items: []
+  - m_Id: 772222646923264
+    m_Localized: "\rNein"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 772749363425280
+    m_Localized: "\rGerettet !"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 772978972209152
+    m_Localized: In fertig ...
+    m_Metadata:
+      m_Items: []
+  - m_Id: 774739250294784
+    m_Localized: Datei
+    m_Metadata:
+      m_Items: []
+  - m_Id: 775047535833088
+    m_Localized: Hintergrund
+    m_Metadata:
+      m_Items: []
+  - m_Id: 775271243231232
+    m_Localized: Werkzeuge
+    m_Metadata:
+      m_Items: []
+  - m_Id: 775363564056576
+    m_Localized: Gitter
+    m_Metadata:
+      m_Items: []
+  - m_Id: 799231297105920
+    m_Localized: "Basispalette (nur linke Palette)\r\nwird zur\xFCckgesetzt. Fortsetzen?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 808425907728384
+    m_Localized: "<b> - Warnung - </b>\r\nEine im Vergleich zu Ihrem Ger\xE4t zu
+      hohe Aufl\xF6sung kann zu einem ungew\xF6hnlichen Herunterfahren der App f\xFChren.
+      Bitte erstellen Sie auf einem Ger\xE4t mit geringer Leistung keine Umgebung
+      mit zu hoher Aufl\xF6sung\r\nund speichern Sie Ihr Design regelm\xE4\xDFig."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 811829358931968
+    m_Localized: "Aufl\xF6sung"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 812325566066688
+    m_Localized: '  Bereich: 1 ~ 100'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 816525234581504
+    m_Localized: OK
+    m_Metadata:
+      m_Items: []
+  - m_Id: 816995000823808
+    m_Localized: FIX
+    m_Metadata:
+      m_Items: []
+  - m_Id: 817990556626944
+    m_Localized: Dateinamen eingeben ...
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1050329006125056
+    m_Localized: Sprache
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1150599392309248
+    m_Localized: Tutorial Ein / Aus
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2181186072784896
+    m_Localized: PUT
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2181227797721088
+    m_Localized: DEL
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2189169536184320
+    m_Localized: "Joystick \nDragging \nPrecision"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2306261442801664
+    m_Localized: "\rGr\xF6\xDFe (Aufl\xF6sung)"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2306288047271936
+    m_Localized: "\rHintergrund"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 31858360048332800
+    m_Localized: "Warten \nSie mal..."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40012999914598400
+    m_Localized: "\rPlay-Anzeige zu Play Pro?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 41360004763004928
+    m_Localized: "Pr\xE4mie"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 41360795896819712
+    m_Localized: Anzeigen entfernen
+    m_Metadata:
+      m_Items: []
+  - m_Id: 41361643397885952
+    m_Localized: Entfernen Sie alle Anzeigen <b>dauerhaft</b>.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 41362973445238784
+    m_Localized: "J\xE4hrlich\r\nAbonnement"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 41363339981271040
+    m_Localized: 'Monatlich
+
+      Abonnement'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 41363650020028416
+    m_Localized: "\u25CF Entfernen Sie alle Anzeigen <b>dauerhaft</b>.\r\n\u25CF
+      Aktivieren Sie alle Steine.\r\n\u25CF Aktivieren Sie alle Materialien."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 41364031609417728
+    m_Localized: "Bitte Internetverbindung \xFCberpr\xFCfen."
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 1

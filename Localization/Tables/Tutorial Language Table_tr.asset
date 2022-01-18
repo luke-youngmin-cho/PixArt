@@ -1,0 +1,179 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: Tutorial Language Table_tr
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: tr
+  m_SharedData: {fileID: 11400000, guid: 4956535b2779b0f4d8538f269b2c05b7, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 26051784704
+    m_Localized: "E\u011Fitimi oyna ??"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 147413970944
+    m_Localized: Evet
+    m_Metadata:
+      m_Items: []
+  - m_Id: 194444701696
+    m_Localized: Numara
+    m_Metadata:
+      m_Items: []
+  - m_Id: 576801648640
+    m_Localized: "Boyut (\xC7\xF6z\xFCn\xFCrl\xFCk) ayar\u0131.\r\n5 numaral\u0131
+      k\u0131rm\u0131z\u0131 k\xFCp\xFC t\u0131klay\u0131n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066268536832
+    m_Localized: "Arka plan ayar\u0131.\r\npembe - g\xF6ky\xFCz\xFCn\xFC se\xE7in."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1303389319168
+    m_Localized: "Ayar tamamland\u0131.\r\nOrtam olu\u015Fturmak i\xE7in Tamam (ye\u015Fil
+      onay) Butonunu t\u0131klay\u0131n."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1808882642944
+    m_Localized: "\u0130lk ortam ayarlar\u0131 tamamland\u0131.\r\n\u0130lk \xF6nce
+      bir k\xFCp yapal\u0131m.\r\nTu\u011Fla listesini a\xE7\u0131n."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2416754733056
+    m_Localized: "Burada tu\u011Flalar\u0131 se\xE7ebilirsiniz.\r\n\u015Eimdilik,
+      K\xFCp se\xE7in."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2654093619200
+    m_Localized: "K\xFCp se\xE7ildi.\r\nTu\u011Fla listesini kapat\u0131n."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3077634437120
+    m_Localized: "Paletteki tu\u011Fla rengini de\u011Fi\u015Ftirebilirsiniz.\r\nPaletteki
+      rengi se\xE7in."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5171468742656
+    m_Localized: "Burada rengi de\u011Fi\u015Ftirebilirsiniz.\r\n\u015Eimdilik Tamam'a
+      t\u0131klayal\u0131m."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4821286301696
+    m_Localized: "Ayr\u0131ca paletin rengini de de\u011Fi\u015Ftirebilirsiniz.\r\nRenk
+      se\xE7iciyi a\xE7."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5773397504000
+    m_Localized: "Joystick'i kullanal\u0131m. Joystick'in k\u0131rm\u0131z\u0131
+      k\u0131sm\u0131na t\u0131klay\u0131n\r\nb\xF6ylece imle\xE7 k\u0131rm\u0131z\u0131
+      y\xF6nde hareket edebilir."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5774936813568
+    m_Localized: "Joystick'in di\u011Fer y\xF6nlerine t\u0131klamay\u0131 deneyin.\r\nBasmaya
+      devam ederseniz, \u0130mle\xE7 s\xFCrekli hareket eder."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6947211227136
+    m_Localized: "Bu 3 noktaya tu\u011Fla koyun.\r\n\u0130mleci joystick ile hareket
+      ettirin,\r\nve PUT d\xFC\u011Fmesine bas\u0131n."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7439479910400
+    m_Localized: "T\xFCm tu\u011Flalar\u0131 silin.\r\n\u0130mleci joystick ile hareket
+      ettirin,\r\nve DEL d\xFC\u011Fmesine bas\u0131n."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7681705160704
+    m_Localized: "Verilerinizi kaydedelim.\r\nKaydet d\xFC\u011Fmesine t\u0131klay\u0131n."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8048719343616
+    m_Localized: "Dosya ad\u0131n\u0131 girin,\r\nkaydetmek i\xE7in Tamam'\u0131
+      t\u0131klay\u0131n."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8486747287552
+    m_Localized: "Dosyan\u0131n ba\u015Far\u0131yla kaydedildi\u011Fini kontrol edelim.\r\nA\xE7
+      d\xFC\u011Fmesine t\u0131klay\u0131n."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8930898915328
+    m_Localized: "\u0130yi. dosya ba\u015Far\u0131yla kaydedildi.\r\nA\xE7\u0131k
+      dosya penceresini kapatmak i\xE7in X d\xFC\u011Fmesine t\u0131klay\u0131n."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9406793035776
+    m_Localized: "Tebrikler !\r\nE\u011Fitim bitti.\r\nOyun s\u0131ras\u0131nda belirli
+      aral\u0131klarla dosya kaydetmenizi tavsiye ederim!\r\nYeni bir oyun yapmak
+      i\xE7in y\u0131ld\u0131za dokunun. "
+    m_Metadata:
+      m_Items: []
+  - m_Id: 65556582412288
+    m_Localized: "Mevcut tasar\u0131m\u0131 kaydetmediyseniz,\r\nTasar\u0131m verileriniz
+      kaybolacak.\r\nDevam et?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1405082433138688
+    m_Localized: Sonraki
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1405254382825472
+    m_Localized: "Joystick'i kullanal\u0131m.\r\n\u0130mleci hareket ettirebilirsiniz\r\ns\xFCr\xFCkleyerek,
+      t\u0131klayarak ve joystick'e basarak."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 93791768719360
+    m_Localized: kaydedildi!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 84866541465600
+    m_Localized: Numara
+    m_Metadata:
+      m_Items: []
+  - m_Id: 83909850083328
+    m_Localized: Evet
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1485501937659904
+    m_Localized: "\u0130lk olarak, s\xFCr\xFCkleme joystick'i.\r\nJoystick'in merkezini
+      s\xFCr\xFCkleyin\r\nk\u0131rm\u0131z\u0131, mavi, ye\u015Fil oklara "
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1485706397396992
+    m_Localized: "\u0130yi. Hareket h\u0131z\u0131n\u0131 de\u011Fi\u015Ftirebilirsiniz\r\nayarlarda
+      daha sonra."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1485907942092800
+    m_Localized: "Joystick ikinci. Joystick'e t\u0131klamak.\r\n\r\nOklar\u0131 t\u0131klay\u0131n
+      ve imleci hareket ettirin."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1486258590101504
+    m_Localized: "Joystick \xFC\xE7\xFCnc\xFC, Joystick'e basmak.\r\n\r\n\u0130mlecin
+      hareket etmeye devam edebilmesi i\xE7in oklara basmaya devam edin."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1486484042330112
+    m_Localized: "\u0130yi.\r\n\r\n\u015Eimdi tu\u011Flay\u0131 koyup silece\u011Fiz."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1486485241901056
+    m_Localized: "\u0130yi.\r\nPUT d\xFC\u011Fmesini bas\u0131l\u0131 tutarken joystick'i
+      hareket ettirirseniz tu\u011Fla konulmaya devam edecektir.\r\nSil d\xFC\u011Fmesi
+      de ayn\u0131 \u015Fekilde \xE7al\u0131\u015F\u0131r."
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 1

@@ -1,0 +1,259 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: String Localization Table_lv
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: lv
+  m_SharedData: {fileID: 11400000, guid: 56840442ea7aa6d4db02e6d44aebac4c, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 300778696704
+    m_Localized: "B\u0113rni"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 542064422912
+    m_Localized: Pro
+    m_Metadata:
+      m_Items: []
+  - m_Id: 748117995520
+    m_Localized: "Iestat\u012Bjumi"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1022060572672
+    m_Localized: "T\u0101lummai\u0146a\r\n\u0100trums"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1144349700096
+    m_Localized: "Kursorsvira\r\n\u0100trums"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1266173259776
+    m_Localized: "Kursorsvira\r\nSpie\u0161ana\r\nKav\u0113\u0161an\u0101s"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1508775997440
+    m_Localized: "Ekr\u0101ns\r\nOrient\u0101cija"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1667199053824
+    m_Localized: BGM
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1766574698496
+    m_Localized: "SFX \napjoms"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1869347729408
+    m_Localized: "BGM \napjoms"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3232853045248
+    m_Localized: "Rot\u0101cijas"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3318483955712
+    m_Localized: "Vertik\u0101l\u0101 fiks\u0101cija"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3393197092864
+    m_Localized: "Horizont\u0101lais labojums"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4991612792832
+    m_Localized: "SP\u0112LE"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5070209855488
+    m_Localized: 'UI '
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5188384370688
+    m_Localized: "Ska\u0146a"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5254658568192
+    m_Localized: "Priv\u0101tums\r\nPolitika"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 604538726690816
+    m_Localized: "Saglab\u0101t"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 604609065168896
+    m_Localized: "Saglab\u0101t k\u0101"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 604701780258816
+    m_Localized: "Atv\u0113rt "
+    m_Metadata:
+      m_Items: []
+  - m_Id: 628043971211264
+    m_Localized: Prakse
+    m_Metadata:
+      m_Items: []
+  - m_Id: 740057326465024
+    m_Localized: "Divk\u0101r\u0161a p\u0101rbaude!\r\nVai tie\u0161\u0101m v\u0113laties\r\nDz\u0113st\u0160is
+      darbs?\r\n\u0160\u012B oper\u0101cija\r\nnevarapgriezt"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 739465912823808
+    m_Localized: "Atv\u0113rt "
+    m_Metadata:
+      m_Items: []
+  - m_Id: 740613503758336
+    m_Localized: "J\u0101 "
+    m_Metadata:
+      m_Items: []
+  - m_Id: 772105671979008
+    m_Localized: "J\u0101 "
+    m_Metadata:
+      m_Items: []
+  - m_Id: 740682126766080
+    m_Localized: "N\u0113 "
+    m_Metadata:
+      m_Items: []
+  - m_Id: 772222646923264
+    m_Localized: "N\u0113 "
+    m_Metadata:
+      m_Items: []
+  - m_Id: 771909961560064
+    m_Localized: "Ja neesat saglab\u0101jis pa\u0161reiz\u0113jo dizainu,\r\nJ\u016Bsu
+      dizaina dati tiks zaud\u0113ti.\r\nTurpin\u0101t? "
+    m_Metadata:
+      m_Items: []
+  - m_Id: 772749363425280
+    m_Localized: "Saglab\u0101ts!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 772978972209152
+    m_Localized: Gatavs ...
+    m_Metadata:
+      m_Items: []
+  - m_Id: 774739250294784
+    m_Localized: "Fails un iestat\u012Bjumi"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 775047535833088
+    m_Localized: Fons
+    m_Metadata:
+      m_Items: []
+  - m_Id: 775271243231232
+    m_Localized: "R\u012Bki"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 775363564056576
+    m_Localized: "Re\u017E\u0123is"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 799231297105920
+    m_Localized: "Pamata palete (tikai palete kreisaj\u0101 pus\u0113)\r\ntiks atiestat\u012Bts.
+      Turpin\u0101t?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 808425907728384
+    m_Localized: "-Br\u012Bdin\u0101jums-\r\nP\u0101r\u0101k augsta iz\u0161\u0137irtsp\u0113ja
+      sal\u012Bdzin\u0101jum\u0101 ar j\u016Bsu ier\u012Bci var izrais\u012Bt neparastu
+      lietot\u0146u izsl\u0113g\u0161anu. L\u016Bdzu, neradiet p\u0101r\u0101k augstas
+      iz\u0161\u0137irtsp\u0113jas vidi ier\u012Bc\u0113s ar zemu veiktsp\u0113ju\r\nun
+      periodiski saglab\u0101jiet savu dizainu."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 811829358931968
+    m_Localized: "Ievadiet iz\u0161\u0137irtsp\u0113ju"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 812325566066688
+    m_Localized: '  Diapazons: 1 ~ 100'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 816525234581504
+    m_Localized: Labi
+    m_Metadata:
+      m_Items: []
+  - m_Id: 816995000823808
+    m_Localized: FIX
+    m_Metadata:
+      m_Items: []
+  - m_Id: 817990556626944
+    m_Localized: Ievadiet faila nosaukumu ...
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1050329006125056
+    m_Localized: Valoda
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1150599392309248
+    m_Localized: "Apm\u0101c\u012Bba iesl\u0113gta/izsl\u0113gta"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2181186072784896
+    m_Localized: PUT
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2181227797721088
+    m_Localized: DEL
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2189169536184320
+    m_Localized: "Kursorsviras \nvilk\u0161anas \nprecizit\u0101te"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2306261442801664
+    m_Localized: "Izm\u0113rs (iz\u0161\u0137irtsp\u0113ja)"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2306288047271936
+    m_Localized: 'Fons '
+    m_Metadata:
+      m_Items: []
+  - m_Id: 31858360048332800
+    m_Localized: "L\u016Bdzu, l\u016Bdzu\r\nPagaidi ..."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40012999914598400
+    m_Localized: "Vai sp\u0113l\u0113t rekl\u0101mu, lai atska\u0146otu Pro?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 41360004763004928
+    m_Localized: Piemaksa
+    m_Metadata:
+      m_Items: []
+  - m_Id: 41360795896819712
+    m_Localized: "No\u0146emt rekl\u0101mas"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 41361643397885952
+    m_Localized: "No\u0146emiet visas rekl\u0101mas past\u0101v\u012Bgi"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 41362973445238784
+    m_Localized: "Katru gadu\r\nAbon\u0113\u0161ana"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 41363339981271040
+    m_Localized: "Katru m\u0113nesi\r\nAbon\u0113\u0161ana"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 41363650020028416
+    m_Localized: "\u25CF No\u0146emiet visas rekl\u0101mas past\u0101v\u012Bgi.\r\n\u25CF
+      Aktiviz\u0113jiet visus \u0137ie\u0123e\u013Cus.\r\n\u25CF Aktiviz\u0113t visus
+      materi\u0101lus. "
+    m_Metadata:
+      m_Items: []
+  - m_Id: 41364031609417728
+    m_Localized: "L\u016Bdzu, p\u0101rbaudiet interneta savienojumu."
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 1

@@ -1,0 +1,232 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: Tutorial Language Table_it
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: it
+  m_SharedData: {fileID: 11400000, guid: 4956535b2779b0f4d8538f269b2c05b7, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 26051784704
+    m_Localized: Riproduci tutorial ??
+    m_Metadata:
+      m_Items: []
+  - m_Id: 147413970944
+    m_Localized: "s\xEC"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 194444701696
+    m_Localized: No
+    m_Metadata:
+      m_Items: []
+  - m_Id: 576801648640
+    m_Localized: 'Impostazione della dimensione (risoluzione).
+
+      Fare clic sul
+      cubo rosso con il numero 5.'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066268536832
+    m_Localized: 'Impostazione dello sfondo.
+
+      Seleziona rosa - cielo.'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1303389319168
+    m_Localized: 'Impostazione terminata.
+
+      Fare clic sul pulsante OK (segno
+      di spunta verde) per creare l''ambiente.'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1808882642944
+    m_Localized: 'Le impostazioni dell''ambiente iniziale sono state completate.
+
+      Per
+      prima cosa, creiamo un cubo.
+
+      Apri l''elenco dei mattoni.'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2416754733056
+    m_Localized: "Qui puoi selezionare i mattoni.\r\nPer ora, seleziona cubo.\r"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2654093619200
+    m_Localized: "Il cubo \xE8 stato selezionato.\r\nChiudi l'elenco dei mattoni."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3077634437120
+    m_Localized: "\rPuoi cambiare il colore del mattone nel pallet.\r\nScegli il
+      colore nel pallet."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4821286301696
+    m_Localized: 'Puoi anche cambiare il colore del pallet.
+
+      Apri il selettore
+      di colori.'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5171468742656
+    m_Localized: 'Puoi cambiare colore qui.
+
+      Per ora, facciamo semplicemente
+      clic su OK.'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5773397504000
+    m_Localized: 'Usiamo il joystick. Fare clic sulla parte rossa del joystick
+
+      in
+      modo che il cursore possa spostarsi nella direzione rossa.'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5774936813568
+    m_Localized: 'Prova a fare clic su altre direzioni del joystick.
+
+      Se continui
+      a premere, il cursore si sposta continuamente.'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6947211227136
+    m_Localized: 'Metti i mattoni su quei 3 punti.
+
+      Sposta il cursore con il
+      joystick,
+
+      e premere il pulsante PUT.'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7439479910400
+    m_Localized: 'Elimina tutti i mattoni.
+
+      Sposta il cursore con il joystick,
+
+      e
+      premere il pulsante DEL.'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7681705160704
+    m_Localized: 'Salviamo i tuoi dati.
+
+      Fare clic sul pulsante Salva.'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8048719343616
+    m_Localized: 'Immettere il nome del file,
+
+      fare clic su OK per salvare.'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8486747287552
+    m_Localized: 'Controlliamo che il file sia stato salvato con successo.
+
+      Fare
+      clic sul pulsante Apri.'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8930898915328
+    m_Localized: "Buona. il file \xE8 stato salvato con successo.\r\nFare clic sul
+      pulsante X in modo da chiudere la finestra del file aperto."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9406793035776
+    m_Localized: "Ben fatto !\r\nIl tutorial \xE8 terminato.\r\n Ti consiglio di
+      salvare periodicamente il file durante il gioco! \nTocca la stella per creare
+      un nuovo gioco."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 65556582412288
+    m_Localized: 'Se non hai salvato il design corrente,
+
+      I tuoi dati di progettazione
+      andranno persi.
+
+      Continua?'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 83909850083328
+    m_Localized: "\rs\xEC"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 84866541465600
+    m_Localized: No
+    m_Metadata:
+      m_Items: []
+  - m_Id: 93791768719360
+    m_Localized: Salvato !
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1405082433138688
+    m_Localized: "\rIl prossimo"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1405254382825472
+    m_Localized: 'Usiamo il joystick.
+
+      Puoi spostare il cursore
+
+      trascinando,
+      facendo clic e premendo il joystick.'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1485501937659904
+    m_Localized: 'Innanzitutto, trascina il joystick.
+
+      Trascina il centro del
+      joystick
+
+      alle frecce rosse, blu, verdi'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1485706397396992
+    m_Localized: "Buona. Puoi cambiare la velocit\xE0 di movimento\r\nsulle impostazioni
+      in un secondo momento."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1485907942092800
+    m_Localized: 'Joystick secondo. Facendo clic sul joystick.
+
+      
+
+      Fare
+      clic sulle frecce e spostare il cursore.'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1486258590101504
+    m_Localized: 'Joystick terzo, premendo il joystick.
+
+
+
+      Continua a premere
+      le frecce in modo che il cursore possa continuare a muoversi.'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1486484042330112
+    m_Localized: 'Buona.
+
+
+
+      Ora metteremo ed elimineremo il mattone.'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1486485241901056
+    m_Localized: "Buona.\r\nSe muovi il joystick mentre tieni premuto il pulsante
+      PUT, il mattone continuer\xE0 a essere posizionato.\r\nAnche il pulsante Elimina
+      funziona allo stesso modo."
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 1

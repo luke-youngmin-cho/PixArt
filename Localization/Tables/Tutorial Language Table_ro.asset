@@ -1,0 +1,183 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: Tutorial Language Table_ro
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: ro
+  m_SharedData: {fileID: 11400000, guid: 4956535b2779b0f4d8538f269b2c05b7, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 26051784704
+    m_Localized: "Joac\u0103 tutorial ??"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 147413970944
+    m_Localized: Da
+    m_Metadata:
+      m_Items: []
+  - m_Id: 194444701696
+    m_Localized: Nu
+    m_Metadata:
+      m_Items: []
+  - m_Id: 576801648640
+    m_Localized: "Setare Dimensiune (Rezolu\u021Bie).\r\nFace\u021Bi clic pe cubul
+      ro\u0219u cu num\u0103rul 5."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066268536832
+    m_Localized: "Setarea fundalului.\r\nSelecta\u021Bi roz - cer."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1303389319168
+    m_Localized: "Setarea s-a terminat.\r\nFace\u021Bi clic pe butonul OK (verificare
+      verde) pentru a crea mediu."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1808882642944
+    m_Localized: "Set\u0103rile ini\u021Biale de mediu au fost finalizate.\r\n\xCEn
+      primul r\xE2nd, s\u0103 facem un cub.\r\nDeschide\u021Bi lista c\u0103r\u0103mizilor."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2416754733056
+    m_Localized: "Aici pute\u021Bi selecta c\u0103r\u0103mizi.\r\nDeocamdat\u0103,
+      Selecta\u021Bi cubul."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2654093619200
+    m_Localized: "Cube a fost selectat.\r\n\xCEnchide\u021Bi lista c\u0103r\u0103mizilor."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3077634437120
+    m_Localized: "Pute\u021Bi schimba culoarea c\u0103r\u0103mizii din palet.\r\nAlege\u021Bi
+      culoarea \xEEn palet."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4821286301696
+    m_Localized: "De asemenea, pute\u021Bi schimba culoarea paletului.\r\nDeschide\u021Bi
+      selectorul de culori. "
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5171468742656
+    m_Localized: "Pute\u021Bi schimba culoarea aici.\r\nDeocamdat\u0103, s\u0103
+      facem clic pe OK."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5773397504000
+    m_Localized: "S\u0103 folosim joystick-ul. Face\u021Bi clic pe partea ro\u0219ie
+      a joystick-ului\r\nastfel \xEEnc\xE2t cursorul s\u0103 se poat\u0103 deplasa
+      \xEEn direc\u021Bia ro\u0219ie."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5774936813568
+    m_Localized: "\xCEncerca\u021Bi s\u0103 face\u021Bi clic pe alte direc\u021Bii
+      ale joystick-ului.\r\nDac\u0103 continua\u021Bi s\u0103 ap\u0103sa\u021Bi,
+      cursorul se mi\u0219c\u0103 continuu. "
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6947211227136
+    m_Localized: "Pune\u021Bi c\u0103r\u0103mizi pe aceste 3 puncte.\r\nMuta\u021Bi
+      cursorul cu joystick-ul,\r\n\u0219i ap\u0103sa\u021Bi butonul PUT. "
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7439479910400
+    m_Localized: "\u0218terge\u021Bi toate c\u0103r\u0103mizile.\r\nMuta\u021Bi cursorul
+      cu joystick-ul,\r\n\u0219i ap\u0103sa\u021Bi butonul DEL."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7681705160704
+    m_Localized: "S\u0103 v\u0103 salv\u0103m datele.\r\nFace\u021Bi clic pe butonul
+      de salvare. "
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8048719343616
+    m_Localized: "Introduce\u021Bi numele fi\u0219ierului,\r\nface\u021Bi clic pe
+      OK pentru a salva. "
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8486747287552
+    m_Localized: "S\u0103 verific\u0103m c\u0103 fi\u0219ierul a fost salvat cu succes.\r\nFace\u021Bi
+      clic pe butonul Deschidere."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8930898915328
+    m_Localized: "Bun. fi\u0219ierul a fost salvat cu succes.\r\nFace\u021Bi clic
+      pe butonul X, astfel \xEEnc\xE2t s\u0103 \xEEnchide\u021Bi fereastra deschis\u0103
+      a fi\u0219ierului."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9406793035776
+    m_Localized: "Bine f\u0103cut !\r\nTutorialul este terminat.\r\nV\u0103 recomand
+      s\u0103 salva\u021Bi fi\u0219ierul periodic \xEEn timpul jocului!\r\nAtinge\u021Bi
+      steaua pentru a crea un joc nou. "
+    m_Metadata:
+      m_Items: []
+  - m_Id: 65556582412288
+    m_Localized: "Dac\u0103 nu a\u021Bi salvat designul actual,\r\nDatele dvs. de
+      proiectare vor fi pierdute.\r\nContinua?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1405082433138688
+    m_Localized: "Urm\u0103torul "
+    m_Metadata:
+      m_Items: []
+  - m_Id: 83909850083328
+    m_Localized: Da
+    m_Metadata:
+      m_Items: []
+  - m_Id: 84866541465600
+    m_Localized: Nu
+    m_Metadata:
+      m_Items: []
+  - m_Id: 93791768719360
+    m_Localized: Salvat!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1405254382825472
+    m_Localized: "S\u0103 folosim joystick-ul.\r\nPute\u021Bi muta cursorul\r\nprin
+      glisare, clic \u0219i ap\u0103sare pe joystick."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1485501937659904
+    m_Localized: "Mai \xEEnt\xE2i, glisarea joystick-ului.\r\nTrage\u021Bi centrul
+      joystick-ului\r\nla s\u0103ge\u021Bile ro\u0219ii, albastre, verzi"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1485706397396992
+    m_Localized: "Bun. Pute\u021Bi schimba viteza de mi\u0219care\r\npe set\u0103ri
+      ulterior."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1485907942092800
+    m_Localized: "Al doilea joystick. D\xE2nd clic pe joystick.\r\n\r\nFace\u021Bi
+      clic pe s\u0103ge\u021Bi \u0219i muta\u021Bi cursorul."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1486258590101504
+    m_Localized: "Joystick \xEEn al treilea r\xE2nd, ap\u0103s\xE2nd joystick-ul.\r\n\r\nContinua\u021Bi
+      s\u0103 ap\u0103sa\u021Bi s\u0103ge\u021Bile, astfel \xEEnc\xE2t cursorul s\u0103
+      poat\u0103 continua s\u0103 se mi\u0219te."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1486484042330112
+    m_Localized: "Bun.\r\n\r\nAcum, vom pune \u0219i \u0219terge c\u0103r\u0103mida."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1486485241901056
+    m_Localized: "Bun.\r\nDac\u0103 muta\u021Bi joystick-ul \xEEn timp ce \u021Bine\u021Bi
+      ap\u0103sat butonul PUT, c\u0103r\u0103mida va continua s\u0103 fie pus\u0103.\r\nButonul
+      \u0218tergere func\u021Bioneaz\u0103 la fel."
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 1

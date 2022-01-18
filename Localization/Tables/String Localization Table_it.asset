@@ -1,0 +1,270 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: String Localization Table_it
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: it
+  m_SharedData: {fileID: 11400000, guid: 56840442ea7aa6d4db02e6d44aebac4c, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 300778696704
+    m_Localized: "\rBambine"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 542064422912
+    m_Localized: Pro
+    m_Metadata:
+      m_Items: []
+  - m_Id: 748117995520
+    m_Localized: "\rimpostazioni"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1022060572672
+    m_Localized: "\rIngrandisci\r\nVelocit\xE0"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1144349700096
+    m_Localized: "Joystick\nVelocit\xE0"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1266173259776
+    m_Localized: 'Joystick
+
+      Premendo
+
+      Ritardo'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1508775997440
+    m_Localized: 'Schermo
+
+      Direzione'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1667199053824
+    m_Localized: BGM
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1766574698496
+    m_Localized: "SFX \nVolume"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1869347729408
+    m_Localized: 'BGM
+
+      Volume'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3232853045248
+    m_Localized: "\rRotazionale"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3318483955712
+    m_Localized: "\rVerticale"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3393197092864
+    m_Localized: Orizzontale
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4991612792832
+    m_Localized: "\rGIOCO"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5070209855488
+    m_Localized: UI
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5188384370688
+    m_Localized: "\rSuono"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5254658568192
+    m_Localized: "\rPrivacy\r\nPolitica"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 604538726690816
+    m_Localized: Salva
+    m_Metadata:
+      m_Items: []
+  - m_Id: 604609065168896
+    m_Localized: "\rSalva come"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 604701780258816
+    m_Localized: "\rAperto"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 628043971211264
+    m_Localized: Pratica
+    m_Metadata:
+      m_Items: []
+  - m_Id: 739465912823808
+    m_Localized: Aperto
+    m_Metadata:
+      m_Items: []
+  - m_Id: 740057326465024
+    m_Localized: "Doppio controllo!\r\nLo vuoi davvero\r\n<b>  Eliminare </b> questo
+      lavoro?\r\nQuesta operazione <b> <color = red>\r\nnon pu\xF2 </color> </b>
+      essere invertito"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 740613503758336
+    m_Localized: "\r\rs\xEC"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 740682126766080
+    m_Localized: No
+    m_Metadata:
+      m_Items: []
+  - m_Id: 771909961560064
+    m_Localized: "Se non hai salvato il design corrente,\r\n I tuoi dati di progettazione
+      andranno persi. \r\nContinua?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 772105671979008
+    m_Localized: "\r\rs\xEC"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 772222646923264
+    m_Localized: No
+    m_Metadata:
+      m_Items: []
+  - m_Id: 772749363425280
+    m_Localized: "\rSalvato !"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 772978972209152
+    m_Localized: "\rIn pronto ..."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 774739250294784
+    m_Localized: File & impostazioni
+    m_Metadata:
+      m_Items: []
+  - m_Id: 775047535833088
+    m_Localized: "\rsfondo"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 775271243231232
+    m_Localized: Utensili
+    m_Metadata:
+      m_Items: []
+  - m_Id: 775363564056576
+    m_Localized: "\rGriglia"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 799231297105920
+    m_Localized: "\rPallet base (solo pallet lato sinistro)\r\nverr\xE0 ripristinato.
+      Continua?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 808425907728384
+    m_Localized: "<b> - Avviso - </b>\r\nUna risoluzione troppo alta rispetto al
+      tuo dispositivo pu\xF2 causare l'arresto insolito dell'app. Si prega di non
+      creare un ambiente ad alta risoluzione su un dispositivo a basse prestazioni\r\ne
+      salva periodicamente il tuo design."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 811829358931968
+    m_Localized: "\rRisoluzione"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 812325566066688
+    m_Localized: '  Intervallo: 1 ~ 100'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 816525234581504
+    m_Localized: OK
+    m_Metadata:
+      m_Items: []
+  - m_Id: 816995000823808
+    m_Localized: FIX
+    m_Metadata:
+      m_Items: []
+  - m_Id: 817990556626944
+    m_Localized: Immettere il nome del file ...
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1050329006125056
+    m_Localized: Lingua
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1150599392309248
+    m_Localized: Tutorial On/Off
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2181186072784896
+    m_Localized: PUT
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2181227797721088
+    m_Localized: DEL
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2189169536184320
+    m_Localized: "Precisione \ndi trascinamento del \njoystick"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2306261442801664
+    m_Localized: "\rDimensioni (risoluzione)"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2306288047271936
+    m_Localized: sfondo
+    m_Metadata:
+      m_Items: []
+  - m_Id: 31858360048332800
+    m_Localized: "Attendere \nprego..."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40012999914598400
+    m_Localized: Riproduci annuncio per giocare a Pro?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 41360004763004928
+    m_Localized: "\rpremio"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 41360795896819712
+    m_Localized: Rimuovere gli annunci
+    m_Metadata:
+      m_Items: []
+  - m_Id: 41361643397885952
+    m_Localized: Rimuovi tutti gli annunci <b>in modo permanente</b>.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 41362973445238784
+    m_Localized: 'Annuale
+
+      Sottoscrizione'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 41363339981271040
+    m_Localized: 'Mensile
+
+      Sottoscrizione'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 41363650020028416
+    m_Localized: "\u25CF Rimuovi tutti gli annunci <b>in modo permanente</b>.\r\n\u25CF
+      Attiva tutti i mattoncini.\r\n\u25CF Attiva tutti i materiali."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 41364031609417728
+    m_Localized: Si prega di controllare la connessione Internet.
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 1

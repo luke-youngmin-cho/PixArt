@@ -1,0 +1,176 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: Tutorial Language Table_hu
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: hu
+  m_SharedData: {fileID: 11400000, guid: 4956535b2779b0f4d8538f269b2c05b7, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 26051784704
+    m_Localized: "J\xE1tssz bemutat\xF3t ??"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 147413970944
+    m_Localized: Igen
+    m_Metadata:
+      m_Items: []
+  - m_Id: 194444701696
+    m_Localized: Nem
+    m_Metadata:
+      m_Items: []
+  - m_Id: 576801648640
+    m_Localized: "M\xE9ret (felbont\xE1s) be\xE1ll\xEDt\xE1s.\r\nKattintson az 5.
+      sz\xE1m\xFA piros kock\xE1ra."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066268536832
+    m_Localized: "H\xE1tt\xE9rbe\xE1ll\xEDt\xE1s.\r\nV\xE1lassza ki a r\xF3zsasz\xEDn
+      - \xE9gboltot."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1303389319168
+    m_Localized: "Be\xE1ll\xEDt\xE1s befejez\u0151d\xF6tt.\r\nKattintson az OK gombra
+      (z\xF6ld pipa) a k\xF6rnyezet l\xE9trehoz\xE1s\xE1hoz."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1808882642944
+    m_Localized: "A kezdeti k\xF6rnyezetbe\xE1ll\xEDt\xE1sok befejez\u0151dtek.\r\nEl\u0151sz\xF6r
+      k\xE9sz\xEDts\xFCnk egy kock\xE1t.\r\nNyissa meg a t\xE9gla list\xE1t."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2416754733056
+    m_Localized: "Itt kiv\xE1laszthatja a t\xE9gl\xE1kat.\r\nEgyel\u0151re v\xE1lassza
+      a kock\xE1t."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2654093619200
+    m_Localized: "Kocka lett kiv\xE1lasztva.\r\nZ\xE1rja be a t\xE9gla list\xE1t."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3077634437120
+    m_Localized: "Megv\xE1ltoztathatja a t\xE9gla sz\xEDn\xE9t a raklapon.\r\nV\xE1lasszon
+      sz\xEDnt a raklapon."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4821286301696
+    m_Localized: "A raklap sz\xEDn\xE9t is megv\xE1ltoztathatja.\r\nNyitott sz\xEDnv\xE1laszt\xF3."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5171468742656
+    m_Localized: "Itt megv\xE1ltoztathatja a sz\xEDn\xE9t.\r\nEgyel\u0151re csak
+      kattintsunk az OK gombra. "
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5773397504000
+    m_Localized: "Haszn\xE1ljunk joystickot. Kattintson a joystick piros r\xE9sz\xE9re\r\n\xEDgy
+      a kurzor a piros ir\xE1nyba mozoghat."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5774936813568
+    m_Localized: "Pr\xF3b\xE1ljon r\xE1kattintani a joystick m\xE1s ir\xE1nyaira.\r\nHa
+      folyamatosan megnyomja, a kurzor folyamatosan mozog."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6947211227136
+    m_Localized: "Tegyen t\xE9gl\xE1t erre a 3 pontra.\r\nMozgassa a kurzort a joystick
+      seg\xEDts\xE9g\xE9vel,\r\n\xE9s nyomja meg a PUT gombot."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7439479910400
+    m_Localized: "T\xF6r\xF6lje az \xF6sszes t\xE9gl\xE1t.\r\nMozgassa a kurzort
+      a joystick seg\xEDts\xE9g\xE9vel,\r\n\xE9s nyomja meg a DEL gombot."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7681705160704
+    m_Localized: "Ments\xFCk az adatait.\r\nKattintson a ment\xE9s gombra."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8048719343616
+    m_Localized: "\xCDrja be a f\xE1jl nev\xE9t,\r\nkattintson az OK gombra a ment\xE9shez. "
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8486747287552
+    m_Localized: "Ellen\u0151rizz\xFCk a f\xE1jl sikeres ment\xE9s\xE9t.\r\nKattintson
+      a Megnyit\xE1s gombra. "
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8930898915328
+    m_Localized: "J\xF3. a f\xE1jl ment\xE9se sikeres volt.\r\nKattintson az X gombra,
+      \xE9s z\xE1rja be a megnyitott f\xE1jlablakot."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9406793035776
+    m_Localized: "Sz\xE9p munka !\r\nAz oktat\xF3anyag befejez\u0151d\xF6tt.\r\nJavaslom,
+      hogy a j\xE1t\xE9k sor\xE1n rendszeresen mentse a f\xE1jlokat!\r\nKoppintson
+      a csillagra \xFAj j\xE1t\xE9k k\xE9sz\xEDt\xE9s\xE9hez."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 65556582412288
+    m_Localized: "Ha nem mentette el az aktu\xE1lis tervez\xE9st,\r\nA tervez\xE9si
+      adatok elvesznek.\r\nFolytatni?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1405082433138688
+    m_Localized: "K\xF6vetkez\u0151"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 83909850083328
+    m_Localized: Igen
+    m_Metadata:
+      m_Items: []
+  - m_Id: 84866541465600
+    m_Localized: Nem
+    m_Metadata:
+      m_Items: []
+  - m_Id: 93791768719360
+    m_Localized: Mentett !
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1405254382825472
+    m_Localized: "Haszn\xE1ljunk joystickot.\r\nMozgathatja a kurzort\r\nh\xFAz\xE1ssal,
+      kattint\xE1ssal \xE9s a joystick megnyom\xE1s\xE1val."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1485501937659904
+    m_Localized: "El\u0151sz\xF6r is, h\xFAz\xF3 joystick.\r\nH\xFAzza a joystick
+      k\xF6z\xE9ps\u0151 r\xE9sz\xE9t\r\npiros, k\xE9k, z\xF6ld nyilakra"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1486484042330112
+    m_Localized: "J\xF3.\r\n\r\nMost felhelyezz\xFCk \xE9s t\xF6r\xF6lj\xFCk a t\xE9gl\xE1t."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1486258590101504
+    m_Localized: "A joystick harmadik, a joystick megnyom\xE1sa.\r\n\r\nTartsa lenyomva
+      a nyilakat, hogy a kurzor mozoghasson."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1485907942092800
+    m_Localized: "Joystick m\xE1sodik. Kattintson a joystickra.\r\n\r\nKattintson
+      a nyilakra, \xE9s mozgassa a kurzort."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1485706397396992
+    m_Localized: "J\xF3. M\xF3dos\xEDthatja a mozg\xE1si sebess\xE9get\r\nbe\xE1ll\xEDt\xE1sokr\xF3l
+      k\xE9s\u0151bb."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1486485241901056
+    m_Localized: "J\xF3.\r\nHa a PUT gombot lenyomva tartva mozgatja a joystickot,
+      a t\xE9gla tov\xE1bbra is felker\xFCl.\r\nA T\xF6rl\xE9s gomb ugyan\xFAgy m\u0171k\xF6dik."
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 1

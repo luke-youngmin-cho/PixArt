@@ -1,0 +1,178 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: Tutorial Language Table_lt
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: lt
+  m_SharedData: {fileID: 11400000, guid: 4956535b2779b0f4d8538f269b2c05b7, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 26051784704
+    m_Localized: "Paleisti pamok\u0105 ??"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 147413970944
+    m_Localized: Taip
+    m_Metadata:
+      m_Items: []
+  - m_Id: 194444701696
+    m_Localized: Ne
+    m_Metadata:
+      m_Items: []
+  - m_Id: 576801648640
+    m_Localized: "Dyd\u017Eio (skyros) nustatymas.\r\nSpustel\u0117kite raudon\u0105
+      kub\u0105 su skai\u010Diumi 5."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066268536832
+    m_Localized: "Fono nustatymas.\r\nPasirinkite ro\u017Ein\u012F - dang\u0173."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1303389319168
+    m_Localized: "Nustatymas baigtas.\r\nNor\u0117dami sukurti aplink\u0105, spustel\u0117kite
+      mygtuk\u0105 Gerai (\u017Ealias varnel\u0117)."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1808882642944
+    m_Localized: "Pradiniai aplinkos nustatymai buvo baigti.\r\nPirma, padarykime
+      kub\u0105.\r\nAtidarykite plyt\u0173 s\u0105ra\u0161\u0105."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2416754733056
+    m_Localized: "\u010Cia galite pasirinkti plytas.\r\nKol kas pasirinkite kub\u0105."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2654093619200
+    m_Localized: "Buvo pasirinktas kubas.\r\nU\u017Edarykite plyt\u0173 s\u0105ra\u0161\u0105."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3077634437120
+    m_Localized: "Pad\u0117kle galite pakeisti plyt\u0173 spalv\u0105.\r\nPad\u0117kle
+      pasirinkite spalv\u0105."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4821286301696
+    m_Localized: "Taip pat galite pakeisti pad\u0117kl\u0173 spalv\u0105.\r\nAtviras
+      spalv\u0173 rinkiklis."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5171468742656
+    m_Localized: "\u010Cia galite pakeisti spalv\u0105.\r\nKol kas tiesiog spustel\u0117kite
+      Gerai."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5773397504000
+    m_Localized: "Naudokime vairasvirt\u0119. Spustel\u0117kite raudon\u0105 vairasvirt\u0117s
+      dal\u012F\r\ntod\u0117l \u017Eymeklis gali jud\u0117ti raudona kryptimi."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5774936813568
+    m_Localized: "Pabandykite spustel\u0117ti kitas vairasvirt\u0117s kryptis.\r\nJei
+      ir toliau spausite, \u017Eymeklis nuolat juda."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6947211227136
+    m_Localized: "Ant t\u0173 3 ta\u0161k\u0173 u\u017Ed\u0117kite plytas.\r\nPerkelkite
+      \u017Eymekl\u012F vairasvirte,\r\nir paspauskite mygtuk\u0105 PUT."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7439479910400
+    m_Localized: "I\u0161trinkite visas plytas.\r\nPerkelkite \u017Eymekl\u012F vairasvirte,\r\nir
+      paspauskite DEL mygtuk\u0105."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7681705160704
+    m_Localized: "I\u0161saugokime j\u016Bs\u0173 duomenis.\r\nSpustel\u0117kite
+      mygtuk\u0105 I\u0161saugoti."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8048719343616
+    m_Localized: "\u012Eveskite failo pavadinim\u0105,\r\nspustel\u0117kite Gerai,
+      kad i\u0161saugotum\u0117te."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8486747287552
+    m_Localized: "Patikrinkime, ar failas s\u0117kmingai i\u0161saugotas.\r\nSpustel\u0117kite
+      mygtuk\u0105 Atidaryti."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8930898915328
+    m_Localized: "Gerai. failas s\u0117kmingai i\u0161saugotas.\r\nSpustel\u0117kite
+      mygtuk\u0105 X, kad u\u017Edarytum\u0117te atidaryt\u0105 failo lang\u0105."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9406793035776
+    m_Localized: "\u0160auniai padirb\u0117ta !\r\nPamoka baigta.\r\n\u017Daidimo
+      metu rekomenduoju periodi\u0161kai i\u0161saugoti fail\u0105!\r\nNor\u0117dami
+      sukurti nauj\u0105 \u017Eaidim\u0105, bakstel\u0117kite \u017Evaig\u017Ed\u0119."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 65556582412288
+    m_Localized: "Jei nei\u0161saugojote dabartinio dizaino,\r\nJ\u016Bs\u0173 dizaino
+      duomenys bus prarasti.\r\nT\u0119sti?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1405082433138688
+    m_Localized: 'Kitas '
+    m_Metadata:
+      m_Items: []
+  - m_Id: 83909850083328
+    m_Localized: Taip
+    m_Metadata:
+      m_Items: []
+  - m_Id: 84866541465600
+    m_Localized: Ne
+    m_Metadata:
+      m_Items: []
+  - m_Id: 93791768719360
+    m_Localized: "I\u0161saugota!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1405254382825472
+    m_Localized: "Naudokime vairasvirt\u0119.\r\nGalite perkelti \u017Eymekl\u012F\r\nvilkdami,
+      spustel\u0117dami ir paspausdami vairasvirt\u0119."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1485501937659904
+    m_Localized: "Pirma, vilkite vairasvirt\u0119.\r\nVilkite vairasvirt\u0117s centr\u0105\r\n\u012F
+      raudonas, m\u0117lynas, \u017Ealias rodykles"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1485706397396992
+    m_Localized: "Gerai. Galite pakeisti jud\u0117jimo greit\u012F\r\napie nustatymus
+      v\u0117liau. "
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1485907942092800
+    m_Localized: "Vairasvirt\u0117 antra. Spustel\u0117jus vairasvirt\u0119.\r\n\r\nSpustel\u0117kite
+      rodykles ir perkelkite \u017Eymekl\u012F. "
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1486258590101504
+    m_Localized: "Vairasvirt\u0117 tre\u010Dia, paspaudimas.\r\n\r\nPaspauskite rodykles,
+      kad \u017Eymeklis gal\u0117t\u0173 jud\u0117ti."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1486484042330112
+    m_Localized: "Gerai.\r\n\r\nDabar mes \u012Fd\u0117sime ir i\u0161trinsime plyt\u0105."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1486485241901056
+    m_Localized: "Gerai.\r\nJei judinsite vairasvirt\u0119, laikydami nuspaud\u0119
+      mygtuk\u0105 PUT, plyta ir toliau bus u\u017Ed\u0117ta.\r\nI\u0161trinti mygtukas
+      taip pat veikia."
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 1

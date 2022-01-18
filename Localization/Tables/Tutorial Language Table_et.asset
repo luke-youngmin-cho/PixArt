@@ -1,0 +1,192 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: Tutorial Language Table_et
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: et
+  m_SharedData: {fileID: 11400000, guid: 4956535b2779b0f4d8538f269b2c05b7, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 26051784704
+    m_Localized: "M\xE4ngi \xF5petust ??"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 147413970944
+    m_Localized: Jah
+    m_Metadata:
+      m_Items: []
+  - m_Id: 194444701696
+    m_Localized: Ei
+    m_Metadata:
+      m_Items: []
+  - m_Id: 576801648640
+    m_Localized: "Suuruse (eraldusv\xF5ime) s\xE4te.\r\nKl\xF5psake punast kuupi
+      numbriga 5. "
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066268536832
+    m_Localized: 'Taustaseade.
+
+      Valige roosa - taevas.'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1303389319168
+    m_Localized: "Seadistamine on l\xF5ppenud.\r\nKeskkonna loomiseks kl\xF5psake
+      nuppu OK (roheline m\xE4rk)."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1808882642944
+    m_Localized: "Keskkonna esialgsed seaded on l\xF5petatud.\r\nEsiteks teeme kuubiku.\r\nAvage
+      telliste loend. "
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2416754733056
+    m_Localized: 'Siin saate valida telliseid.
+
+      Praegu valige kuubik.'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2654093619200
+    m_Localized: 'Kuubik on valitud.
+
+      Sulgege telliste nimekiri. '
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3077634437120
+    m_Localized: "Kaubaalusel saate tellise v\xE4rvi muuta.\r\nValige kaubaalusel
+      v\xE4rv."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4821286301696
+    m_Localized: "Samuti saate muuta kaubaaluse v\xE4rvi.\r\nAvatud v\xE4rvivalija."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5171468742656
+    m_Localized: "Siin saate v\xE4rvi muuta.\r\nPraegu kl\xF5psame lihtsalt OK. "
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5773397504000
+    m_Localized: "Kasutame juhtkangi. Kl\xF5psake juhtkangi punast osa\r\nnii et
+      kursor saab liikuda punases suunas. "
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5774936813568
+    m_Localized: "Proovige kl\xF5psata juhtnupu teistel suundadel.\r\nKui j\xE4tkate
+      vajutamist, liigub kursor pidevalt. "
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6947211227136
+    m_Localized: 'Pange tellised neile 3 punktile.
+
+      Liigutage kursorit juhtkangiga,
+
+      ja
+      vajutage nuppu PUT.'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7439479910400
+    m_Localized: "Kustuta k\xF5ik tellised.\r\nLiigutage kursorit juhtkangiga,\r\nja
+      vajutage DEL nuppu."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7681705160704
+    m_Localized: "Salvestame teie andmed.\r\nKl\xF5psake nuppu Salvesta."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8048719343616
+    m_Localized: "Sisestage faili nimi,\r\nsalvestamiseks kl\xF5psake nuppu OK. "
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8486747287552
+    m_Localized: "Kontrollime, kas faili salvestamine \xF5nnestus.\r\nKl\xF5psake
+      nuppu Ava."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8930898915328
+    m_Localized: "Hea. faili salvestamine \xF5nnestus.\r\nKl\xF5psake nuppu X, et
+      sulgeda avatud faili aken."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9406793035776
+    m_Localized: "H\xE4sti tehtud !\r\n\xD5petus on l\xF5ppenud.\r\nM\xE4ngu ajal
+      soovitan faili perioodiliselt salvestada!\r\nUue m\xE4ngu tegemiseks puudutage
+      t\xE4hte. "
+    m_Metadata:
+      m_Items: []
+  - m_Id: 65556582412288
+    m_Localized: "Kui te ei salvestanud praegust kujundust,\r\nTeie disainiandmed
+      l\xE4hevad kaduma.\r\nKas j\xE4tkata?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1405082433138688
+    m_Localized: 'Edasi '
+    m_Metadata:
+      m_Items: []
+  - m_Id: 83909850083328
+    m_Localized: Jah
+    m_Metadata:
+      m_Items: []
+  - m_Id: 84866541465600
+    m_Localized: Ei
+    m_Metadata:
+      m_Items: []
+  - m_Id: 93791768719360
+    m_Localized: Salvestatud!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1405254382825472
+    m_Localized: "Kasutame juhtkangi.\r\nSaate kursorit liigutada\r\nlohistades,
+      kl\xF5psates ja juhtnuppu vajutades."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1485501937659904
+    m_Localized: 'Esiteks juhtkangi lohistamine.
+
+      Lohistage juhtkangi keskele
+
+      punastele,
+      sinistele, rohelistele nooltele'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1485706397396992
+    m_Localized: 'Hea. Saate muuta liikumiskiirust
+
+      seadete kohta hiljem.'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1485907942092800
+    m_Localized: "Juhtkang teine. Juhtkangi kl\xF5psamine.\r\n\r\nKl\xF5psake nooli
+      ja liigutage kursorit."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1486258590101504
+    m_Localized: 'Juhtkang kolmas, juhtkangi vajutamine.
+
+      
+
+      Vajutage
+      nooli, et kursor saaks edasi liikuda.'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1486484042330112
+    m_Localized: "Hea.\r\n\r\nN\xFC\xFCd paneme ja kustutame tellise."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1486485241901056
+    m_Localized: "Hea.\r\nKui liigutate juhtnuppu, hoides samal ajal all nuppu PUT,
+      j\xE4tkub tellise paigaldamine.\r\nKustutusnupp t\xF6\xF6tab samuti."
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 1

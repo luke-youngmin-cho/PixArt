@@ -1,0 +1,251 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: Tutorial Language Table_id
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: id
+  m_SharedData: {fileID: 11400000, guid: 4956535b2779b0f4d8538f269b2c05b7, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 26051784704
+    m_Localized: Mainkan tutorial ??
+    m_Metadata:
+      m_Items: []
+  - m_Id: 147413970944
+    m_Localized: Ya
+    m_Metadata:
+      m_Items: []
+  - m_Id: 194444701696
+    m_Localized: Tidak
+    m_Metadata:
+      m_Items: []
+  - m_Id: 576801648640
+    m_Localized: 'Pengaturan Ukuran ( Resolusi).
+
+      Klik kubus merah dengan
+      angka 5.'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066268536832
+    m_Localized: 'Pengaturan latar belakang.
+
+      Pilih merah muda - langit.'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1303389319168
+    m_Localized: 'Pengaturan selesai.
+
+      Klik OK ( centang hijau ) Tombol untuk
+      membuat lingkungan.'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1808882642944
+    m_Localized: 'Pengaturan lingkungan awal telah selesai.
+
+      Pertama, mari
+      kita membuat kubus.
+
+      Buka daftar bata.'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2416754733056
+    m_Localized: 'Di sini Anda dapat memilih batu bata.
+
+      Untuk saat ini, Pilih
+      kubus.'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2654093619200
+    m_Localized: 'Kubus dipilih.
+
+      Tutup daftar bata.'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3077634437120
+    m_Localized: 'Anda dapat mengubah warna bata di palet.
+
+      Pilih warna di
+      palet.'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4821286301696
+    m_Localized: 'Anda juga dapat mengubah warna palet.
+
+      Buka pemilih warna.'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5171468742656
+    m_Localized: 'Anda dapat mengubah warna di sini.
+
+      Untuk saat ini, mari
+      kita klik saja OK.'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5773397504000
+    m_Localized: 'Mari gunakan joystick. Klik bagian merah joystick
+
+      jadi
+      kursor bisa bergerak ke arah merah.'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5774936813568
+    m_Localized: 'Coba klik arah lain dari joystick.
+
+      Jika Anda terus menekan,
+      Kursor bergerak terus menerus.'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6947211227136
+    m_Localized: 'Letakkan batu bata di 3 titik itu.
+
+      Pindahkan kursor dengan
+      joystick,
+
+      dan tekan tombol PUT.'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7439479910400
+    m_Localized: 'Hapus semua batu bata.
+
+      Pindahkan kursor dengan joystick,
+
+      dan
+      tekan tombol DEL.'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7681705160704
+    m_Localized: 'Ayo simpan datamu.
+
+      Klik tombol simpan.'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8048719343616
+    m_Localized: 'Masukkan nama file,
+
+      klik OK untuk menyimpan.'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8486747287552
+    m_Localized: 'Mari kita periksa file berhasil disimpan.
+
+      Klik tombol Buka.'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8930898915328
+    m_Localized: 'Bagus. file berhasil disimpan.
+
+      Klik tombol X jadi tutup
+      jendela file yang terbuka.'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9406793035776
+    m_Localized: 'Sudah selesai dilakukan dengan baik !
+
+      Tutorialnya selesai.
+
+      Saya
+      sarankan Anda untuk menyimpan file secara berkala selama permainan!
+
+      Ketuk
+      bintang untuk membuat game baru. '
+    m_Metadata:
+      m_Items: []
+  - m_Id: 65556582412288
+    m_Localized: 'Jika Anda tidak menyimpan desain saat ini,
+
+      Data desain
+      Anda akan hilang.
+
+      Melanjutkan?'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1405082433138688
+    m_Localized: 'Lanjut '
+    m_Metadata:
+      m_Items: []
+  - m_Id: 83909850083328
+    m_Localized: Ya
+    m_Metadata:
+      m_Items: []
+  - m_Id: 84866541465600
+    m_Localized: Tidak
+    m_Metadata:
+      m_Items: []
+  - m_Id: 93791768719360
+    m_Localized: Diselamatkan !
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1405254382825472
+    m_Localized: 'Mari gunakan joystick.
+
+      Anda dapat memindahkan kursor
+
+      dengan
+      menyeret, mengklik, dan menekan joystick.'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1485501937659904
+    m_Localized: 'Pertama, Menyeret joystick.
+
+      Tarik pusat joystick
+
+      untuk
+      panah merah, biru, hijau'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1485706397396992
+    m_Localized: 'Bagus. Anda dapat mengubah kecepatan bergerak
+
+      pada pengaturan
+      nanti. '
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1485907942092800
+    m_Localized: 'Joystik kedua. Mengklik joystick.
+
+      
+
+      Klik panah dan
+      pindahkan kursor'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1486258590101504
+    m_Localized: 'Joystick ketiga, Menekan joystick.
+
+      
+
+      Terus tekan
+      panah agar kursor dapat terus bergerak. '
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1486484042330112
+    m_Localized: 'Bagus.
+
+      
+
+      Sekarang, kita akan meletakkan dan menghapus
+      batu bata.'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1486485241901056
+    m_Localized: 'Bagus.
+
+      Jika Anda menggerakkan joystick sambil menahan tombol
+      PUT, bata akan terus diletakkan.
+
+      Tombol hapus berfungsi juga sama.'
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 1

@@ -1,0 +1,265 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: String Localization Table_lt
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: lt
+  m_SharedData: {fileID: 11400000, guid: 56840442ea7aa6d4db02e6d44aebac4c, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 300778696704
+    m_Localized: Vaikai
+    m_Metadata:
+      m_Items: []
+  - m_Id: 542064422912
+    m_Localized: Pro
+    m_Metadata:
+      m_Items: []
+  - m_Id: 748117995520
+    m_Localized: Nustatymai
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1022060572672
+    m_Localized: 'Mastelis
+
+      Greitis'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1144349700096
+    m_Localized: "Vairasvirt\u0117\r\nGreitis"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1266173259776
+    m_Localized: "Vairasvirt\u0117\r\nSpaud\u017Eiant\r\nDelsimas"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1508775997440
+    m_Localized: 'Ekranas
+
+      Orientacija'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1667199053824
+    m_Localized: BGM
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1766574698496
+    m_Localized: "SFX \nt\u016Bris"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1869347729408
+    m_Localized: "BGM \nt\u016Bris"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3232853045248
+    m_Localized: Rotacinis
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3318483955712
+    m_Localized: Vertikalus taisymas
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3393197092864
+    m_Localized: Horizontalus nustatymas
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4991612792832
+    m_Localized: "\u017DAIDIMAS"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5070209855488
+    m_Localized: UI
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5188384370688
+    m_Localized: Garsas
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5254658568192
+    m_Localized: 'Privatumas
+
+      Politika'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 604538726690816
+    m_Localized: "I\u0161saugoti"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 604609065168896
+    m_Localized: "I\u0161saugoti kaip"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 604701780258816
+    m_Localized: Atviras
+    m_Metadata:
+      m_Items: []
+  - m_Id: 628043971211264
+    m_Localized: Praktika
+    m_Metadata:
+      m_Items: []
+  - m_Id: 739465912823808
+    m_Localized: Atviras
+    m_Metadata:
+      m_Items: []
+  - m_Id: 740057326465024
+    m_Localized: "Dvigubas patikrinimas!\r\nAr tikrai nori\r\nI\u0161trinti\u0160is
+      darbas?\r\n\u0160i operacija\r\nnegaliub\u016Bti atvirk\u0161\u010Diai "
+    m_Metadata:
+      m_Items: []
+  - m_Id: 740613503758336
+    m_Localized: Taip
+    m_Metadata:
+      m_Items: []
+  - m_Id: 740682126766080
+    m_Localized: Ne
+    m_Metadata:
+      m_Items: []
+  - m_Id: 772222646923264
+    m_Localized: Ne
+    m_Metadata:
+      m_Items: []
+  - m_Id: 772105671979008
+    m_Localized: Taip
+    m_Metadata:
+      m_Items: []
+  - m_Id: 771909961560064
+    m_Localized: "Jei nei\u0161saugojote dabartinio dizaino,\r\nJ\u016Bs\u0173 dizaino
+      duomenys bus prarasti.\r\nT\u0119sti?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 772749363425280
+    m_Localized: "I\u0161saugota!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 772978972209152
+    m_Localized: "Paruo\u0161ta ..."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 774739250294784
+    m_Localized: Failas ir nustatymai
+    m_Metadata:
+      m_Items: []
+  - m_Id: 816525234581504
+    m_Localized: Gerai
+    m_Metadata:
+      m_Items: []
+  - m_Id: 812325566066688
+    m_Localized: '  Diapazonas: 1 ~ 100'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 808425907728384
+    m_Localized: "-\u012Esp\u0117jimas-\r\nPer didel\u0117 rai\u0161ka, palyginti
+      su j\u016Bs\u0173 \u012Frenginiu, gali ne\u012Fprastai i\u0161jungti program\u0105.
+      Nekurkite per didel\u0117s rai\u0161kos aplinkos \u017Eemo na\u0161umo \u012Frenginyje\r\nir
+      periodi\u0161kai i\u0161saugokite savo dizain\u0105."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 811829358931968
+    m_Localized: "\u012Eveskite rezoliucij\u0105"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 775047535833088
+    m_Localized: Fonas
+    m_Metadata:
+      m_Items: []
+  - m_Id: 775271243231232
+    m_Localized: "\u012Erankiai"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 775363564056576
+    m_Localized: Tinklelis
+    m_Metadata:
+      m_Items: []
+  - m_Id: 799231297105920
+    m_Localized: "Pagrindinis pad\u0117klas (tik kairysis pad\u0117klas)\r\nbus atstatytas.
+      T\u0119sti? "
+    m_Metadata:
+      m_Items: []
+  - m_Id: 816995000823808
+    m_Localized: FIX
+    m_Metadata:
+      m_Items: []
+  - m_Id: 817990556626944
+    m_Localized: "\u012Eveskite failo pavadinim\u0105 ..."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1050329006125056
+    m_Localized: Kalba
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1150599392309248
+    m_Localized: "Pamoka \u012Fjungta/i\u0161jungta"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2181186072784896
+    m_Localized: "\u012Fd\u0117ti"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2181227797721088
+    m_Localized: "I\u0161trinti"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2189169536184320
+    m_Localized: "Vairasvirt\u0117s\ntempimo \ntikslumas"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2306261442801664
+    m_Localized: "Dydis (rai\u0161ka)"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2306288047271936
+    m_Localized: Fonas
+    m_Metadata:
+      m_Items: []
+  - m_Id: 31858360048332800
+    m_Localized: "Pra\u0161au\r\nPalauk ..."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40012999914598400
+    m_Localized: "Paleisti reklam\u0105 norint \u017Eaisti profesional\u0105?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 41360004763004928
+    m_Localized: Priemoka
+    m_Metadata:
+      m_Items: []
+  - m_Id: 41360795896819712
+    m_Localized: "Pa\u0161alinti skelbimus"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 41361643397885952
+    m_Localized: "<b>Visam laikui</b>pa\u0161alinti visus skelbimus."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 41362973445238784
+    m_Localized: 'Kasmet
+
+      Prenumerata'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 41363339981271040
+    m_Localized: "M\u0117nesio\r\nPrenumerata"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 41363650020028416
+    m_Localized: "\u25CF<b> Visam laikui</b>pa\u0161alinkite visus skelbimus.\r\n\u25CF
+      \u012Ejunkite visas plytas.\r\n\u25CF \u012Ejunkite visas med\u017Eiagas."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 41364031609417728
+    m_Localized: "Patikrinkite interneto ry\u0161\u012F."
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 1

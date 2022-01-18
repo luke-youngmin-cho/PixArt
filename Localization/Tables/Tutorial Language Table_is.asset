@@ -1,0 +1,181 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: Tutorial Language Table_is
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: is
+  m_SharedData: {fileID: 11400000, guid: 4956535b2779b0f4d8538f269b2c05b7, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 26051784704
+    m_Localized: Spila kennslu ??
+    m_Metadata:
+      m_Items: []
+  - m_Id: 147413970944
+    m_Localized: "J\xE1"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 194444701696
+    m_Localized: Nei
+    m_Metadata:
+      m_Items: []
+  - m_Id: 576801648640
+    m_Localized: "St\xE6r\xF0 (upplausn).\r\nSmelltu \xE1 rau\xF0a teninginn me\xF0
+      n\xFAmer 5."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066268536832
+    m_Localized: 'Bakgrunnsstilling.
+
+      Veldu bleikt - himinn.'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1303389319168
+    m_Localized: "Stillingu loki\xF0.\r\nSmelltu \xE1 OK (gr\xE6nn hak) Hnappur til
+      a\xF0 b\xFAa til umhverfi."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1808882642944
+    m_Localized: "Upphaflegum umhverfisstillingum var loki\xF0.\r\nFyrst skulum vi\xF0
+      b\xFAa til tening.\r\nOpna\xF0u m\xFArlistalistann. "
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2416754733056
+    m_Localized: "H\xE9r getur \xFE\xFA vali\xF0 m\xFArsteina.\r\n\xCD bili, veldu
+      tening."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2654093619200
+    m_Localized: "Teningur var valinn.\r\nLoka m\xFArlistalistanum."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3077634437120
+    m_Localized: "\xDE\xFA getur breytt lit m\xFArsteins \xED brettinu.\r\nVeldu
+      lit \xE1 bretti."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4821286301696
+    m_Localized: "\xDE\xFA getur l\xEDka breytt lit bretti.\r\nOpinn litaval."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5171468742656
+    m_Localized: "\xDE\xFA getur breytt um lit h\xE9r.\r\n\xCD bili skulum vi\xF0
+      bara smella \xE1 OK."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5773397504000
+    m_Localized: "Notum st\xFDripinnann. Smelltu \xE1 rau\xF0a hluta st\xFDripinnans\r\nsvo
+      bendill getur fari\xF0 \xED rau\xF0a \xE1tt."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5774936813568
+    m_Localized: "Reyndu a\xF0 smella \xE1 a\xF0rar \xE1ttir st\xFDripinna.\r\nEf
+      \xFE\xFA heldur \xE1fram a\xF0 \xFDta, hreyfist bendillinn st\xF6\xF0ugt."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6947211227136
+    m_Localized: "Settu m\xFArsteina \xE1 \xFEessi 3 stig.\r\nF\xE6r\xF0u bendilinn
+      me\xF0 st\xFDripinnanum,\r\nog \xFDttu \xE1 PUT hnappinn."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7439479910400
+    m_Localized: "Ey\xF0a \xF6llum m\xFArsteinum.\r\nF\xE6r\xF0u bendilinn me\xF0
+      st\xFDripinnanum,\r\nog \xFDttu \xE1 DEL hnappinn."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7681705160704
+    m_Localized: "Vi\xF0 skulum vista g\xF6gnin \xFE\xEDn.\r\nSmelltu \xE1 Vista
+      hnappinn."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8048719343616
+    m_Localized: "Sl\xE1\xF0u inn skr\xE1arnafni\xF0,\r\nsmelltu \xE1 OK til a\xF0
+      vista."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8486747287552
+    m_Localized: "Vi\xF0 skulum athuga a\xF0 skr\xE1in var vistu\xF0 me\xF0 g\xF3\xF0um
+      \xE1rangri.\r\nSmelltu \xE1 Opna hnappinn."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8930898915328
+    m_Localized: "G\xF3\xF0ur. skr\xE1in var vistu\xF0.\r\nSmelltu \xE1 X hnappinn
+      svo loka\xF0u opna skr\xE1arglugganum."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9406793035776
+    m_Localized: "Vel gert!\r\nKennsla er loki\xF0.\r\n\xC9g m\xE6li me\xF0 a\xF0
+      \xFE\xFA vistir skr\xE1 reglulega me\xF0an \xE1 leik stendur!\r\nBanka\xF0u
+      \xE1 stj\xF6rnuna til a\xF0 b\xFAa til n\xFDjan leik."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 65556582412288
+    m_Localized: "Ef \xFE\xFA vista\xF0ir ekki n\xFAverandi h\xF6nnun,\r\nH\xF6nnunarg\xF6gn
+      \xFE\xEDn munu glatast.\r\nHalda \xE1fram?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1405082433138688
+    m_Localized: "N\xE6st "
+    m_Metadata:
+      m_Items: []
+  - m_Id: 83909850083328
+    m_Localized: "J\xE1"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 84866541465600
+    m_Localized: Nei
+    m_Metadata:
+      m_Items: []
+  - m_Id: 93791768719360
+    m_Localized: "Vista\xF0!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1405254382825472
+    m_Localized: "Notum st\xFDripinnann.\r\n\xDE\xFA getur f\xE6rt bendilinn\r\nme\xF0
+      \xFEv\xED a\xF0 draga, smella og \xFDta \xE1 st\xFDripinnann."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1485501937659904
+    m_Localized: "\xCD fyrsta lagi a\xF0 draga st\xFDripinnann.\r\nDrag\xF0u mi\xF0punktinn
+      \xE1 st\xFDripinnanum\r\n\xED rau\xF0ar, bl\xE1ar, gr\xE6nar \xF6rvar"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1485706397396992
+    m_Localized: "G\xF3\xF0ur. \xDE\xFA getur breytt hreyfihra\xF0a\r\num stillingar
+      s\xED\xF0ar."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1485907942092800
+    m_Localized: "St\xFDripinna \xED \xF6\xF0ru lagi. Smelltu \xE1 st\xFDripinnann.\r\n\r\nSmelltu
+      \xE1 \xF6rvarnar og f\xE6r\xF0u bendilinn."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1486258590101504
+    m_Localized: "St\xFDripinna \xED \xFEri\xF0ja lagi, \xFDta \xE1 st\xFDripinna.\r\n\r\nHaltu
+      \xE1fram a\xF0 \xFDta \xE1 \xF6rvarnar svo bendillinn geti haldi\xF0 \xE1fram."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1486484042330112
+    m_Localized: "G\xF3\xF0ur.\r\n\r\nN\xFA \xE6tlum vi\xF0 a\xF0 setja og ey\xF0a
+      m\xFArsteinum."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1486485241901056
+    m_Localized: "G\xF3\xF0ur.\r\nEf \xFE\xFA f\xE6rir st\xFDripinnann me\xF0an \xFE\xFA
+      heldur ni\xF0ri PUT hnappinum ver\xF0ur m\xFArsteinninn \xE1fram settur.\r\nEy\xF0a
+      hnappinn virkar l\xEDka eins."
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 1

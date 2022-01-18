@@ -1,0 +1,197 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: Tutorial Language Table_pt
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: pt
+  m_SharedData: {fileID: 11400000, guid: 4956535b2779b0f4d8538f269b2c05b7, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 26051784704
+    m_Localized: Tocar tutorial ??
+    m_Metadata:
+      m_Items: []
+  - m_Id: 147413970944
+    m_Localized: Sim
+    m_Metadata:
+      m_Items: []
+  - m_Id: 194444701696
+    m_Localized: "N\xE3o"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 576801648640
+    m_Localized: "Configura\xE7\xE3o de tamanho (resolu\xE7\xE3o).\r\nClique no cubo
+      vermelho com o n\xFAmero 5."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066268536832
+    m_Localized: "Configura\xE7\xE3o de fundo.\r\nSelecione rosa - c\xE9u."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1303389319168
+    m_Localized: "Configura\xE7\xE3o conclu\xEDda.\r\nClique no bot\xE3o OK (verifica\xE7\xE3o
+      verde) para criar o ambiente."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1808882642944
+    m_Localized: "As configura\xE7\xF5es iniciais do ambiente foram conclu\xEDdas.\r\nPrimeiro,
+      vamos fazer um cubo.\r\nAbra a lista de tijolos."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2416754733056
+    m_Localized: "Aqui voc\xEA pode selecionar tijolos.\r\nPor enquanto, selecione
+      cubo."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2654093619200
+    m_Localized: 'O cubo foi selecionado.
+
+      Feche a lista de tijolos.'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3077634437120
+    m_Localized: "Voc\xEA pode mudar a cor do tijolo na palete.\r\nEscolha a cor
+      na palete."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4821286301696
+    m_Localized: "Voc\xEA tamb\xE9m pode alterar a cor da palete.\r\nAbrir o seletor
+      de cores."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5171468742656
+    m_Localized: "Voc\xEA pode mudar de cor aqui.\r\nPor enquanto, vamos apenas clicar
+      em OK."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5773397504000
+    m_Localized: "Vamos usar o joystick. Clique na parte vermelha do joystick\r\nent\xE3o
+      o cursor pode se mover na dire\xE7\xE3o vermelha. "
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5774936813568
+    m_Localized: "Tente clicar em outras dire\xE7\xF5es do joystick.\r\nSe voc\xEA
+      continuar pressionando, o Cursor se mover\xE1 continuamente. "
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6947211227136
+    m_Localized: "Coloque tijolos nesses 3 pontos.\r\nMova o cursor com o joystick,\r\ne
+      pressione o bot\xE3o PUT. "
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7439479910400
+    m_Localized: "Exclua todos os tijolos.\r\nMova o cursor com o joystick,\r\ne
+      pressione o bot\xE3o DEL. "
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7681705160704
+    m_Localized: "Vamos salvar seus dados.\r\nClique no bot\xE3o Salvar."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8048719343616
+    m_Localized: 'Digite o nome do arquivo,
+
+      clique em OK para salvar.'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8486747287552
+    m_Localized: "Vamos verificar se o arquivo foi salvo com sucesso.\r\nClique no
+      bot\xE3o Abrir. "
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8930898915328
+    m_Localized: "Boa. o arquivo foi salvo com sucesso.\r\nClique no bot\xE3o X para
+      fechar a janela do arquivo aberto."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9406793035776
+    m_Localized: "Bem feito !\r\nO tutorial foi conclu\xEDdo.\r\nEu recomendo que
+      voc\xEA salve o arquivo periodicamente durante o jogo!\r\nToque na estrela
+      para fazer um novo jogo."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 65556582412288
+    m_Localized: "Se voc\xEA n\xE3o salvou o design atual,\r\nSeus dados de projeto
+      ser\xE3o perdidos.\r\nProsseguir?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1405082433138688
+    m_Localized: "Pr\xF3ximo "
+    m_Metadata:
+      m_Items: []
+  - m_Id: 83909850083328
+    m_Localized: Sim
+    m_Metadata:
+      m_Items: []
+  - m_Id: 84866541465600
+    m_Localized: "N\xE3o"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 93791768719360
+    m_Localized: Salvou !
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1405254382825472
+    m_Localized: "Vamos usar o joystick.\r\nVoc\xEA pode mover o cursor\r\narrastando,
+      clicando e pressionando o joystick."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1485501937659904
+    m_Localized: 'Primeiro, arrastando o joystick.
+
+      Arraste o centro do joystick
+
+      para
+      setas vermelhas, azuis e verdes'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1485706397396992
+    m_Localized: "Boa. Voc\xEA pode alterar a velocidade de movimento\r\nnas configura\xE7\xF5es
+      mais tarde."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1485907942092800
+    m_Localized: 'Joystick em segundo lugar. Clicking joystick.
+
+      
+
+      Clique
+      nas setas e mova o cursor. '
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1486258590101504
+    m_Localized: 'Terceiro joystick, apertando o joystick.
+
+      
+
+      Continue
+      pressionando as setas para que o cursor continue se movendo.'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1486484042330112
+    m_Localized: 'Boa.
+
+      
+
+      Agora, vamos colocar e deletar o tijolo. '
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1486485241901056
+    m_Localized: "Boa.\r\nSe voc\xEA mover o joystick enquanto mant\xE9m pressionado
+      o bot\xE3o PUT, o tijolo continuar\xE1 a ser colocado.\r\nO bot\xE3o Excluir
+      tamb\xE9m funciona da mesma forma."
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 1

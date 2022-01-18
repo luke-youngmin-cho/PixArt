@@ -1,0 +1,173 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: Tutorial Language Table_sv
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: sv
+  m_SharedData: {fileID: 11400000, guid: 4956535b2779b0f4d8538f269b2c05b7, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 26051784704
+    m_Localized: Spela handledning ??
+    m_Metadata:
+      m_Items: []
+  - m_Id: 147413970944
+    m_Localized: Ja
+    m_Metadata:
+      m_Items: []
+  - m_Id: 194444701696
+    m_Localized: Nej
+    m_Metadata:
+      m_Items: []
+  - m_Id: 576801648640
+    m_Localized: "Inst\xE4llning av storlek (uppl\xF6sning).\r\nKlicka p\xE5 den
+      r\xF6da kuben med nummer 5."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066268536832
+    m_Localized: "Bakgrundsinst\xE4llning.\r\nV\xE4lj rosa - sky. "
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1303389319168
+    m_Localized: "Inst\xE4llningen klar.\r\nKlicka p\xE5 OK (gr\xF6n markering) f\xF6r
+      att skapa milj\xF6."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1808882642944
+    m_Localized: "De ursprungliga milj\xF6inst\xE4llningarna var klara.\r\nF\xF6rst,
+      l\xE5t oss g\xF6ra en kub.\r\n\xD6ppna tegellistan."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2416754733056
+    m_Localized: "H\xE4r kan du v\xE4lja tegel.\r\nV\xE4lj nu kub."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2654093619200
+    m_Localized: "Kub valdes.\r\nSt\xE4ng tegellistan."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3077634437120
+    m_Localized: "Du kan \xE4ndra f\xE4rg p\xE5 tegel i pallen.\r\nV\xE4lj f\xE4rg
+      i pallen."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4821286301696
+    m_Localized: "Du kan ocks\xE5 \xE4ndra pallens f\xE4rg.\r\n\xD6ppna f\xE4rgv\xE4ljaren."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5171468742656
+    m_Localized: "Du kan \xE4ndra f\xE4rg h\xE4r.\r\nF\xF6r tillf\xE4llet, l\xE5t
+      oss bara klicka p\xE5 OK."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5773397504000
+    m_Localized: "L\xE5t oss anv\xE4nda joysticken. Klicka p\xE5 den r\xF6da delen
+      av joysticken\r\ns\xE5 att mark\xF6ren kan r\xF6ra sig i den r\xF6da riktningen."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5774936813568
+    m_Localized: "F\xF6rs\xF6k att klicka p\xE5 andra joystickriktningar.\r\nOm du
+      forts\xE4tter att trycka, flyttar mark\xF6ren kontinuerligt."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6947211227136
+    m_Localized: "S\xE4tt tegel p\xE5 de tre punkterna.\r\nFlytta mark\xF6ren med
+      joysticken,\r\noch tryck p\xE5 PUT -knappen."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7439479910400
+    m_Localized: "Ta bort alla tegelstenar.\r\nFlytta mark\xF6ren med joysticken,\r\noch
+      tryck p\xE5 DEL -knappen."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7681705160704
+    m_Localized: "L\xE5t oss spara dina data.\r\nKlicka p\xE5 knappen Spara. "
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8048719343616
+    m_Localized: "Ange filnamnet,\r\nklicka p\xE5 OK f\xF6r att spara."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8486747287552
+    m_Localized: "L\xE5t oss kontrollera att filen har sparats.\r\nKlicka p\xE5 knappen
+      \xD6ppna. "
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8930898915328
+    m_Localized: "Bra. filen sparades.\r\nKlicka p\xE5 X -knappen s\xE5 st\xE4ng
+      det \xF6ppna filf\xF6nstret."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9406793035776
+    m_Localized: "Bra gjort !\r\nHandledningen \xE4r klar.\r\nJag rekommenderar dig
+      att spara filen regelbundet under spelet!\r\nKnacka p\xE5 stj\xE4rnan f\xF6r
+      att skapa ett nytt spel."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 65556582412288
+    m_Localized: "Om du inte sparade aktuell design,\r\nDina designdata g\xE5r f\xF6rlorade.\r\nForts\xE4tta? "
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1405082433138688
+    m_Localized: "N\xE4sta"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 83909850083328
+    m_Localized: Ja
+    m_Metadata:
+      m_Items: []
+  - m_Id: 84866541465600
+    m_Localized: Nej
+    m_Metadata:
+      m_Items: []
+  - m_Id: 93791768719360
+    m_Localized: Sparad!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1405254382825472
+    m_Localized: "L\xE5t oss anv\xE4nda joysticken.\r\nDu kan flytta mark\xF6ren\r\ngenom
+      att dra, klicka och trycka p\xE5 joysticken."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1485501937659904
+    m_Localized: "F\xF6rst, Dra joystick.\r\nDra mitten av joysticken\r\ntill r\xF6da,
+      bl\xE5, gr\xF6na pilar"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1485706397396992
+    m_Localized: "Bra. Du kan \xE4ndra r\xF6relsehastighet\r\nom inst\xE4llningar
+      senare."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1485907942092800
+    m_Localized: "Joystick tv\xE5a. Klicka p\xE5 joysticken.\r\n\r\nKlicka p\xE5
+      pilarna och flytta mark\xF6ren."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1486258590101504
+    m_Localized: "Joystick tredje, Tryck p\xE5 joystick.\r\n\r\nH\xE5ll ned pilarna
+      s\xE5 att mark\xF6ren kan forts\xE4tta att r\xF6ra sig."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1486484042330112
+    m_Localized: "Bra.\r\n\r\nNu ska vi l\xE4gga och ta bort tegelstenen."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1486485241901056
+    m_Localized: "Bra.\r\nOm du flyttar joysticken medan du h\xE5ller ned PUT -knappen
+      forts\xE4tter teglet att l\xE4ggas.\r\nRaderingsknappen fungerar likadant."
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 1
